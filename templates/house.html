@@ -1,0 +1,284 @@
+<!DOCTYPE html>
+<html lang="tr">
+
+<head>
+    <meta charset="utf-8">
+    <title>Tahmin</title>
+    <meta content="width=device-width, initial-scale=1.0" name="viewport">
+    <meta content="" name="keywords">
+    <meta content="" name="description">
+
+    <!-- JavaScript Libraries -->
+    <script src="/static/lib/jquery/jquery.min.js"></script>
+    <script src="/static/lib/jquery/jquery-migrate.min.js"></script>
+    <script src="/static/lib/bootstrap/js/bootstrap.bundle.min.js"></script>
+    <script src="/static/lib/superfish/hoverIntent.js"></script>
+    <script src="/static/lib/superfish/superfish.min.js"></script>
+    <script src="/static/lib/easing/easing.min.js"></script>
+    <script src="/static/lib/modal-video/js/modal-video.js"></script>
+    <script src="/static/lib/owlcarousel/owl.carousel.min.js"></script>
+    <script src="/static/lib/wow/wow.min.js"></script>
+
+    <!-- Template Main Javascript File -->
+    <script src="/static/js/main.js"></script>
+
+
+    <!-- Favicons -->
+
+
+
+    <!-- Google Fonts -->
+    <link
+        href="https://fonts.googleapis.com/css?family=Open+Sans:300,300i,400,400i,700,700i|Roboto:100,300,400,500,700|Philosopher:400,400i,700,700i"
+        rel="stylesheet">
+
+    <!-- Bootstrap css -->
+    <!-- <link rel="stylesheet" href="css/bootstrap.css"> -->
+    <link href="/static/lib/bootstrap/css/bootstrap.min.css" rel="stylesheet">
+
+    <!-- Libraries CSS Files -->
+    <link href="/static/lib/owlcarousel/assets/owl.carousel.min.css" rel="stylesheet">
+    <link href="/static/lib/owlcarousel/assets/owl.theme.default.min.css" rel="stylesheet">
+    <link href="/static/lib/font-awesome/css/font-awesome.min.css" rel="stylesheet">
+    <link href="/static/lib/animate/animate.min.css" rel="stylesheet">
+    <link href="/static/lib/modal-video/css/modal-video.min.css" rel="stylesheet">
+
+    <!-- Main Stylesheet File -->
+    <link href="/static/css/style.css" rel="stylesheet">
+
+    <!-- =======================================================
+    Theme Name: eStartup
+    Theme URL: https://bootstrapmade.com/estartup-bootstrap-landing-page-template/
+    Author: BootstrapMade.com
+    License: https://bootstrapmade.com/license/
+  ======================================================= -->
+</head>
+
+<body>
+
+    <header id="header" class="header header-hide">
+        <div class="container">
+
+            <div id="logo" class="pull-left">
+                <h1><a href="http://127.0.0.1:5501/templates/layout.html" class="scrollto"><span>T</span>ahmin</a></h1>
+                <!-- Uncomment below if you prefer to use an image logo -->
+                <!-- <a href="#body"><img src="img/logo.png" alt="" title="" /></a>-->
+            </div>
+
+            <nav id="nav-menu-container">
+                <ul class="nav-menu">
+                    <li class="menu-active"><a href="http://127.0.0.1:5501/templates/layout.html">Anasayfa</a></li>
+                    
+            
+
+                </ul>
+            </nav><!-- #nav-menu-container -->
+        </div>
+    </header><!-- #header -->
+
+
+    <!--==========================
+    index
+  ============================-->
+
+    <div id="fh5co-search-map">
+        <div class="search-property">
+            <div class="s-holder">
+                <h2>Özellikleri Giriniz</h2>
+                <form action="/house" method="POST">
+                    <div class="row">
+                        <div class="left">
+                            <div class="col-xxs-12 col-xs-12">
+                                <div class="input-field">
+                                    <label for="from">İlçe:</label>
+                                    <select name="district_select" class="cs-select cs-skin-border">
+                                        <option value="" disabled selected>Seçim Yapınız.</option>
+                                        <option value="0">Kartal</option>
+                                        <option value="1">Başakşehir</option>
+                                        <option value="2">Beylikdüzü</option>
+                                        <option value="3">Eyüpsultan</option>
+                                        <option value="4">Sarıyer</option>
+                                        <option value="5">Küçükçekmece</option>
+                                        <option value="6">Bağcılar</option>
+                                        <option value="7">Sancaktepe</option>
+                                        <option value="8">Çekmeköy</option>
+                                        <option value="9">Sultanbeyli</option>
+                                        <option value="10">Avcılar</option>
+                                        <option value="11">Ataşehir</option>
+                                        <option value="12">Maltepe</option>
+                                        <option value="13">Esenler</option>
+                                        <option value="14">Esenyurt</option>
+                                        <option value="15">Şişli</option>
+                                        <option value="16">Kadıköy</option>
+                                        <option value="17">Pendik</option>
+                                        <option value="18">Arnavutköy</option>
+                                        <option value="19">Bahçelievler</option>
+                                        <option value="20">Beyoğlu</option>
+                                        <option value="21">Beşiktaş</option>
+                                        <option value="22">Üsküdar</option>
+                                        <option value="23">Tuzla</option>
+                                        <option value="24">Zeytinburnu</option>
+                                        <option value="25">Büyükçekmece</option>
+                                        <option value="26">Fatih</option>
+                                        <option value="27">Silivri</option>
+                                        <option value="28">Bakırköy</option>
+                                        <option value="29">Ümraniye</option>
+                                        <option value="30">Güngören</option>
+                                        <option value="31">Kağıthane</option>
+                                        <option value="32">Beykoz</option>
+                                        <option value="33">Gaziosmanpaşa</option>
+                                        <option value="34">Bayrampaşa</option>
+
+                                    </select>
+                                </div>
+                            </div>
+                            <div class="col-xxs-12 col-xs-12">
+                                <div class="input-field">
+                                    <label for="class">Brüt Metrekare:</label>
+                                    <input name="gross_msquare" type="text" class="form-control" id="from-place"
+                                        placeholder="Sayısal Değer Giriniz" />
+                                </div>
+                            </div>
+                            <div class="col-xxs-12 col-xs-12">
+                                <div class="input-field">
+                                    <label for="class">Net Metrekare:</label>
+                                    <input name="net_msquare" type="text" class="form-control" id="from-place"
+                                        placeholder="Sayısal Değer Giriniz" />
+                                </div>
+                            </div>
+                        </div>
+                        <div class="right">
+                            <div class="col-xxs-12 col-xs-12">
+                                <div class="input-field">
+                                    <label for="from">Oda Sayısı:</label>
+                                    <div class="wide">
+                                        <select name="room_select"
+                                            class="cs-select cs-select-half cs-skin-border input-half">
+                                            <option value="" disabled selected>Seçim Yapınız.</option>
+                                            <option value="0">2+1</option>
+                                            <option value="1">3+1</option>
+                                            <option value="2">5+1</option>
+                                            <option value="3">3+2</option>
+                                            <option value="4">1+1</option>
+                                            <option value="5">8+ Oda</option>
+                                            <option value="6">4+1</option>
+                                            <option value="7">1 Oda</option>
+                                            <option value="8">6+3</option>
+                                            <option value="9">4+2</option>
+                                            <option value="10">3,5+1</option>
+                                            <option value="11">7+2</option>
+                                            <option value="12">6+1</option>
+                                            <option value="13">2+0</option>
+                                            <option value="14">6+2</option>
+                                            <option value="15">5+2</option>
+                                            <option value="16">2+2</option>
+                                            <option value="17">5+3</option>
+                                            <option value="18">Stüdyo</option>
+                                        </select>
+                                    </div>
+                                </div>
+                            </div>
+                            <div class="col-xxs-12 col-xs-12">
+                                <section>
+                                    <label for="class">Binanın Yaşı:</label>
+                                    <div class="wide">
+                                        <select name="building_age"
+                                            class="cs-select cs-select-half cs-skin-border input-half">
+                                            <option value="" disabled selected>Seçim Yapınız.</option>
+                                            <option value="0">5-10</option>
+                                            <option value="1">0 (Yeni)</option>
+                                            <option value="2">11-15</option>
+                                            <option value="3">21 ve Üzeri</option>
+                                            <option value="4">3</option>
+                                            <option value="5">4</option>
+                                            <option value="6">16-20</option>
+                                            <option value="7">2</option>
+                                            <option value="8">1</option>
+                                        </select>
+                                    </div>
+                                </section>
+                            </div>
+                            <div class="col-xxs-12 col-xs-12">
+                                <section>
+                                    <label for="class">Bulunduğu Kat:</label>
+                                    <div class="wide">
+                                        <select name="floor_loc"
+                                            class="cs-select cs-select-half cs-skin-border input-half">
+                                            <option value="" disabled selected>Seçim Yapınız.</option>
+                                            <option value="0">20</option>
+                                            <option value="1">Bahçe Katı</option>
+                                            <option value="2">5</option>
+                                            <option value="3">4</option>
+                                            <option value="4">3</option>
+                                            <option value="5">Villa Tipi</option>
+                                            <option value="6">6</option>
+                                            <option value="7">Yüksek Giriş</option>
+                                            <option value="8">Çatı Katı</option>
+                                            <option value="9">1</option>
+                                            <option value="10">8</option>
+                                            <option value="11">Müstakil</option>
+                                            <option value="12">7</option>
+                                            <option value="13">9</option>
+                                            <option value="14">Düz Giriş</option>
+                                            <option value="15">2</option>
+                                            <option value="16">28</option>
+                                            <option value="17">15</option>
+                                            <option value="18">18</option>
+                                            <option value="19">13</option>
+                                            <option value="20">13</option>
+                                            <option value="21">10</option>
+                                            <option value="22">Bahçe Dublex</option>
+                                            <option value="23">12</option>
+                                            <option value="24">Çatı Dublex</option>
+                                            <option value="25">11</option>
+                                            <option value="26">Kot 3 (-3)</option>
+                                            <option value="27">21</option>
+                                            <option value="28">Kot 1 (-1)</option>
+
+
+                                        </select>
+                                    </div>
+                                </section>
+                            </div>
+                        </div>
+
+                        <div class="col-xxs-12 col-xs-12 text-center">
+                            <p>
+                                <button type="submit" class="btn btn-dark btn-lg">---Hesapla---</button>
+                            </p>
+                        </div>
+                    </div>
+                </form>
+            </div>
+        </div>
+        <div class="map" style="background-image: url(images/cover_bg_1.jpg);">
+        </div>
+    </div>
+
+
+
+
+    <footer class="footer">
+
+
+        <div class="copyrights">
+            <div class="container">
+                <p>&copy; Copyrights TAHMİN. All rights reserved.</p>
+                <div class="credits">
+                    <!--
+            All the links in the footer should remain intact.
+            You can delete the links only if you purchased the pro version.
+            Licensing information: https://bootstrapmade.com/license/
+            Purchase the pro version with working PHP/AJAX contact form: https://bootstrapmade.com/buy/?theme=eStartup
+          -->
+                </div>
+            </div>
+        </div>
+
+    </footer>
+
+    <a href="#" class="back-to-top"><i class="fa fa-chevron-up"></i></a>
+
+</body>
+
+</html>

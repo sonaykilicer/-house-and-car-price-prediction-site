@@ -1,0 +1,2119 @@
+﻿Sehir,İlce,Mahalle,Fiyat,brüt metrekare,Net Metrekare,Oda Sayısı,Binanın Yaşı,Bulunduğu Kat,Krediye Uygunluk
+
+İstanbul,Beylikdüzü,Kavaklı Mahallesi,1899000,145 M2,130 M2,3+1,0 (Yeni),3. Kat,
+
+İstanbul,Beylikdüzü,Yakuplu Mahallesi,1299000,120 M2,110 M2,2+1,0 (Yeni),2. Kat,
+
+İstanbul,Beylikdüzü,Marmara Mahallesi,2699000,172 M2,160 M2,3+1,0 (Yeni),2. Kat,
+
+İstanbul,Beylikdüzü,Cumhuriyet Mahallesi,900000,150 M2,130 M2,3+1,4,1. Kat,
+
+İstanbul,Beylikdüzü,Adnan Kahveci Mahallesi,1949999,155 M2,145 M2,3+1,0 (Yeni),2. Kat,
+
+İstanbul,Beylikdüzü,Adnan Kahveci Mahallesi,1199999,120 M2,110 M2,2+1,0 (Yeni),1. Kat,
+
+İstanbul,Beylikdüzü,Adnan Kahveci Mahallesi,2399999,220 M2,200 M2,4+2,0 (Yeni),2. Kat,
+
+İstanbul,Beylikdüzü,Adnan Kahveci Mahallesi,1649999,140 M2,120 M2,2+1,0 (Yeni),4. Kat,
+
+İstanbul,Beylikdüzü,Adnan Kahveci Mahallesi,1199999,120 M2,110 M2,2+1,0 (Yeni),1. Kat,
+
+İstanbul,Beylikdüzü,Yakuplu Mahallesi,1100000,110 M2,105 M2,2+1,0 (Yeni),2. Kat,
+
+İstanbul,Beylikdüzü,Kavaklı Mahallesi,1899000,150 M2,140 M2,3+1,0 (Yeni),2. Kat,
+
+İstanbul,Beylikdüzü,Cumhuriyet Mahallesi,1095000,150 M2,130 M2,3+1,5-10,2. Kat,
+
+İstanbul,Beylikdüzü,Barış Mahallesi,1750000,155 M2,140 M2,3+1,16-20,1. Kat,
+
+İstanbul,Beylikdüzü,Yakuplu Mahallesi,1650000,220 M2,200 M2,3+2,0 (Yeni),4. Kat,
+
+İstanbul,Esenyurt,Barbaros Hayrettin Paşa Mahallesi,1850000,150 M2,135 M2,3+1,4,8. Kat,
+
+İstanbul,Beylikdüzü,Cumhuriyet Mahallesi,629000,115 M2,100 M2,2+1,4,2. Kat,
+
+İstanbul,Fatih,Derviş Ali Mahallesi,1250000,90 M2,80 M2,2.5+1,21 Ve Üzeri,1. Kat,
+
+İstanbul,Büyükçekmece,Güzelce Mahallesi,15000000,1.460 M2,460 M2,8+ Oda,5-10,Villa Tipi,
+
+İstanbul,Beylikdüzü,Kavaklı Mahallesi,1649000,115 M2,110 M2,2+1,0 (Yeni),2. Kat,
+
+İstanbul,Esenyurt,Atatürk Mahallesi,919000,120 M2,110 M2,2+1,3,3. Kat,
+
+İstanbul,Beylikdüzü,Marmara Mahallesi,1650000,105 M2,100 M2,2+1,0 (Yeni),2. Kat,
+
+İstanbul,Esenyurt,Battalgazi Mahallesi,535000,100 M2,95 M2,2+1,5-10,Bahçe Katı,
+
+İstanbul,Beylikdüzü,Adnan Kahveci Mahallesi,1690000,110 M2,90 M2,2+1,0 (Yeni),1. Kat,
+
+İstanbul,Beyoğlu,İstiklal Mahallesi,6000000,139 M2,100 M2,2+1,2,5. Kat,
+
+İstanbul,Beylikdüzü,Yakuplu Mahallesi,1050000,95 M2,75 M2,2+1,5-10,3. Kat,
+
+İstanbul,Eyüpsultan,İslambey Mahallesi,1000000,100 M2,90 M2,2+1,2,Yüksek Giriş,
+
+İstanbul,Sarıyer,Zekeriyaköy Mahallesi,9150000,270 M2,250 M2,4+2,21 Ve Üzeri,Çatı Dubleks,
+
+İstanbul,Üsküdar,Bulgurlu Mahallesi,810000,55 M2,50 M2,1+1,0 (Yeni),Düz Giriş,
+
+İstanbul,Fatih,Mevlanakapı Mahallesi,760000,85 M2,80 M2,2+1,21 Ve Üzeri,1. Kat,
+
+İstanbul,Sultangazi,İsmetpaşa Mahallesi,910000,160 M2,145 M2,4+1,5-10,Bahçe Katı,
+
+İstanbul,Fatih,Mevlanakapı Mahallesi,760000,85 M2,80 M2,2+1,21 Ve Üzeri,1. Kat,
+
+İstanbul,Sultangazi,İsmetpaşa Mahallesi,910000,160 M2,145 M2,4+1,5-10,Bahçe Katı,
+
+İstanbul,Esenyurt,Saadetdere Mahallesi,1100000,136 M2,126 M2,3+1,5-10,1. Kat,
+
+İstanbul,Esenyurt,Turgut Özal Mahallesi,930000,100 M2,90 M2,2+1,4,2. Kat,
+
+İstanbul,Fatih,Mevlanakapı Mahallesi,750000,85 M2,80 M2,2+1,21 Ve Üzeri,1. Kat,
+
+İstanbul,Sancaktepe,Merve Mahallesi,1650000,150 M2,140 M2,3+1,4,2. Kat,
+
+İstanbul,Şişli,Cumhuriyet Mahallesi,6000000,85 M2,60 M2,1+1,0 (Yeni),28. Kat,Bilinmiyor
+
+İstanbul,Avcılar,Cihangir Mahallesi,720000,115 M2,108 M2,2+1,21 Ve Üzeri,1. Kat,
+
+İstanbul,Eyüpsultan,İslambey Mahallesi,1450000,86 M2,85 M2,2+1,0 (Yeni),1. Kat,
+
+İstanbul,Bahçelievler,Fevzi Çakmak Mahallesi,1500000,90 M2,85 M2,2.5+1,0 (Yeni),5. Kat,
+
+İstanbul,Bahçelievler,Fevzi Çakmak Mahallesi,1900000,120 M2,100 M2,4+1,0 (Yeni),4. Kat,
+
+İstanbul,Güngören,Sanayi Mahallesi,650000,78 M2,63 M2,2+1,5-10,Bahçe Katı,
+
+İstanbul,Başakşehir,Altınşehir Mahallesi,850000,85 M2,75 M2,2+1,0 (Yeni),Yüksek Giriş,
+
+İstanbul,Beylikdüzü,Cumhuriyet Mahallesi,719999,130 M2,120 M2,2+1,0 (Yeni),2. Kat,
+
+İstanbul,Beylikdüzü,Cumhuriyet Mahallesi,579999,120 M2,110 M2,2+1,0 (Yeni),1. Kat,
+
+İstanbul,Başakşehir,Altınşehir Mahallesi,1150000,130 M2,120 M2,3+1,0 (Yeni),1. Kat,
+
+İstanbul,Beylikdüzü,Cumhuriyet Mahallesi,699999,200 M2,190 M2,3+1,0 (Yeni),Çatı Dubleks,
+
+İstanbul,Beylikdüzü,Cumhuriyet Mahallesi,679999,120 M2,110 M2,2+1,0 (Yeni),2. Kat,
+
+İstanbul,Avcılar,Merkez Mahallesi,800000,90 M2,80 M2,2+1,21 Ve Üzeri,4. Kat,Bilinmiyor
+
+İstanbul,Küçükçekmece,Halkalı Merkez Mahallesi,2050000,170 M2,150 M2,4+2,5-10,2. Kat,
+
+İstanbul,Beylikdüzü,Cumhuriyet Mahallesi,1100000,100 M2,95 M2,2+1,4,Düz Giriş,
+
+İstanbul,Beylikdüzü,Beylikdüzü OSB Mahallesi,699000,100 M2,90 M2,2+1,3,1. Kat,
+
+İstanbul,Beylikdüzü,Cumhuriyet Mahallesi,479000,100 M2,90 M2,2+1,5-10,Bahçe Katı,
+
+İstanbul,Küçükçekmece,Atatürk Mahallesi,2180000,110 M2,85 M2,2+1,5-10,2. Kat,
+
+İstanbul,Küçükçekmece,Halkalı Merkez Mahallesi,1940000TLarrow_downward,107 M2,90 M2,2+1,5-10,12. Kat,
+
+İstanbul,Bahçelievler,Bahçelievler Mahallesi,3900000,215 M2,190 M2,5+1,21 Ve Üzeri,4. Kat,
+
+İstanbul,Beylikdüzü,Sahil Mahallesi,4290000,450 M2,360 M2,7+2,2,Villa Tipi,
+
+İstanbul,Beylikdüzü,Yakuplu Mahallesi,889000TLarrow_downward,95 M2,85 M2,2+1,0 (Yeni),Bahçe Katı,
+
+İstanbul,Beylikdüzü,Adnan Kahveci Mahallesi,1690000,115 M2,95 M2,2+1,0 (Yeni),2. Kat,
+
+İstanbul,Beylikdüzü,Adnan Kahveci Mahallesi,1689999,125 M2,115 M2,2+1,0 (Yeni),2. Kat,
+
+İstanbul,Beylikdüzü,Adnan Kahveci Mahallesi,1689999,125 M2,115 M2,2+1,0 (Yeni),2. Kat,
+
+İstanbul,Kadıköy,Acıbadem Mahallesi,2495000,100 M2,90 M2,2+1,21 Ve Üzeri,3. Kat,
+
+İstanbul,Beylikdüzü,Adnan Kahveci Mahallesi,1649000,140 M2,130 M2,3+1,4,2. Kat,
+
+İstanbul,Beylikdüzü,Cumhuriyet Mahallesi,2439000,175 M2,150 M2,3+1,0 (Yeni),20. Kat,
+
+İstanbul,Beylikdüzü,Yakuplu Mahallesi,1399999,145 M2,135 M2,3+1,0 (Yeni),3. Kat,
+
+İstanbul,Beylikdüzü,Adnan Kahveci Mahallesi,2799999,240 M2,210 M2,4+2,0 (Yeni),3. Kat,
+
+İstanbul,Küçükçekmece,İstasyon Mahallesi,1315000,60 M2,55 M2,1+1,5-10,5. Kat,
+
+İstanbul,Esenyurt,Namık Kemal Mahallesi,1095000,140 M2,120 M2,3+1,4,2. Kat,
+
+İstanbul,Esenyurt,Güzelyurt Mahallesi,935000,105 M2,95 M2,2+1,5-10,3. Kat,
+
+İstanbul,Beylikdüzü,Gürpınar Mahallesi,2100000,245 M2,220 M2,5+2,11-15,Çatı Dubleks,
+
+İstanbul,Beylikdüzü,Yakuplu Mahallesi,1400000,200 M2,185 M2,4+2,5-10,Çatı Dubleks,
+
+İstanbul,Esenyurt,Pınar Mahallesi,469000,100 M2,90 M2,2+1,5-10,Bahçe Katı,
+
+İstanbul,Arnavutköy,Karaburun Mahallesi,3500000,420 M2,300 M2,2+1,5-10,Villa Tipi,Bilinmiyor
+
+İstanbul,Esenyurt,Saadetdere Mahallesi,910000,100 M2,85 M2,2+1,0 (Yeni),2. Kat,
+
+İstanbul,Kağıthane,Yeşilce Mahallesi,890000,75 M2,65 M2,1+1,5-10,Yüksek Giriş,
+
+İstanbul,Başakşehir,Kayabaşı Mahallesi,1120000,69 M2,58 M2,2+1,11-15,3. Kat,
+
+İstanbul,Beylikdüzü,Yakuplu Mahallesi,935000,90 M2,75 M2,2+1,11-15,4. Kat,
+
+İstanbul,Beylikdüzü,Cumhuriyet Mahallesi,1650000,165 M2,127 M2,3+1,1,4. Kat,
+
+İstanbul,Esenyurt,Örnek Mahallesi,590000,100 M2,90 M2,2+1,0 (Yeni),3. Kat,
+
+İstanbul,Sultanbeyli,Battalgazi Mahallesi,1260000,140 M2,130 M2,4+1,3,Çatı Dubleks,
+
+İstanbul,Esenyurt,Akçaburgaz Mahallesi,568000,95 M2,80 M2,2+1,5-10,Yüksek Giriş,
+
+İstanbul,Esenyurt,Hürriyet Mahallesi,589000,115 M2,105 M2,2+1,4,Bahçe Katı,
+
+İstanbul,Bahçelievler,Zafer Mahallesi,780000,100 M2,94 M2,2+1,0 (Yeni),Tam Bodrum,
+
+İstanbul,Büyükçekmece,Atatürk Mahallesi,1350000,110 M2,85 M2,2+1,5-10,Bahçe Katı,
+
+İstanbul,Beylikdüzü,Marmara Mahallesi,2670000,165 M2,150 M2,3+1,16-20,3. Kat,
+
+İstanbul,Esenyurt,Necip Fazıl Kısakürek Mahallesi,590000,110 M2,100 M2,2+1,5-10,Yüksek Giriş,
+
+İstanbul,Maltepe,Fındıklı Mahallesi,850000TLarrow_downward,100 M2,85 M2,2+1,5-10,3. Kat,
+
+İstanbul,Bahçelievler,Zafer Mahallesi,7250000,216 M2,215 M2,1 Oda,21 Ve Üzeri,5,Bilinmiyor
+
+İstanbul,Kadıköy,Suadiye Mahallesi,5450000,160 M2,130 M2,3+1,21 Ve Üzeri,4. Kat,
+
+İstanbul,Beylikdüzü,Cumhuriyet Mahallesi,599999,120 M2,110 M2,2+1,0 (Yeni),1. Kat,
+
+İstanbul,Beylikdüzü,Cumhuriyet Mahallesi,379999,120 M2,110 M2,2+1,0 (Yeni),Bahçe Katı,
+
+İstanbul,Beylikdüzü,Cumhuriyet Mahallesi,399999,120 M2,110 M2,2+1,0 (Yeni),Bahçe Katı,
+
+İstanbul,Beylikdüzü,Cumhuriyet Mahallesi,459999,130 M2,120 M2,2+1,0 (Yeni),Bahçe Katı,
+
+İstanbul,Başakşehir,Bahçeşehir 2. Kısım Mahallesi,2850000,180 M2,145 M2,3+1,11-15,9. Kat,
+
+İstanbul,Bahçelievler,Bahçelievler Mahallesi,5950000TLarrow_downward%,215 M2,200 M2,5+2,0 (Yeni),4. Kat,
+
+İstanbul,Beylikdüzü,Sahil Mahallesi,3790000,260 M2,240 M2,5+2,16-20,Müstakil,
+
+İstanbul,Beylikdüzü,Beylikdüzü OSB Mahallesi,689000,100 M2,90 M2,2+1,5-10,3. Kat,
+
+İstanbul,Sultanbeyli,Battalgazi Mahallesi,1900000,130 M2,120 M2,3+1,0 (Yeni),4. Kat,
+
+İstanbul,Sarıyer,Maslak Mahallesi,5300000,135 M2,98 M2,3+1,5-10,17. Kat,
+
+İstanbul,Esenyurt,Barbaros Hayrettin Paşa Mahallesi,1050000,110 M2,100 M2,2+1,0 (Yeni),12. Kat,
+
+İstanbul,Beylikdüzü,Marmara Mahallesi,1599000,115 M2,100 M2,3+1,0 (Yeni),2. Kat,
+
+İstanbul,Beylikdüzü,Yakuplu Mahallesi,1230000,130 M2,120 M2,2+1,5-10,Düz Giriş,
+
+İstanbul,Beylikdüzü,Gürpınar Mahallesi,1100000,110 M2,100 M2,2+1,5-10,Kot 1 (-1). Kat,
+
+İstanbul,Beylikdüzü,Kavaklı Mahallesi,1250000,90 M2,80 M2,2+1,0 (Yeni),Düz Giriş,
+
+İstanbul,Beylikdüzü,Adnan Kahveci Mahallesi,1329999,145 M2,125 M2,2+1,0 (Yeni),3. Kat,
+
+İstanbul,Beylikdüzü,Adnan Kahveci Mahallesi,1987000,175 M2,145 M2,3+1,5-10,2. Kat,
+
+İstanbul,Beylikdüzü,Adnan Kahveci Mahallesi,1935000,220 M2,200 M2,3+2,4,Çatı Dubleks,
+
+İstanbul,Başakşehir,Başak Mahallesi,2350000,125 M2,115 M2,3+1,11-15,2. Kat,
+
+İstanbul,Sarıyer,Maslak Mahallesi,7100000,170 M2,130 M2,3+1,5-10,3. Kat,
+
+İstanbul,Beylikdüzü,Yakuplu Mahallesi,949000,115 M2,90 M2,2+1,4,3. Kat,
+
+İstanbul,Beylikdüzü,Barış Mahallesi,2350000,120 M2,95 M2,2+1,3,9. Kat,
+
+İstanbul,Sarıyer,Maslak Mahallesi,4500000,87 M2,52 M2,1+1,5-10,10. Kat,
+
+İstanbul,Sarıyer,Maslak Mahallesi,5000000,117 M2,90 M2,2+1,5-10,16. Kat,
+
+İstanbul,Beylikdüzü,Adnan Kahveci Mahallesi,2400000,200 M2,180 M2,3+1,11-15,10. Kat,
+
+İstanbul,Beylikdüzü,Kavaklı Mahallesi,1239000,105 M2,90 M2,2+1,0 (Yeni),2. Kat,
+
+İstanbul,Sarıyer,Maslak Mahallesi,4100000,85 M2,75 M2,1+1,5-10,10. Kat,
+
+İstanbul,Beylikdüzü,Kavaklı Mahallesi,1350000,120 M2,110 M2,2+1,5-10,3. Kat,
+
+İstanbul,Arnavutköy,Karaburun Mahallesi,3250000,480 M2,420 M2,6+2,5-10,Müstakil,Krediye Uygun Değil
+
+İstanbul,Beylikdüzü,Cumhuriyet Mahallesi,869900,120 M2,110 M2,2+1,0 (Yeni),3. Kat,
+
+İstanbul,Esenyurt,Çınar Mahallesi,765000,100 M2,85 M2,2+1,5-10,2. Kat,
+
+İstanbul,Sarıyer,Ayazağa Mahallesi,4900000,70 M2,50 M2,1+1,5-10,5. Kat,
+
+İstanbul,Esenyurt,Orhan Gazi Mahallesi,475000,130 M2,110 M2,2+1,5-10,Bahçe Katı,
+
+İstanbul,Fatih,Silivrikapı Mahallesi,650000,80 M2,75 M2,2+1,11-15,Bahçe Katı,
+
+İstanbul,Beylikdüzü,Kavaklı Mahallesi,1100000,100 M2,95 M2,2+1,0 (Yeni),Düz Giriş,
+
+İstanbul,Büyükçekmece,Atatürk Mahallesi,2550000,250 M2,200 M2,4+2,16-20,4. Kat,
+
+İstanbul,Beylikdüzü,Yakuplu Mahallesi,1050000,85 M2,70 M2,1+1,0 (Yeni),Düz Giriş,
+
+İstanbul,Beylikdüzü,Cumhuriyet Mahallesi,800000,100 M2,95 M2,2+1,4,4. Kat,
+
+İstanbul,Kartal,Yakacık Çarşı Mahallesi,1300000,70 M2,58 M2,1+1,5-10,6. Kat,
+
+İstanbul,Üsküdar,Ahmediye Mahallesi,1039999,90 M2,80 M2,2+1,21 Ve Üzeri,Yüksek Giriş,
+
+İstanbul,Beylikdüzü,Cumhuriyet Mahallesi,899000,118 M2,104 M2,2+1,4,2. Kat,
+
+İstanbul,Beylikdüzü,Cumhuriyet Mahallesi,1549000,120 M2,100 M2,2+1,1,17. Kat,
+
+İstanbul,Beylikdüzü,Cumhuriyet Mahallesi,759000,95 M2,75 M2,1+1,0 (Yeni),3. Kat,
+
+İstanbul,Esenyurt,Necip Fazıl Kısakürek Mahallesi,830000,110 M2,100 M2,2+1,5-10,2. Kat,
+
+İstanbul,Esenyurt,Yunus Emre Mahallesi,630000,110 M2,100 M2,2+1,5-10,1. Kat,
+
+İstanbul,Başakşehir,Güvercintepe Mahallesi,1275000,185 M2,180 M2,3+2,4,Çatı Dubleks,
+
+İstanbul,Beylikdüzü,Cumhuriyet Mahallesi,750000,100 M2,85 M2,2+1,0 (Yeni),Yüksek Giriş,
+
+İstanbul,Beylikdüzü,Kavaklı Mahallesi,1670000,100 M2,87 M2,2+1,0 (Yeni),1. Kat,
+
+İstanbul,Esenyurt,Zafer Mahallesi,2545000,285 M2,170 M2,4+1,0 (Yeni),13. Kat,Krediye Uygun Değil
+
+İstanbul,Çekmeköy,Soğukpınar Mahallesi,885000,75 M2,70 M2,1+1,0 (Yeni),Bahçe Katı,
+
+İstanbul,Beylikdüzü,Adnan Kahveci Mahallesi,2300000,170 M2,140 M2,3+1,5-10,2. Kat,
+
+İstanbul,Sarıyer,Fatih Sultan Mehmet Mahallesi,650000,105 M2,100 M2,2+1,21 Ve Üzeri,Müstakil,Krediye Uygun Değil
+
+İstanbul,Esenyurt,Pınar Mahallesi,620000,110 M2,100 M2,2+1,0 (Yeni),1. Kat,
+
+İstanbul,Başakşehir,Bahçeşehir 2. Kısım Mahallesi,568000,100 M2,90 M2,2+1,0 (Yeni),1. Kat,
+
+İstanbul,Beylikdüzü,Cumhuriyet Mahallesi,439000,110 M2,100 M2,2+1,4,2. Kat,
+
+İstanbul,Beyoğlu,Sütlüce Mahallesi,1300000,120 M2,110 M2,3+1,5-10,2. Kat,
+
+İstanbul,Beylikdüzü,Adnan Kahveci Mahallesi,3500000,240 M2,190 M2,4+1,5-10,5. Kat,
+
+İstanbul,Esenyurt,İstiklal Mahallesi,1200000,250 M2,230 M2,4+2,4,2. Kat,
+
+İstanbul,Esenyurt,Selahaddin Eyyubi Mahallesi,620000TLarrow_downward%,140 M2,130 M2,3+1,0 (Yeni),1. Kat,
+
+İstanbul,Esenyurt,Mehterçeşme Mahallesi,890000,130 M2,120 M2,2+1,5-10,1. Kat,
+
+İstanbul,Esenyurt,İstiklal Mahallesi,689000,105 M2,100 M2,2+1,5-10,2. Kat,
+
+İstanbul,Beylikdüzü,Kavaklı Mahallesi,1449000,105 M2,92 M2,2+1,2,2. Kat,
+
+İstanbul,Esenyurt,Osmangazi Mahallesi,750000,110 M2,100 M2,2+1,2,2. Kat,
+
+İstanbul,Esenyurt,Atatürk Mahallesi,959000,120 M2,115 M2,2+1,3,2. Kat,
+
+İstanbul,Esenyurt,Güzelyurt Mahallesi,710000TLarrow_downward%,95 M2,85 M2,2+1,0 (Yeni),Yüksek Giriş,
+
+İstanbul,Başakşehir,Bahçeşehir 2. Kısım Mahallesi,3750000,190 M2,130 M2,3.5+1,1,13. Kat,
+
+İstanbul,Esenyurt,Hürriyet Mahallesi,589000,100 M2,95 M2,2+1,5-10,Bahçe Katı,
+
+İstanbul,Sancaktepe,Yunus Emre Mahallesi,600000,150 M2,122 M2,2+1,11-15,1,Yatırıma Uygun
+
+İstanbul,Beylikdüzü,Yakuplu Mahallesi,1250000,120 M2,100 M2,2+1,0 (Yeni),3. Kat,
+
+İstanbul,Kartal,Esentepe Mahallesi,1135000,86 M2,74 M2,2+1,2,Yüksek Giriş,
+
+İstanbul,Beylikdüzü,Adnan Kahveci Mahallesi,2050000,135 M2,120 M2,2+1,0 (Yeni),3. Kat,
+
+İstanbul,Üsküdar,Zeynep Kamil Mahallesi,720000,70 M2,60 M2,1+1,21 Ve Üzeri,Düz Giriş,
+
+İstanbul,Bahçelievler,Zafer Mahallesi,765000,95 M2,85 M2,2+1,4,Bahçe Katı,
+
+İstanbul,Esenyurt,Akçaburgaz Mahallesi,780000TLarrow_downward,110 M2,95 M2,2+1,0 (Yeni),1. Kat,
+
+İstanbul,Esenyurt,Pınar Mahallesi,469000,100 M2,95 M2,2+1,5-10,Bahçe Katı,
+
+İstanbul,Esenler,Kazım Karabekir Mahallesi,450000TLarrow_downward,160 M2,140 M2,3+1,21 Ve Üzeri,Düz Giriş,Krediye Uygun Değil
+
+İstanbul,Gaziosmanpaşa,Karayolları Mahallesi,495000,130 M2,120 M2,2+1,21 Ve Üzeri,Kot 1 (-1). Kat,Krediye Uygun Değil
+
+İstanbul,Gaziosmanpaşa,Karayolları Mahallesi,515000,100 M2,90 M2,2+1,16-20,Yüksek Giriş,Krediye Uygun Değil
+
+İstanbul,Beylikdüzü,Kavaklı Mahallesi,2990000,150 M2,135 M2,3+1,2,3. Kat,
+
+İstanbul,Bahçelievler,Bahçelievler Mahallesi,3600000,98 M2,87 M2,2+1,0 (Yeni),1. Kat,
+
+İstanbul,Beylikdüzü,Beylikdüzü OSB Mahallesi,599000,100 M2,90 M2,2+1,5-10,1. Kat,
+
+İstanbul,Bahçelievler,Bahçelievler Mahallesi,3275000,145 M2,130 M2,3+1,0 (Yeni),1. Kat,
+
+İstanbul,Esenyurt,Hürriyet Mahallesi,480000,115 M2,110 M2,2+1,4,Bahçe Katı,
+
+İstanbul,Esenyurt,Selahaddin Eyyubi Mahallesi,1300000,125 M2,100 M2,2+1,0 (Yeni),11. Kat,
+
+İstanbul,Esenyurt,Mehmet Akif Ersoy Mahallesi,935000,145 M2,140 M2,3+1,4,2. Kat,
+
+İstanbul,Sultangazi,Yunus Emre Mahallesi,695000,100 M2,90 M2,2+1,11-15,Bahçe Katı,
+
+İstanbul,Fatih,Hırka-i Şerif Mahallesi,2800000,210 M2,200 M2,4+2,21 Ve Üzeri,4. Kat,
+
+İstanbul,Avcılar,Cihangir Mahallesi,939000,95 M2,85 M2,2+1,16-20,3. Kat,
+
+İstanbul,Beylikdüzü,Cumhuriyet Mahallesi,439000,110 M2,100 M2,2+1,4,2. Kat,
+
+İstanbul,Esenyurt,Üçevler Mahallesi,439000,110 M2,100 M2,2+1,4,2. Kat,
+
+İstanbul,Esenyurt,Atatürk Mahallesi,785000,120 M2,110 M2,3+1,4,Yüksek Giriş,
+
+İstanbul,Beylikdüzü,Marmara Mahallesi,1289000,105 M2,100 M2,2+1,0 (Yeni),3. Kat,
+
+İstanbul,Avcılar,Cihangir Mahallesi,975000,90 M2,85 M2,2+1,5-10,3. Kat,
+
+İstanbul,Kağıthane,Merkez Mahallesi,8500000,260 M2,220 M2,5+1,4,8. Kat,
+
+İstanbul,Esenyurt,Güzelyurt Mahallesi,419000,105 M2,95 M2,2+1,4,1. Kat,
+
+İstanbul,Avcılar,Merkez Mahallesi,1250000,97 M2,87 M2,2+1,0 (Yeni),Yüksek Giriş,
+
+İstanbul,Sancaktepe,Merve Mahallesi,1800000,220 M2,210 M2,6+1,0 (Yeni),Çatı Dubleks,
+
+İstanbul,Esenyurt,Necip Fazıl Kısakürek Mahallesi,589000,110 M2,95 M2,2+1,1,Düz Giriş,
+
+İstanbul,Silivri,Çanta Sancaktepe Mahallesi,690000,90 M2,80 M2,2+1,5-10,3. Kat,
+
+İstanbul,Başakşehir,Bahçeşehir 2. Kısım Mahallesi,5850000,181 M2,161 M2,3+1,5-10,2. Kat,
+
+İstanbul,Fatih,Balat Mahallesi,3500000,80 M2,75 M2,1.5+1,21 Ve Üzeri,4,Hayır
+
+İstanbul,Silivri,Piri Mehmet Paşa Mahallesi,1200000,1.555 M2,145 M2,3+1,21 Ve Üzeri,2. Kat,
+
+İstanbul,Sancaktepe,Abdurrahmangazi Mahallesi,775000,100 M2,85 M2,2+1,3,Yüksek Giriş,
+
+İstanbul,Sultangazi,Gazi Mahallesi,1100000,97 M2,95 M2,2+1,3,1. Kat,
+
+İstanbul,Beylikdüzü,Kavaklı Mahallesi,1899000,120 M2,110 M2,2+1,4,5. Kat,
+
+İstanbul,Başakşehir,Bahçeşehir 1. Kısım Mahallesi,3250000,136 M2,120 M2,2.5+1,4,3. Kat,
+
+İstanbul,Sultangazi,İsmetpaşa Mahallesi,550000,95 M2,90 M2,2+1,5-10,Bahçe Katı,
+
+İstanbul,Bahçelievler,Kocasinan Merkez Mahallesi,1320000,100 M2,98 M2,2+1,5-10,4. Kat,
+
+İstanbul,Esenler,Havaalanı Mahallesi,1450000,84 M2,70 M2,2+1,11-15,3. Kat,
+
+İstanbul,Gaziosmanpaşa,Bağlarbaşı Mahallesi,2550000,260 M2,250 M2,4+2,3,3. Kat,
+
+İstanbul,Gaziosmanpaşa,Bağlarbaşı Mahallesi,2250000,230 M2,220 M2,4+2,5-10,4. Kat,
+
+İstanbul,Bahçelievler,Soğanlı Mahallesi,930000,130 M2,125 M2,3+1,5-10,Yüksek Giriş,
+
+İstanbul,Beylikdüzü,Kavaklı Mahallesi,2895000,240 M2,220 M2,4+2,3,Çatı Dubleks,
+
+İstanbul,Büyükçekmece,Atatürk Mahallesi,6990000,290 M2,200 M2,3+1,0 (Yeni),Villa Tipi,
+
+İstanbul,Beylikdüzü,Kavaklı Mahallesi,1790000,145 M2,130 M2,3+1,0 (Yeni),1. Kat,
+
+İstanbul,Beylikdüzü,Marmara Mahallesi,1749000,105 M2,90 M2,2+1,0 (Yeni),2. Kat,
+
+İstanbul,Beylikdüzü,Cumhuriyet Mahallesi,479000,100 M2,90 M2,2+1,5-10,Bahçe Katı,
+
+İstanbul,Beylikdüzü,Gürpınar Mahallesi,9250000,580 M2,500 M2,5+1,0 (Yeni),Villa Tipi,
+
+İstanbul,Beylikdüzü,Adnan Kahveci Mahallesi,2799000TLarrow_downward,230 M2,200 M2,3+2,0 (Yeni),3. Kat,
+
+İstanbul,Beylikdüzü,Kavaklı Mahallesi,1889000,140 M2,130 M2,3+1,0 (Yeni),1. Kat,
+
+İstanbul,Beylikdüzü,Adnan Kahveci Mahallesi,1690000,120 M2,105 M2,2+1,4,1. Kat,
+
+İstanbul,Beylikdüzü,Kavaklı Mahallesi,1790000,145 M2,130 M2,3+1,0 (Yeni),1. Kat,
+
+İstanbul,Beylikdüzü,Marmara Mahallesi,1749000,105 M2,90 M2,2+1,0 (Yeni),2. Kat,
+
+İstanbul,Beylikdüzü,Cumhuriyet Mahallesi,479000,100 M2,90 M2,2+1,5-10,Bahçe Katı,
+
+İstanbul,Beylikdüzü,Gürpınar Mahallesi,9250000,580 M2,500 M2,5+1,0 (Yeni),Villa Tipi,
+
+İstanbul,Beylikdüzü,Adnan Kahveci Mahallesi,2799000TLarrow_downward,230 M2,200 M2,3+2,0 (Yeni),3. Kat,
+
+İstanbul,Beylikdüzü,Kavaklı Mahallesi,1889000,140 M2,130 M2,3+1,0 (Yeni),1. Kat,
+
+İstanbul,Beylikdüzü,Adnan Kahveci Mahallesi,1690000,120 M2,105 M2,2+1,4,1. Kat,
+
+İstanbul,Beylikdüzü,Kavaklı Mahallesi,1969000,155 M2,140 M2,3+1,0 (Yeni),2. Kat,
+
+İstanbul,Beylikdüzü,Yakuplu Mahallesi,2049000,220 M2,190 M2,4+2,0 (Yeni),3. Kat,
+
+İstanbul,Beylikdüzü,Marmara Mahallesi,1669000,110 M2,100 M2,2+1,0 (Yeni),2. Kat,
+
+İstanbul,Beylikdüzü,Kavaklı Mahallesi,1325000,105 M2,85 M2,2+1,0 (Yeni),2. Kat,
+
+İstanbul,Beylikdüzü,Marmara Mahallesi,1800000,130 M2,110 M2,2+1,1,2. Kat,
+
+İstanbul,Beylikdüzü,Adnan Kahveci Mahallesi,1399000,135 M2,115 M2,2+1,2,3. Kat,
+
+İstanbul,Esenyurt,Atatürk Mahallesi,495000,110 M2,100 M2,2+1,4,Bahçe Katı,
+
+İstanbul,Beylikdüzü,Beylikdüzü OSB Mahallesi,1200000,100 M2,90 M2,2+1,0 (Yeni),5. Kat,
+
+İstanbul,Beylikdüzü,Cumhuriyet Mahallesi,990000,140 M2,130 M2,3+1,0 (Yeni),2. Kat,
+
+İstanbul,Başakşehir,Bahçeşehir 2. Kısım Mahallesi,1900000,95 M2,80 M2,2+1,0 (Yeni),2. Kat,Krediye Uygun Değil
+
+İstanbul,Başakşehir,Bahçeşehir 2. Kısım Mahallesi,939000,110 M2,100 M2,3+1,0 (Yeni),Yüksek Giriş,
+
+İstanbul,Esenyurt,Hürriyet Mahallesi,695000,110 M2,100 M2,2+1,4,Yüksek Giriş,
+
+İstanbul,Başakşehir,Bahçeşehir 2. Kısım Mahallesi,1100000,145 M2,120 M2,3+1,0 (Yeni),2. Kat,
+
+İstanbul,Beylikdüzü,Beylikdüzü OSB Mahallesi,699000,100 M2,90 M2,2+1,3,1. Kat,
+
+İstanbul,Beylikdüzü,Cumhuriyet Mahallesi,1250000,115 M2,100 M2,2+1,4,1. Kat,
+
+İstanbul,Beylikdüzü,Cumhuriyet Mahallesi,705000,110 M2,100 M2,2+1,0 (Yeni),4. Kat,
+
+İstanbul,Beylikdüzü,Marmara Mahallesi,1259000,105 M2,90 M2,2+1,0 (Yeni),2. Kat,
+
+İstanbul,Pendik,Kurtköy Mahallesi,1825000,103 M2,92 M2,2+1,2,Bahçe Katı,
+
+İstanbul,Güngören,Akıncılar Mahallesi,670000,90 M2,85 M2,2+1,21 Ve Üzeri,5. Kat,Krediye Uygun Değil
+
+İstanbul,Beylikdüzü,Kavaklı Mahallesi,1456999,135 M2,125 M2,2+1,0 (Yeni),1. Kat,
+
+İstanbul,Maltepe,Cevizli Mahallesi,2550000,125 M2,110 M2,3+1,3,1. Kat,
+
+İstanbul,Başakşehir,Bahçeşehir 2. Kısım Mahallesi,899000,100 M2,90 M2,2+1,3,2. Kat,
+
+İstanbul,Esenyurt,Yeşilkent Mahallesi,490000,110 M2,100 M2,1+1,5-10,Yüksek Giriş,
+
+İstanbul,Beylikdüzü,Marmara Mahallesi,4510000,160 M2,145 M2,3+1,2,2. Kat,
+
+İstanbul,Beylikdüzü,Yakuplu Mahallesi,1450000,105 M2,95 M2,2+1,0 (Yeni),2. Kat,
+
+İstanbul,Üsküdar,Valide-i Atik Mahallesi,6500000,210 M2,190 M2,4+2,0 (Yeni),Çatı Dubleks,
+
+İstanbul,Sultangazi,Sultançiftliği Mahallesi,650000,125 M2,120 M2,2+1,21 Ve Üzeri,3. Kat,Krediye Uygun Değil
+
+İstanbul,Kadıköy,Eğitim Mahallesi,2900000,100 M2,72 M2,2+1,0 (Yeni),6. Kat,Bilinmiyor
+
+İstanbul,Bahçelievler,Zafer Mahallesi,1200000,180 M2,170 M2,4+2,11-15,Çatı Dubleks,
+
+İstanbul,Büyükçekmece,Fatih Mahallesi,1250000,110 M2,100 M2,2+1,16-20,3. Kat,Bilinmiyor
+
+İstanbul,Esenyurt,Üçevler Mahallesi,439000,110 M2,100 M2,2+1,4,2. Kat,
+
+İstanbul,Beylikdüzü,Yakuplu Mahallesi,899000,100 M2,90 M2,2+1,3,2. Kat,
+
+İstanbul,Esenyurt,Cumhuriyet Mahallesi,709000,100 M2,90 M2,2+1,5-10,1. Kat,
+
+İstanbul,Bahçelievler,Zafer Mahallesi,765000,85 M2,80 M2,2+1,4,Bahçe Katı,
+
+İstanbul,Silivri,Çanta Sancaktepe Mahallesi,695000,135 M2,125 M2,3+1,5-10,5. Kat,
+
+İstanbul,Esenyurt,Cumhuriyet Mahallesi,1350000,95 M2,85 M2,1+1,4,11. Kat,
+
+İstanbul,Bahçelievler,Bahçelievler Mahallesi,2350000,95 M2,85 M2,2+1,21 Ve Üzeri,3. Kat,Krediye Uygun Değil
+
+İstanbul,Beylikdüzü,Cumhuriyet Mahallesi,439000,110 M2,100 M2,2+1,4,2. Kat,
+
+İstanbul,Üsküdar,Valide-i Atik Mahallesi,6250000,200 M2,195 M2,4+2,0 (Yeni),4. Kat,
+
+İstanbul,Sancaktepe,Osmangazi Mahallesi,1815000,125 M2,86 M2,2+1,4,Düz Giriş,
+
+İstanbul,Avcılar,Cihangir Mahallesi,820000,105 M2,95 M2,2+1,5-10,1. Kat,
+
+İstanbul,Arnavutköy,Hastane Mahallesi,630000,105 M2,85 M2,2+1,11-15,Yüksek Giriş,
+
+İstanbul,Eyüpsultan,Karadolap Mahallesi,1600000,80 M2,75 M2,2+1,0 (Yeni),3. Kat,
+
+İstanbul,Eyüpsultan,Karadolap Mahallesi,1500000,80 M2,75 M2,2+1,0 (Yeni),3. Kat,
+
+İstanbul,Beylikdüzü,Cumhuriyet Mahallesi,690000,110 M2,100 M2,2+1,0 (Yeni),2. Kat,
+
+İstanbul,Esenyurt,Battalgazi Mahallesi,535000,100 M2,95 M2,2+1,5-10,Bahçe Katı,
+
+İstanbul,Beylikdüzü,Kavaklı Mahallesi,1890000,155 M2,135 M2,3+1,0 (Yeni),Bahçe Katı,
+
+İstanbul,Bahçelievler,Zafer Mahallesi,1170000,200 M2,180 M2,5+1,11-15,Çatı Dubleks,
+
+İstanbul,Kadıköy,Bostancı Mahallesi,3845000,140 M2,125 M2,3+1,21 Ve Üzeri,7. Kat,
+
+İstanbul,Bahçelievler,Zafer Mahallesi,900000,75 M2,60 M2,2+1,11-15,3. Kat,
+
+İstanbul,Bahçelievler,Zafer Mahallesi,875000,100 M2,85 M2,2+1,21 Ve Üzeri,3. Kat,
+
+İstanbul,Maltepe,İdealtepe Mahallesi,1750000,110 M2,90 M2,2+1,21 Ve Üzeri,1. Kat,
+
+İstanbul,Bahçelievler,Yenibosna Merkez Mahallesi,1570000,160 M2,155 M2,4+1,4,4. Kat,
+
+İstanbul,Esenyurt,Pınar Mahallesi,469000,100 M2,95 M2,2+1,5-10,Bahçe Katı,
+
+İstanbul,Beylikdüzü,Barış Mahallesi,180000,160 M2,140 M2,3+1,11-15,6. Kat,
+
+İstanbul,Silivri,Selimpaşa Mahallesi,900000,95 M2,90 M2,2+1,21 Ve Üzeri,2. Kat,
+
+İstanbul,Bahçelievler,Şirinevler Mahallesi,760000,70 M2,65 M2,2+1,5-10,2. Kat,
+
+İstanbul,Çekmeköy,Taşdelen Mahallesi,1220000,95 M2,85 M2,2+1,2,2. Kat,
+
+İstanbul,Bahçelievler,Yenibosna Merkez Mahallesi,1170000,170 M2,160 M2,5+1,11-15,4. Kat,
+
+İstanbul,Bahçelievler,Yenibosna Merkez Mahallesi,1575000,130 M2,120 M2,3+1,4,2. Kat,
+
+İstanbul,Çekmeköy,Sultançiftliği Mahallesi,1600000,95 M2,85 M2,2+1,0 (Yeni),4. Kat,
+
+İstanbul,Pendik,Velibaba Mahallesi,875000,85 M2,75 M2,2+1,5-10,2. Kat,
+
+İstanbul,Başakşehir,Bahçeşehir 2. Kısım Mahallesi,1500000TLarrow_downward%,65 M2,55 M2,1+1,5-10,1. Kat,Krediye Uygun Değil
+
+İstanbul,Sultangazi,Esentepe Mahallesi,595000,100 M2,90 M2,2+1,11-15,Düz Giriş,
+
+İstanbul,Pendik,Esenler Mahallesi,750000,100 M2,85 M2,2+1,5-10,Yüksek Giriş,
+
+İstanbul,Bakırköy,Kartaltepe Mahallesi,10950000,365 M2,350 M2,5+2,16-20,Düz Giriş,
+
+İstanbul,Bahçelievler,Şirinevler Mahallesi,875000,100 M2,90 M2,2+1,21 Ve Üzeri,3. Kat,Krediye Uygun Değil
+
+İstanbul,Zeytinburnu,Telsiz Mahallesi,770000,90 M2,80 M2,2+1,16-20,1. Kat,
+
+İstanbul,Maltepe,Girne Mahallesi,1250000,75 M2,65 M2,2+1,0 (Yeni),1. Kat,
+
+İstanbul,Esenyurt,Turgut Özal Mahallesi,1199000,100 M2,85 M2,2+1,4,4. Kat,
+
+İstanbul,Üsküdar,Valide-i Atik Mahallesi,1665000,95 M2,90 M2,2+1,21 Ve Üzeri,Yüksek Giriş,
+
+İstanbul,Gaziosmanpaşa,Hürriyet Mahallesi,860000,90 M2,75 M2,2+1,16-20,1. Kat,
+
+İstanbul,Üsküdar,Bahçelievler Mahallesi,2100000,125 M2,110 M2,3+1,21 Ve Üzeri,4. Kat,
+
+İstanbul,Çekmeköy,Merkez Mahallesi,2350000,170 M2,160 M2,4+1,4,5. Kat,
+
+İstanbul,Pendik,Fevzi Çakmak Mahallesi,765000,90 M2,70 M2,2+1,11-15,2. Kat,
+
+İstanbul,Sultangazi,Esentepe Mahallesi,850000,100 M2,80 M2,2+1,3,Yüksek Giriş,
+
+İstanbul,Maltepe,Fındıklı Mahallesi,975000,120 M2,100 M2,2+1,3,Çatı Dubleks,
+
+İstanbul,Kartal,Atalar Mahallesi,1100000,100 M2,85 M2,2+1,21 Ve Üzeri,Düz Giriş,
+
+İstanbul,Kartal,Cevizli Mahallesi,1395000,96 M2,72 M2,2+1,3,4. Kat,
+
+İstanbul,Maltepe,Fındıklı Mahallesi,975000,95 M2,85 M2,2+1,5-10,Yüksek Giriş,
+
+İstanbul,Güngören,Akıncılar Mahallesi,600000,110 M2,100 M2,2+1,21 Ve Üzeri,Yüksek Giriş,Krediye Uygun Değil
+
+İstanbul,Sancaktepe,Yenidoğan Mahallesi,910000,150 M2,140 M2,3+1,5-10,Yüksek Giriş,
+
+İstanbul,Kartal,Cevizli Mahallesi,965000,55 M2,45 M2,1+1,3,4. Kat,
+
+İstanbul,Çekmeköy,Taşdelen Mahallesi,1250000,100 M2,75 M2,1+1,0 (Yeni),Bahçe Katı,
+
+İstanbul,Bahçelievler,Zafer Mahallesi,650000,70 M2,65 M2,1+1,4,Bahçe Katı,
+
+İstanbul,Esenyurt,Ardıçlı Mahallesi,1150000,66 M2,55 M2,1+1,0 (Yeni),1. Kat,
+
+İstanbul,Başakşehir,Güvercintepe Mahallesi,550000,65 M2,55 M2,1+1,2,Bahçe Katı,
+
+İstanbul,Büyükçekmece,Cumhuriyet Mahallesi,1250000,190 M2,110 M2,2+1,0 (Yeni),Düz Giriş,
+
+İstanbul,Maltepe,İdealtepe Mahallesi,4500000,140 M2,116 M2,3+1,5-10,1. Kat,
+
+İstanbul,Pendik,Batı Mahallesi,950000,110 M2,90 M2,3+1,21 Ve Üzeri,1. Kat,
+
+İstanbul,Büyükçekmece,Türkoba Mahallesi,15000000,500 M2,420 M2,6+2,5-10,Villa Tipi,
+
+İstanbul,Büyükçekmece,Türkoba Mahallesi,13000000,600 M2,380 M2,5+1,5-10,Villa Tipi,
+
+İstanbul,Büyükçekmece,Türkoba Mahallesi,9250000,2.500 M2,600 M2,5+1,5-10,Villa Tipi,
+
+İstanbul,Büyükçekmece,Türkoba Mahallesi,12500000,2.500 M2,400 M2,4+2,0 (Yeni),Villa Tipi,
+
+İstanbul,Beylikdüzü,Cumhuriyet Mahallesi,699000,90 M2,70 M2,1+1,4,6. Kat,
+
+İstanbul,Esenyurt,Battalgazi Mahallesi,789000,110 M2,100 M2,2+1,3,1. Kat,
+
+İstanbul,Büyükçekmece,Güzelce Mahallesi,15000000,1.460 M2,460 M2,8+ Oda,5-10,Villa Tipi,
+
+İstanbul,Başakşehir,Bahçeşehir 2. Kısım Mahallesi,8250000,500 M2,380 M2,6+2,0 (Yeni),Villa Tipi,
+
+İstanbul,Üsküdar,Murat Reis Mahallesi,1675000,100 M2,90 M2,2+1,21 Ve Üzeri,Yüksek Giriş,
+
+İstanbul,Başakşehir,Bahçeşehir 1. Kısım Mahallesi,1275000,140 M2,130 M2,3+1,0 (Yeni),1. Kat,
+
+İstanbul,Beşiktaş,Abbasağa Mahallesi,14000000,300 M2,270 M2,6+4,5-10,5,Hayır
+
+İstanbul,Bakırköy,Şenlikköy Mahallesi,11000000,220 M2,210 M2,4+1,0 (Yeni),1. Kat,
+
+İstanbul,Bakırköy,Ataköy 7-8-9-10. Kısım Mahallesi,7000000,145 M2,135 M2,3+1,21 Ve Üzeri,1. Kat,
+
+İstanbul,Esenyurt,Selahaddin Eyyubi Mahallesi,680000TLarrow_downward,130 M2,95 M2,2+1,4,1. Kat,
+
+İstanbul,Bahçelievler,Yenibosna Merkez Mahallesi,1360000,100 M2,90 M2,2+1,21 Ve Üzeri,4. Kat,
+
+İstanbul,Çekmeköy,Mimar Sinan Mahallesi,950000,95 M2,80 M2,2+1,5-10,Düz Giriş,
+
+İstanbul,Küçükçekmece,Atakent Mahallesi,1550000,71 M2,59 M2,2+1,5-10,6. Kat,
+
+İstanbul,Bahçelievler,Zafer Mahallesi,445000,60 M2,50 M2,1+1,16-20,Bahçe Katı,
+
+İstanbul,Küçükçekmece,Atakent Mahallesi,1150000,58 M2,44 M2,1+1,5-10,18. Kat,
+
+İstanbul,Büyükçekmece,Celaliye Mahallesi,6630000,256 M2,183 M2,5+2,0 (Yeni),4. Kat,
+
+İstanbul,Büyükçekmece,Sinanoba Mahallesi,2500000,148 M2,135 M2,3+1,16-20,6. Kat,
+
+İstanbul,Ataşehir,Yenişehir Mahallesi,3250000,125 M2,110 M2,3+1,11-15,4. Kat,
+
+İstanbul,Bahçelievler,Şirinevler Mahallesi,780000,110 M2,100 M2,3+1,21 Ve Üzeri,Yüksek Giriş,
+
+İstanbul,Bahçelievler,Zafer Mahallesi,445000,60 M2,50 M2,1+1,16-20,Bahçe Katı,
+
+İstanbul,Küçükçekmece,Atakent Mahallesi,1150000,58 M2,44 M2,1+1,5-10,18. Kat,
+
+İstanbul,Büyükçekmece,Celaliye Mahallesi,6630000,256 M2,183 M2,5+2,0 (Yeni),4. Kat,
+
+İstanbul,Büyükçekmece,Sinanoba Mahallesi,2500000,148 M2,135 M2,3+1,16-20,6. Kat,
+
+İstanbul,Ataşehir,Yenişehir Mahallesi,3250000,125 M2,110 M2,3+1,11-15,4. Kat,
+
+İstanbul,Bahçelievler,Şirinevler Mahallesi,780000,110 M2,100 M2,3+1,21 Ve Üzeri,Yüksek Giriş,
+
+İstanbul,Kağıthane,Seyrantepe Mahallesi,4500000,101 M2,85 M2,2+1,0 (Yeni),17. Kat,
+
+İstanbul,Beylikdüzü,Yakuplu Mahallesi,1219000,125 M2,115 M2,2+1,0 (Yeni),2. Kat,
+
+İstanbul,Sultangazi,Yunus Emre Mahallesi,980000TLarrow_downward,92 M2,90 M2,2+1,5-10,2. Kat,
+
+İstanbul,Şişli,Cumhuriyet Mahallesi,4750000,100 M2,75 M2,2+1,5-10,4. Kat,
+
+İstanbul,Fatih,Sümbül Efendi Mahallesi,835000TLarrow_downward,85 M2,75 M2,2+1,21 Ve Üzeri,5. Kat,
+
+İstanbul,Bahçelievler,Zafer Mahallesi,1550000,200 M2,190 M2,4+1,11-15,4. Kat,
+
+İstanbul,Şişli,Feriköy Mahallesi,2500000,160 M2,140 M2,3+1,11-15,3. Kat,
+
+İstanbul,Bahçelievler,Soğanlı Mahallesi,1250000,120 M2,100 M2,3+1,21 Ve Üzeri,4. Kat,
+
+İstanbul,Beyoğlu,Halıcıoğlu Mahallesi,1850000,200 M2,180 M2,5+1,4,4. Kat,
+
+İstanbul,Esenyurt,Güzelyurt Mahallesi,399000,85 M2,80 M2,1+1,0 (Yeni),2. Kat,
+
+İstanbul,Maltepe,Altayçeşme Mahallesi,2020000,87 M2,74 M2,2+1,5-10,1. Kat,
+
+İstanbul,Küçükçekmece,Atakent Mahallesi,5500000,147 M2,140 M2,3+1,5-10,14. Kat,
+
+İstanbul,Esenyurt,Akevler Mahallesi,1050000,125 M2,110 M2,2+1,0 (Yeni),4. Kat,
+
+İstanbul,Esenyurt,İstiklal Mahallesi,689000,120 M2,100 M2,2+1,4,2. Kat,
+
+İstanbul,Bahçelievler,Siyavuşpaşa Mahallesi,1750000,115 M2,105 M2,3+1,0 (Yeni),Yüksek Giriş,
+
+İstanbul,Beylikdüzü,Yakuplu Mahallesi,1649000,130 M2,120 M2,2+1,1,1. Kat,
+
+İstanbul,Beylikdüzü,Yakuplu Mahallesi,1290000,130 M2,120 M2,2+1,1,1. Kat,
+
+İstanbul,Küçükçekmece,İstasyon Mahallesi,1475000,95 M2,90 M2,2+1,5-10,5. Kat,
+
+İstanbul,Küçükçekmece,Atakent Mahallesi,3650000,122 M2,110 M2,2+1,5-10,16. Kat,
+
+İstanbul,Küçükçekmece,Atakent Mahallesi,6900000,186 M2,180 M2,4+1,5-10,4. Kat,
+
+İstanbul,Maltepe,Feyzullah Mahallesi,1900000,100 M2,84 M2,2+1,21 Ve Üzeri,1. Kat,
+
+İstanbul,Büyükçekmece,Güzelce Mahallesi,12000000,830 M2,500 M2,8+ Oda,1,Düz Giriş,
+
+İstanbul,Kadıköy,Caddebostan Mahallesi,9150000,140 M2,107 M2,3+1,0 (Yeni),7. Kat,
+
+İstanbul,Başakşehir,Güvercintepe Mahallesi,725000,78 M2,75 M2,2+1,3,Yüksek Giriş,
+
+İstanbul,Gaziosmanpaşa,Merkez Mahallesi,1500000,100 M2,90 M2,2+1,0 (Yeni),2. Kat,
+
+İstanbul,Kartal,Uğur Mumcu Mahallesi,950000,90 M2,80 M2,2+1,21 Ve Üzeri,3. Kat,
+
+İstanbul,Bahçelievler,Siyavuşpaşa Mahallesi,1800000,130 M2,115 M2,3+1,0 (Yeni),4. Kat,
+
+İstanbul,Başakşehir,Bahçeşehir 2. Kısım Mahallesi,3350000,155 M2,130 M2,2+1,5-10,4. Kat,
+
+İstanbul,Esenyurt,Orhan Gazi Mahallesi,850000,110 M2,90 M2,2+1,4,1. Kat,
+
+İstanbul,Esenyurt,Hürriyet Mahallesi,450000,140 M2,110 M2,2+1,0 (Yeni),Bahçe Katı,
+
+İstanbul,Esenyurt,İncirtepe Mahallesi,749000,105 M2,95 M2,2+1,5-10,1. Kat,
+
+İstanbul,Sarıyer,Zekeriyaköy Mahallesi,3950000,135 M2,128 M2,3+1,21 Ve Üzeri,Bahçe Katı,
+
+İstanbul,Arnavutköy,Anadolu Mahallesi,1490000,220 M2,200 M2,4+2,4,Çatı Dubleks,
+
+İstanbul,Gaziosmanpaşa,Merkez Mahallesi,1000000,85 M2,80 M2,2+1,0 (Yeni),Yüksek Giriş,
+
+İstanbul,Tuzla,Yayla Mahallesi,2200000,135 M2,125 M2,3+1,4,1. Kat,
+
+İstanbul,Gaziosmanpaşa,Bağlarbaşı Mahallesi,880000TLarrow_downward,100 M2,90 M2,2+1,16-20,3. Kat,
+
+İstanbul,Büyükçekmece,Atatürk Mahallesi,2550000,180 M2,160 M2,3+2,5-10,Çatı Dubleks,
+
+İstanbul,Silivri,Piri Mehmet Paşa Mahallesi,700000,95 M2,85 M2,2+1,21 Ve Üzeri,5. Kat,
+
+İstanbul,Silivri,Yeni Mahallesi,590000,80 M2,70 M2,1+1,11-15,4. Kat,
+
+İstanbul,Büyükçekmece,Atatürk Mahallesi,1650000,130 M2,115 M2,3+1,5-10,Bahçe Katı,
+
+İstanbul,Bahçelievler,Zafer Mahallesi,760000,75 M2,65 M2,1+1,4,Yüksek Giriş,
+
+İstanbul,Silivri,Yeni Mahallesi,739999,85 M2,75 M2,2+1,4,3. Kat,
+
+İstanbul,Bağcılar,Yıldıztepe Mahallesi,1050000,100 M2,90 M2,3+1,11-15,1. Kat,
+
+İstanbul,Bahçelievler,Bahçelievler Mahallesi,5500000,190 M2,160 M2,4+2,0 (Yeni),4. Kat,
+
+İstanbul,Sancaktepe,Akpınar Mahallesi,915000,90 M2,80 M2,2+1,4,3. Kat,
+
+İstanbul,Küçükçekmece,Atakent Mahallesi,6750000,157 M2,140 M2,3+1,2,1. Kat,
+
+İstanbul,Küçükçekmece,İstasyon Mahallesi,4500000,220 M2,185 M2,3+1,21 Ve Üzeri,Düz Giriş,
+
+İstanbul,Zeytinburnu,Beştelsiz Mahallesi,3100000,144 M2,124 M2,3+1,0 (Yeni),7. Kat,
+
+İstanbul,Sultangazi,Esentepe Mahallesi,695000,120 M2,100 M2,3+1,11-15,Kot 1 (-1). Kat,
+
+İstanbul,Esenyurt,Atatürk Mahallesi,919000,120 M2,110 M2,2+1,3,3. Kat,
+
+İstanbul,Kartal,Gümüşpınar Mahallesi,1300000,82 M2,63 M2,2+1,0 (Yeni),3. Kat,
+
+İstanbul,Kartal,Gümüşpınar Mahallesi,1350000,82 M2,63 M2,2+1,0 (Yeni),4. Kat,
+
+İstanbul,Bakırköy,Zuhuratbaba Mahallesi,5000000,140 M2,110 M2,3+1,0 (Yeni),2. Kat,
+
+İstanbul,Büyükçekmece,Fatih Mahallesi,1350000,135 M2,120 M2,3+1,21 Ve Üzeri,4. Kat,
+
+İstanbul,Fatih,Aksaray Mahallesi,800000,85 M2,75 M2,2+1,21 Ve Üzeri,1. Kat,
+
+İstanbul,Beylikdüzü,Cumhuriyet Mahallesi,439000,110 M2,100 M2,2+1,4,2. Kat,
+
+İstanbul,Fatih,Hırka-i Şerif Mahallesi,445000,75 M2,70 M2,1+1,21 Ve Üzeri,Yarı Bodrum,
+
+İstanbul,Küçükçekmece,Mehmet Akif Mahallesi,3100000,136 M2,130 M2,7+3,21 Ve Üzeri,3,Yatırıma Uygun
+
+İstanbul,Esenler,Fatih Mahallesi,380000,65 M2,60 M2,1+1,11-15,Yarı Bodrum,
+
+İstanbul,Bakırköy,Basınköy Mahallesi,93000000,1.200 M2,1.040 M2,8+ Oda,21 Ve Üzeri,Müstakil,
+
+İstanbul,Esenyurt,Üçevler Mahallesi,920000,140 M2,130 M2,3+1,4,1. Kat,
+
+İstanbul,Fatih,Hırka-i Şerif Mahallesi,1500000,70 M2,60 M2,2+1,0 (Yeni),1. Kat,
+
+İstanbul,Esenyurt,Çınar Mahallesi,889000,140 M2,135 M2,3+1,3,3. Kat,
+
+İstanbul,Avcılar,Cihangir Mahallesi,699999,85 M2,75 M2,2+1,4,Yüksek Giriş,
+
+İstanbul,Avcılar,Merkez Mahallesi,865000,140 M2,130 M2,3+1,21 Ve Üzeri,2. Kat,
+
+İstanbul,Avcılar,Merkez Mahallesi,885000,115 M2,100 M2,2+1,16-20,3. Kat,
+
+İstanbul,Avcılar,Merkez Mahallesi,689999,65 M2,55 M2,1+1,4,Yüksek Giriş,
+
+İstanbul,Esenyurt,İncirtepe Mahallesi,850000,140 M2,125 M2,3+1,5-10,1. Kat,
+
+İstanbul,Esenyurt,Turgut Özal Mahallesi,739000,90 M2,80 M2,2+1,5-10,Yüksek Giriş,
+
+İstanbul,Bahçelievler,Hürriyet Mahallesi,750000,55 M2,50 M2,1+1,5-10,Yüksek Giriş,
+
+İstanbul,Bakırköy,Zuhuratbaba Mahallesi,3950000,100 M2,83 M2,2+1,0 (Yeni),1. Kat,
+
+İstanbul,Pendik,Yayalar Mahallesi,1390000,190 M2,170 M2,3+2,4,9. Kat,
+
+İstanbul,Esenyurt,Selahaddin Eyyubi Mahallesi,1150000,175 M2,160 M2,4+2,5-10,6. Kat,
+
+İstanbul,Bahçelievler,Bahçelievler Mahallesi,3850000,105 M2,87 M2,2+1,0 (Yeni),1. Kat,
+
+İstanbul,Küçükçekmece,Kanarya Mahallesi,955000,105 M2,90 M2,3+1,4,Düz Giriş,
+
+İstanbul,Bahçelievler,Yenibosna Merkez Mahallesi,1195000,85 M2,80 M2,2+1,0 (Yeni),3. Kat,
+
+İstanbul,Sultanbeyli,Adil Mahallesi,890000,88 M2,78 M2,2+1,1,3. Kat,
+
+İstanbul,Başakşehir,Başak Mahallesi,3500000,150 M2,138 M2,4+1,11-15,4. Kat,
+
+İstanbul,Fatih,Seyyid Ömer Mahallesi,750000,75 M2,70 M2,1+1,21 Ve Üzeri,Yüksek Giriş,
+
+İstanbul,Büyükçekmece,Celaliye Mahallesi,1050000TLarrow_downward,110 M2,100 M2,3+1,0 (Yeni),1. Kat,
+
+İstanbul,Fatih,Hırka-i Şerif Mahallesi,2500000,110 M2,100 M2,2+1,0 (Yeni),Çatı Dubleks,
+
+İstanbul,Fatih,Hırka-i Şerif Mahallesi,1400000,70 M2,60 M2,1+1,0 (Yeni),1. Kat,
+
+İstanbul,Fatih,Hırka-i Şerif Mahallesi,2500000,120 M2,110 M2,2+1,0 (Yeni),Çatı Dubleks,
+
+İstanbul,Başakşehir,Bahçeşehir 2. Kısım Mahallesi,6100000,206 M2,190 M2,3+1,5-10,5. Kat,
+
+İstanbul,Ataşehir,Yenişehir Mahallesi,1450000,90 M2,80 M2,2+1,11-15,Düz Giriş,
+
+İstanbul,Maltepe,Zümrütevler Mahallesi,720000,70 M2,60 M2,2+1,5-10,Bahçe Katı,
+
+İstanbul,Maltepe,Cevizli Mahallesi,1515000,90 M2,70 M2,2+1,3,2. Kat,
+
+İstanbul,Sultangazi,Cebeci Mahallesi,1050000,135 M2,120 M2,3+1,11-15,Çatı Katı,
+
+İstanbul,Avcılar,Denizköşkler Mahallesi,450000,90 M2,85 M2,2+1,21 Ve Üzeri,Bahçe Katı,
+
+İstanbul,Başakşehir,Bahçeşehir 2. Kısım Mahallesi,5250000,360 M2,330 M2,5+2,11-15,Villa Tipi,
+
+İstanbul,Maltepe,Yalı Mahallesi,2550000,130 M2,120 M2,3+1,4,1. Kat,
+
+İstanbul,Gaziosmanpaşa,Bağlarbaşı Mahallesi,795000TLarrow_downward,110 M2,90 M2,2+1,11-15,Yüksek Giriş,
+
+İstanbul,Fatih,Topkapı Mahallesi,1100000,90 M2,85 M2,2+1,21 Ve Üzeri,1. Kat,
+
+İstanbul,Bahçelievler,Soğanlı Mahallesi,1150000,110 M2,90 M2,2+1,0 (Yeni),Bahçe Katı,
+
+İstanbul,Bahçelievler,Bahçelievler Mahallesi,3900000,215 M2,190 M2,5+1,21 Ve Üzeri,4. Kat,
+
+İstanbul,Esenyurt,Yeşilkent Mahallesi,765000,90 M2,75 M2,1+1,5-10,17. Kat,
+
+İstanbul,Gaziosmanpaşa,Merkez Mahallesi,1160000TLarrow_downward,115 M2,100 M2,2+1,5-10,Kot 1 (-1). Kat,
+
+İstanbul,Gaziosmanpaşa,Hürriyet Mahallesi,690000,95 M2,80 M2,2+1,21 Ve Üzeri,3. Kat,
+
+İstanbul,Maltepe,Küçükyalı Mahallesi,2690000TLarrow_downward%,120 M2,100 M2,3+1,2,2. Kat,
+
+İstanbul,Kağıthane,Gürsel Mahallesi,2300000,180 M2,165 M2,5+1,0 (Yeni),6. Kat,
+
+İstanbul,Kağıthane,Hamidiye Mahallesi,5700000,125 M2,105 M2,3+1,5-10,8. Kat,
+
+İstanbul,Beşiktaş,Dikilitaş Mahallesi,7500000,150 M2,135 M2,3+1,5-10,4. Kat,
+
+İstanbul,Beylikdüzü,Kavaklı Mahallesi,1850000TLarrow_downward,200 M2,170 M2,4+2,4,4. Kat,
+
+İstanbul,Esenler,15 Temmuz Mahallesi,2650000TLarrow_downward,110 M2,95 M2,3+1,0 (Yeni),5. Kat,
+
+İstanbul,Kadıköy,Zühtüpaşa Mahallesi,4285000,135 M2,105 M2,3+1,21 Ve Üzeri,7. Kat,
+
+İstanbul,Bahçelievler,Siyavuşpaşa Mahallesi,1450000,200 M2,180 M2,4+2,21 Ve Üzeri,4. Kat,
+
+İstanbul,Kağıthane,Nurtepe Mahallesi,1750000,95 M2,80 M2,2+1,4,1. Kat,
+
+İstanbul,Başakşehir,Başakşehir Mahallesi,4100000,175 M2,141 M2,3+1,3,8. Kat,
+
+İstanbul,Çekmeköy,Mimar Sinan Mahallesi,6950000,185 M2,170 M2,4+1,11-15,3. Kat,
+
+İstanbul,Küçükçekmece,Atakent Mahallesi,4950000,170 M2,140 M2,3+1,5-10,7. Kat,
+
+İstanbul,Ümraniye,Madenler Mahallesi,950000,130 M2,100 M2,2+1,21 Ve Üzeri,7. Kat,
+
+İstanbul,Bahçelievler,Şirinevler Mahallesi,760000,110 M2,100 M2,2+1,21 Ve Üzeri,5. Kat,
+
+İstanbul,Bağcılar,Bağlar Mahallesi,1680000TLarrow_downward,75 M2,70 M2,2+1,5-10,5. Kat,
+
+İstanbul,Başakşehir,Kayabaşı Mahallesi,3700000TLarrow_downward,145 M2,105 M2,3+1,4,5. Kat,
+
+İstanbul,Çekmeköy,Merkez Mahallesi,1565000,120 M2,105 M2,3+1,5-10,3. Kat,
+
+İstanbul,Küçükçekmece,Atakent Mahallesi,3120000,134 M2,106 M2,3+1,11-15,12. Kat,
+
+İstanbul,Avcılar,Cihangir Mahallesi,775550,85 M2,80 M2,2+1,5-10,Yüksek Giriş,
+
+İstanbul,Küçükçekmece,Atakent Mahallesi,1379000,75 M2,66 M2,2+1,11-15,3. Kat,
+
+İstanbul,Küçükçekmece,İnönü Mahallesi,3150000TLarrow_downward,109 M2,108 M2,2+1,0 (Yeni),5. Kat,
+
+İstanbul,Kadıköy,Caferağa Mahallesi,2650000,80 M2,70 M2,2+1,11-15,1. Kat,
+
+İstanbul,Kağıthane,Çağlayan Mahallesi,840000TLarrow_downward%,75 M2,70 M2,2+1,11-15,2. Kat,
+
+İstanbul,Pendik,Yayalar Mahallesi,900000TLarrow_downward,75 M2,65 M2,1+1,5-10,1. Kat,
+
+İstanbul,Beylikdüzü,Yakuplu Mahallesi,1850000,155 M2,130 M2,3+1,11-15,3. Kat,
+
+İstanbul,Bahçelievler,Yenibosna Merkez Mahallesi,700000,70 M2,65 M2,1+1,0 (Yeni),Yüksek Giriş,
+
+İstanbul,Bahçelievler,Şirinevler Mahallesi,750000,85 M2,75 M2,2+1,4,Bahçe Katı,
+
+İstanbul,Beşiktaş,Dikilitaş Mahallesi,4250000TLarrow_downward,100 M2,85 M2,3+1,0 (Yeni),1. Kat,
+
+İstanbul,Başakşehir,Güvercintepe Mahallesi,920000,96 M2,65 M2,2+1,3,Yüksek Giriş,Krediye Uygun Değil
+
+İstanbul,Küçükçekmece,İnönü Mahallesi,975000,85 M2,80 M2,2+1,3,1. Kat,
+
+İstanbul,Başakşehir,Başak Mahallesi,9500000,332 M2,300 M2,6+2,21 Ve Üzeri,Düz Giriş,
+
+İstanbul,Kadıköy,Fenerbahçe Mahallesi,9850000,145 M2,110 M2,3+1,4,6. Kat,
+
+İstanbul,Küçükçekmece,Yeşilova Mahallesi,1250000,75 M2,70 M2,2+1,0 (Yeni),2. Kat,
+
+İstanbul,Esenyurt,Zafer Mahallesi,2750000,157 M2,130 M2,3+1,5-10,5. Kat,
+
+İstanbul,Beylikdüzü,Cumhuriyet Mahallesi,3500000TLarrow_downward,230 M2,195 M2,3+1,2,1. Kat,
+
+İstanbul,Pendik,Yayalar Mahallesi,2150000TLarrow_downward,150 M2,138 M2,3+1,16-20,2. Kat,
+
+İstanbul,Esenyurt,Sultaniye Mahallesi,770000,156 M2,130 M2,3+1,5-10,2. Kat,
+
+İstanbul,Gaziosmanpaşa,Karadeniz Mahallesi,5500000,240 M2,180 M2,4+1,5-10,12. Kat,
+
+İstanbul,Pendik,Yenişehir Mahallesi,1350000,90 M2,75 M2,2+1,5-10,4. Kat,
+
+İstanbul,Maltepe,Altıntepe Mahallesi,2250000TLarrow_downward,100 M2,89 M2,2+1,11-15,3. Kat,
+
+İstanbul,Başakşehir,Güvercintepe Mahallesi,620000,75 M2,65 M2,1+1,4,Yüksek Giriş,
+
+İstanbul,Esenyurt,Hürriyet Mahallesi,1129000,240 M2,230 M2,4+2,5-10,3. Kat,
+
+İstanbul,Esenyurt,Ardıçlı Mahallesi,280000,115 M2,105 M2,2+1,0 (Yeni),Yüksek Giriş,
+
+İstanbul,Fatih,Zeyrek Mahallesi,1500000,140 M2,135 M2,3+1,21 Ve Üzeri,Çatı Dubleks,
+
+İstanbul,Esenyurt,Turgut Özal Mahallesi,920000,115 M2,100 M2,2+1,5-10,3. Kat,
+
+İstanbul,Maltepe,Fındıklı Mahallesi,940000,140 M2,130 M2,3+1,16-20,1. Kat,Krediye Uygun Değil
+
+İstanbul,Bahçelievler,Bahçelievler Mahallesi,1500000,135 M2,130 M2,3+1,21 Ve Üzeri,Düz Giriş,
+
+İstanbul,Bağcılar,Sancaktepe Mahallesi,1875000,105 M2,85 M2,2+1,0 (Yeni),Yüksek Giriş,
+
+İstanbul,Tuzla,İstasyon Mahallesi,1690000,104 M2,72 M2,2+1,0 (Yeni),Yüksek Giriş,
+
+İstanbul,Bakırköy,Yeşilköy Mahallesi,24000000,420 M2,320 M2,7+2,0 (Yeni),Çatı Dubleks,
+
+İstanbul,Sancaktepe,Yunus Emre Mahallesi,1575000,250 M2,220 M2,5+1,4,4. Kat,
+
+İstanbul,Sarıyer,Darüşşafaka Mahallesi,6375000TLarrow_downward,152 M2,145 M2,3+1,21 Ve Üzeri,2. Kat,
+
+İstanbul,Maltepe,Zümrütevler Mahallesi,450000,80 M2,65 M2,2+1,21 Ve Üzeri,2. Kat,Krediye Uygun Değil
+
+İstanbul,Eyüpsultan,Çırçır Mahallesi,1480000,90 M2,85 M2,2+1,0 (Yeni),3. Kat,
+
+İstanbul,Kağıthane,Sultan Selim Mahallesi,1330000,75 M2,65 M2,2+1,5-10,Yüksek Giriş,
+
+İstanbul,Kağıthane,Sultan Selim Mahallesi,1475000,140 M2,110 M2,3+2,5-10,Çatı Dubleks,
+
+İstanbul,Kadıköy,Eğitim Mahallesi,3220000,120 M2,78 M2,2+1,0 (Yeni),6. Kat,
+
+İstanbul,Şile,Kumbaba Mahallesi,4350000TLarrow_downward,220 M2,180 M2,4+1,4,Müstakil,
+
+İstanbul,Küçükçekmece,Fevzi Çakmak Mahallesi,2150000,165 M2,150 M2,3+2,0 (Yeni),3. Kat,
+
+İstanbul,Eyüpsultan,Merkez Mahallesi,3200000,200 M2,180 M2,4+1,5-10,5. Kat,
+
+İstanbul,Kağıthane,Mehmet Akif Ersoy Mahallesi,865000TLarrow_downward,210 M2,170 M2,4+2,0 (Yeni),Bahçe Dublex,
+
+İstanbul,Esenyurt,Cumhuriyet Mahallesi,2700000,174 M2,135 M2,3+1,11-15,4. Kat,
+
+İstanbul,Büyükçekmece,Mimaroba Mahallesi,1899000,150 M2,140 M2,3+1,21 Ve Üzeri,1. Kat,
+
+İstanbul,Beylikdüzü,Marmara Mahallesi,3250000,210 M2,200 M2,3+1,11-15,Düz Giriş,
+
+İstanbul,Kadıköy,Erenköy Mahallesi,4850000,230 M2,178 M2,5+1,2,Çatı Dubleks,
+
+İstanbul,Bahçelievler,Zafer Mahallesi,599000,75 M2,70 M2,2+1,21 Ve Üzeri,1. Kat,Krediye Uygun Değil
+
+İstanbul,Esenyurt,Saadetdere Mahallesi,1300000,140 M2,130 M2,3+1,3,Kot 2 (-2). Kat,
+
+İstanbul,Beylikdüzü,Marmara Mahallesi,977000,115 M2,105 M2,2+1,0 (Yeni),2. Kat,
+
+İstanbul,Bağcılar,Kirazlı Mahallesi,550000,100 M2,90 M2,2+1,21 Ve Üzeri,4. Kat,Krediye Uygun Değil
+
+İstanbul,Maltepe,Zümrütevler Mahallesi,4500000,99 M2,91 M2,Stüdyo,5-10,2. Kat,
+
+İstanbul,Avcılar,Ambarlı Mahallesi,625000,160 M2,145 M2,3+1,21 Ve Üzeri,1. Kat,
+
+İstanbul,Bakırköy,Şenlikköy Mahallesi,7500000,165 M2,150 M2,3+1,0 (Yeni),Bahçe Katı,
+
+İstanbul,Sarıyer,Huzur Mahallesi,5500000,101 M2,72 M2,2+1,0 (Yeni),16. Kat,Krediye Uygun Değil
+
+İstanbul,Sultangazi,Cebeci Mahallesi,975000,105 M2,95 M2,2+1,0 (Yeni),Yüksek Giriş,
+
+İstanbul,Bakırköy,Şenlikköy Mahallesi,14500000,230 M2,210 M2,3+1,0 (Yeni),1. Kat,
+
+İstanbul,Bakırköy,Şenlikköy Mahallesi,22000000,380 M2,350 M2,7+2,0 (Yeni),2. Kat,
+
+İstanbul,Başakşehir,Bahçeşehir 2. Kısım Mahallesi,4950000TLarrow_downward,360 M2,330 M2,5+2,11-15,Müstakil,
+
+İstanbul,Bakırköy,Yeşilköy Mahallesi,15200000,320 M2,280 M2,5+2,0 (Yeni),Çatı Dubleks,
+
+İstanbul,Bakırköy,Yeşilyurt Mahallesi,5030000TLarrow_downward,135 M2,120 M2,3+1,0 (Yeni),Bahçe Katı,
+
+İstanbul,Çekmeköy,Merkez Mahallesi,2100000,130 M2,120 M2,3+1,1,2. Kat,
+
+İstanbul,Pendik,Çamçeşme Mahallesi,510000,120 M2,110 M2,3+1,16-20,3. Kat,Krediye Uygun Değil
+
+İstanbul,Arnavutköy,Yeşilbayır Mahallesi,4500000,400 M2,350 M2,5+4,16-20,Villa Tipi,
+
+İstanbul,Maltepe,İdealtepe Mahallesi,1990000,120 M2,106 M2,3+1,5-10,Bahçe Katı,
+
+İstanbul,Gaziosmanpaşa,Hürriyet Mahallesi,1250000,180 M2,170 M2,4+1,21 Ve Üzeri,3. Kat,
+
+İstanbul,Esenler,Fatih Mahallesi,380000,70 M2,65 M2,1+1,21 Ve Üzeri,4. Kat,Krediye Uygun Değil
+
+İstanbul,Küçükçekmece,Fevzi Çakmak Mahallesi,1760000,175 M2,165 M2,4+2,2,3. Kat,
+
+İstanbul,Bahçelievler,Siyavuşpaşa Mahallesi,550000,75 M2,70 M2,2+1,21 Ve Üzeri,Bahçe Katı,
+
+İstanbul,Büyükçekmece,Karaağaç Mahallesi,12750000TLarrow_downward,700 M2,650 M2,6+1,11-15,Villa Tipi,Bilinmiyor
+
+İstanbul,Bahçelievler,Soğanlı Mahallesi,2350000,380 M2,360 M2,5+2,21 Ve Üzeri,5. Kat,
+
+İstanbul,Beylikdüzü,Cumhuriyet Mahallesi,739000,100 M2,95 M2,2+1,0 (Yeni),2. Kat,
+
+İstanbul,Küçükçekmece,Gültepe Mahallesi,1750000,150 M2,145 M2,3+2,5-10,3. Kat,
+
+İstanbul,Bahçelievler,Yenibosna Merkez Mahallesi,625000TLarrow_downward%,80 M2,75 M2,1+1,4,Bahçe Katı,
+
+İstanbul,Esenyurt,Saadetdere Mahallesi,929000,105 M2,95 M2,2+1,0 (Yeni),2. Kat,
+
+İstanbul,Başakşehir,Bahçeşehir 2. Kısım Mahallesi,7000000,252 M2,240 M2,4+1,5-10,5. Kat,
+
+İstanbul,Avcılar,Denizköşkler Mahallesi,815000TLarrow_downward,85 M2,80 M2,2+1,0 (Yeni),Bahçe Katı,
+
+İstanbul,Tuzla,İstasyon Mahallesi,1650000,97 M2,64 M2,2+1,0 (Yeni),Bahçe Katı,
+
+İstanbul,Büyükçekmece,Mimar Sinan Merkez Mahallesi,950000,85 M2,75 M2,2+1,5-10,Yüksek Giriş,
+
+İstanbul,Üsküdar,Sultantepe Mahallesi,10000000,280 M2,250 M2,5+2,0 (Yeni),5. Kat,
+
+İstanbul,Bahçelievler,Siyavuşpaşa Mahallesi,1000000,85 M2,75 M2,2+1,11-15,Yüksek Giriş,
+
+İstanbul,Başakşehir,Bahçeşehir 1. Kısım Mahallesi,5150000,123 M2,110 M2,2+1,5-10,Bahçe Dublex,
+
+İstanbul,Büyükçekmece,Atatürk Mahallesi,1750000,155 M2,145 M2,3+1,5-10,1. Kat,
+
+İstanbul,Kadıköy,Feneryolu Mahallesi,2450000,85 M2,70 M2,1+1,21 Ve Üzeri,3. Kat,
+
+İstanbul,Bahçelievler,Hürriyet Mahallesi,825000,65 M2,55 M2,1+1,4,Yüksek Giriş,
+
+İstanbul,Başakşehir,Kayabaşı Mahallesi,3970000,165 M2,113 M2,3+1,5-10,1. Kat,
+
+İstanbul,Şişli,Cumhuriyet Mahallesi,9800000,165 M2,135 M2,2.5+1,3,7. Kat,Bilinmiyor
+
+İstanbul,Şişli,Cumhuriyet Mahallesi,5400000,85 M2,60 M2,1+1,0 (Yeni),19. Kat,Bilinmiyor
+
+İstanbul,Başakşehir,Bahçeşehir 2. Kısım Mahallesi,4500000,200 M2,140 M2,4.5+1,0 (Yeni),10. Kat,Krediye Uygun Değil
+
+İstanbul,Esenyurt,Güzelyurt Mahallesi,829000,155 M2,140 M2,3+1,4,3. Kat,
+
+İstanbul,Esenyurt,Hürriyet Mahallesi,579000,110 M2,100 M2,2+1,4,2. Kat,
+
+İstanbul,Beylikdüzü,Sahil Mahallesi,4199000,270 M2,250 M2,5+3,0 (Yeni),Çatı Dubleks,
+
+İstanbul,Bakırköy,Yeşilköy Mahallesi,8750000,180 M2,160 M2,4+1,0 (Yeni),2. Kat,
+
+İstanbul,Başakşehir,Bahçeşehir 2. Kısım Mahallesi,5500000,260 M2,190 M2,3+1,5-10,5. Kat,
+
+İstanbul,Bağcılar,Güneşli Mahallesi,1450000,120 M2,115 M2,2+1,1,Yüksek Giriş,
+
+İstanbul,Beylikdüzü,Adnan Kahveci Mahallesi,2600000,150 M2,130 M2,3+1,0 (Yeni),1. Kat,
+
+İstanbul,Büyükçekmece,Ekinoba Mahallesi,3750000,200 M2,160 M2,3+1,3,Bahçe Dublex,
+
+İstanbul,Başakşehir,Güvercintepe Mahallesi,2180000,178 M2,148 M2,4+1,5-10,3. Kat,
+
+İstanbul,Tuzla,İstasyon Mahallesi,2550000,126 M2,94 M2,3+1,0 (Yeni),6. Kat,
+
+İstanbul,Tuzla,İstasyon Mahallesi,3490000,144 M2,133 M2,4+1,0 (Yeni),5. Kat,
+
+İstanbul,Tuzla,İstasyon Mahallesi,2480000,143 M2,95 M2,3+1,0 (Yeni),4. Kat,
+
+İstanbul,Tuzla,İstasyon Mahallesi,3300000,200 M2,159 M2,5+1,0 (Yeni),8. Kat,
+
+İstanbul,Tuzla,İstasyon Mahallesi,1875000,105 M2,72 M2,2+1,0 (Yeni),3. Kat,
+
+İstanbul,Tuzla,İstasyon Mahallesi,5000000,211 M2,192 M2,5+2,0 (Yeni),7. Kat,
+
+İstanbul,Tuzla,İstasyon Mahallesi,1875000,105 M2,72 M2,2+1,0 (Yeni),1. Kat,
+
+İstanbul,Tuzla,İstasyon Mahallesi,1975000,105 M2,72 M2,2+1,0 (Yeni),4. Kat,
+
+İstanbul,Tuzla,İstasyon Mahallesi,2500000,126 M2,93 M2,3+1,0 (Yeni),6. Kat,
+
+İstanbul,Tuzla,İstasyon Mahallesi,2500000,126 M2,94 M2,3+1,0 (Yeni),6. Kat,
+
+İstanbul,Bahçelievler,Hürriyet Mahallesi,1150000TLarrow_downward,115 M2,105 M2,3+1,21 Ve Üzeri,1. Kat,
+
+İstanbul,Beylikdüzü,Adnan Kahveci Mahallesi,9000000,375 M2,340 M2,6+2,0 (Yeni),Müstakil,
+
+İstanbul,Eyüpsultan,İslambey Mahallesi,1050000TLarrow_downward,120 M2,100 M2,3+1,21 Ve Üzeri,3. Kat,
+
+İstanbul,Başakşehir,Kayabaşı Mahallesi,7830000,247 M2,171 M2,4+1,0 (Yeni),5. Kat,Krediye Uygun Değil
+
+İstanbul,Esenyurt,Hürriyet Mahallesi,519000,105 M2,95 M2,2+1,5-10,2. Kat,
+
+İstanbul,Beylikdüzü,Yakuplu Mahallesi,1349000,135 M2,130 M2,3+1,0 (Yeni),2. Kat,
+
+İstanbul,Esenyurt,Piri Reis Mahallesi,920000,110 M2,100 M2,2+1,4,15. Kat,
+
+İstanbul,Büyükçekmece,Celaliye Mahallesi,2500000,400 M2,190 M2,4+2,21 Ve Üzeri,Düz Giriş,
+
+İstanbul,Esenyurt,Mehmet Akif Ersoy Mahallesi,890000,90 M2,70 M2,2+1,0 (Yeni),2. Kat,
+
+İstanbul,Beylikdüzü,Cumhuriyet Mahallesi,420000,100 M2,90 M2,2+1,4,Bahçe Katı,
+
+İstanbul,Esenyurt,Mehmet Akif Ersoy Mahallesi,420000,100 M2,90 M2,2+1,0 (Yeni),Bahçe Katı,
+
+İstanbul,Kartal,Petroliş Mahallesi,1390000,80 M2,70 M2,2+1,0 (Yeni),1. Kat,
+
+İstanbul,Pendik,Velibaba Mahallesi,1900000,220 M2,200 M2,4+2,11-15,Düz Giriş,Krediye Uygun Değil
+
+İstanbul,Beylikdüzü,Adnan Kahveci Mahallesi,1575000,340 M2,320 M2,4+2,16-20,13. Kat,
+
+İstanbul,Esenyurt,Koza Mahallesi,750000TLarrow_downward,78 M2,55 M2,2+1,4,7. Kat,
+
+İstanbul,Bağcılar,Hürriyet Mahallesi,1850000,110 M2,95 M2,2+1,0 (Yeni),1. Kat,
+
+İstanbul,Güngören,Haznedar Mahallesi,570000,50 M2,40 M2,1+1,0 (Yeni),Bahçe Katı,
+
+İstanbul,Büyükçekmece,Cumhuriyet Mahallesi,7250000TLarrow_downward,530 M2,450 M2,8+ Oda,21 Ve Üzeri,Villa Tipi,
+
+İstanbul,Bahçelievler,Hürriyet Mahallesi,1800000,170 M2,150 M2,4+2,5-10,5. Kat,
+
+İstanbul,Sultangazi,Esentepe Mahallesi,1400000,195 M2,180 M2,4+1,5-10,Çatı Katı,
+
+İstanbul,Beylikdüzü,Cumhuriyet Mahallesi,479999,120 M2,110 M2,2+1,0 (Yeni),3. Kat,
+
+İstanbul,Gaziosmanpaşa,Karadeniz Mahallesi,4250000,140 M2,115 M2,3+1,5-10,17. Kat,
+
+İstanbul,Pendik,Esenler Mahallesi,1450000,235 M2,220 M2,6+2,11-15,3. Kat,
+
+İstanbul,Sultangazi,Yayla Mahallesi,2300000,170 M2,169 M2,2+1,11-15,4,Hayır
+
+İstanbul,Gaziosmanpaşa,Karadeniz Mahallesi,3000000,140 M2,110 M2,3+1,5-10,5. Kat,
+
+İstanbul,Silivri,Kavaklı Hürriyet Mahallesi,3150000,1.177 M2,250 M2,4+2,21 Ve Üzeri,Düz Giriş,
+
+İstanbul,Beykoz,Anadolu Kavağı Mahallesi,3000000,300 M2,250 M2,3+1,21 Ve Üzeri,Düz Giriş,Krediye Uygun Değil
+
+İstanbul,Gaziosmanpaşa,Karadeniz Mahallesi,2800000,120 M2,90 M2,2+1,5-10,12. Kat,
+
+İstanbul,Pendik,Esenler Mahallesi,1600000,135 M2,134 M2,1 Oda,11-15,3,Bilinmiyor
+
+İstanbul,Büyükçekmece,Cumhuriyet Mahallesi,2700000,270 M2,250 M2,5+2,4,Çatı Dubleks,
+
+İstanbul,Beşiktaş,Yıldız Mahallesi,30000000,300 M2,290 M2,5+2,21 Ve Üzeri,2. Kat,
+
+İstanbul,Şişli,Teşvikiye Mahallesi,3750000,100 M2,90 M2,2+1,2,Yüksek Giriş,
+
+İstanbul,Başakşehir,Bahçeşehir 2. Kısım Mahallesi,3750000,149 M2,122 M2,3+1,0 (Yeni),1. Kat,Krediye Uygun Değil
+
+İstanbul,Esenyurt,Gökevler Mahallesi,295000TLarrow_downward%,59 M2,50 M2,Stüdyo,5-10,10. Kat,
+
+İstanbul,Ümraniye,Elmalıkent Mahallesi,1585000,102 M2,95 M2,2+1,5-10,3. Kat,
+
+İstanbul,Zeytinburnu,Gökalp Mahallesi,1680000TLarrow_downward,85 M2,80 M2,2+1,21 Ve Üzeri,3. Kat,
+
+İstanbul,Küçükçekmece,Yeşilova Mahallesi,3900000,220 M2,200 M2,4+2,0 (Yeni),3. Kat,
+
+İstanbul,Beşiktaş,Yıldız Mahallesi,30000000,300 M2,290 M2,5+2,21 Ve Üzeri,2. Kat,
+
+İstanbul,Ataşehir,Kayışdağı Mahallesi,875000,90 M2,85 M2,2+1,5-10,Bahçe Katı,
+
+İstanbul,Gaziosmanpaşa,Karadeniz Mahallesi,2790000,120 M2,80 M2,2+1,3,11. Kat,
+
+İstanbul,Eyüpsultan,Karadolap Mahallesi,1520000,95 M2,80 M2,2+1,5-10,1. Kat,
+
+İstanbul,Sarıyer,Büyükdere Mahallesi,1900000,150 M2,145 M2,4+2,4,Müstakil,Krediye Uygun Değil
+
+İstanbul,Kartal,Yakacık Çarşı Mahallesi,3200000,140 M2,120 M2,3+1,0 (Yeni),4. Kat,
+
+İstanbul,Pendik,Çamlık Mahallesi,15750000,350 M2,310 M2,5+1,11-15,2. Kat,
+
+İstanbul,Sarıyer,Maslak Mahallesi,3250000,75 M2,60 M2,1+1,5-10,14. Kat,
+
+İstanbul,Pendik,Velibaba Mahallesi,1600000,120 M2,83 M2,3+1,3,5. Kat,
+
+İstanbul,Kadıköy,Suadiye Mahallesi,6500000,120 M2,90 M2,3+1,0 (Yeni),13. Kat,
+
+İstanbul,Bahçelievler,Cumhuriyet Mahallesi,800000,80 M2,65 M2,2+1,5-10,Yüksek Giriş,
+
+İstanbul,Avcılar,Denizköşkler Mahallesi,1850000,130 M2,120 M2,3+1,21 Ve Üzeri,6. Kat,
+
+İstanbul,Gaziosmanpaşa,Yeni Mahalle Mahallesi,750000,90 M2,80 M2,2+1,21 Ve Üzeri,Bahçe Katı,
+
+İstanbul,Esenyurt,Balıkyolu Mahallesi,799000,105 M2,95 M2,2+1,2,2. Kat,
+
+İstanbul,Beylikdüzü,Adnan Kahveci Mahallesi,1799999,225 M2,200 M2,4+2,0 (Yeni),Çatı Dubleks,
+
+İstanbul,Başakşehir,Bahçeşehir 2. Kısım Mahallesi,1370000,145 M2,130 M2,3+1,0 (Yeni),2. Kat,
+
+İstanbul,Beylikdüzü,Cumhuriyet Mahallesi,1320000,140 M2,120 M2,3+1,0 (Yeni),1. Kat,
+
+İstanbul,Pendik,Velibaba Mahallesi,1125000,112 M2,95 M2,2+1,5-10,1. Kat,
+
+İstanbul,Bahçelievler,Bahçelievler Mahallesi,3500000,110 M2,95 M2,3+1,21 Ve Üzeri,1. Kat,
+
+İstanbul,Kartal,Hürriyet Mahallesi,1300000,200 M2,160 M2,4+1,5-10,1. Kat,
+
+İstanbul,Büyükçekmece,Pınartepe Mahallesi,879999,115 M2,100 M2,2+1,0 (Yeni),2. Kat,
+
+İstanbul,Pendik,Kurtköy Mahallesi,1060000,120 M2,100 M2,3+1,11-15,2. Kat,
+
+İstanbul,Esenyurt,Zafer Mahallesi,1350000,85 M2,80 M2,1+1,4,23. Kat,
+
+İstanbul,Beylikdüzü,Yakuplu Mahallesi,2000000,180 M2,160 M2,4+2,2,Çatı Dubleks,
+
+İstanbul,Kartal,Karlıktepe Mahallesi,1800000,240 M2,200 M2,5+1,16-20,Çatı Dubleks,
+
+İstanbul,Beylikdüzü,Yakuplu Mahallesi,1399000,140 M2,130 M2,3+1,4,2. Kat,
+
+İstanbul,Beylikdüzü,Yakuplu Mahallesi,1900000,200 M2,150 M2,4+2,5-10,5. Kat,
+
+İstanbul,Küçükçekmece,İnönü Mahallesi,1050000,95 M2,85 M2,2+1,5-10,Yüksek Giriş,
+
+İstanbul,Silivri,Çanta Sancaktepe Mahallesi,5200000,560 M2,550 M2,4+1,21 Ve Üzeri,Villa Tipi,
+
+İstanbul,Esenyurt,Pınar Mahallesi,470000,100 M2,95 M2,2+1,5-10,Bahçe Katı,
+
+İstanbul,Esenyurt,Necip Fazıl Kısakürek Mahallesi,590000,110 M2,100 M2,2+1,5-10,Yüksek Giriş,
+
+İstanbul,Esenyurt,Yunus Emre Mahallesi,610000,100 M2,90 M2,2+1,5-10,Bahçe Katı,
+
+İstanbul,Bahçelievler,Yenibosna Merkez Mahallesi,1050000,85 M2,80 M2,2+1,0 (Yeni),1. Kat,
+
+İstanbul,Fatih,İskenderpaşa Mahallesi,3000000,140 M2,120 M2,3+1,0 (Yeni),4. Kat,
+
+İstanbul,Sancaktepe,Meclis Mahallesi,1375000,85 M2,70 M2,2+1,5-10,2. Kat,
+
+İstanbul,Üsküdar,Valide-i Atik Mahallesi,925000,80 M2,75 M2,2+1,21 Ve Üzeri,4. Kat,
+
+İstanbul,Sancaktepe,Yunus Emre Mahallesi,918000,135 M2,120 M2,2+1,0 (Yeni),Çatı Dubleks,
+
+İstanbul,Esenyurt,Örnek Mahallesi,795000,95 M2,75 M2,1+1,5-10,1. Kat,
+
+İstanbul,Pendik,Velibaba Mahallesi,694000,95 M2,80 M2,2+1,11-15,Yüksek Giriş,
+
+İstanbul,Sancaktepe,Yenidoğan Mahallesi,752000,175 M2,155 M2,4+1,0 (Yeni),1. Kat,
+
+İstanbul,Sultanbeyli,Mimar Sinan Mahallesi,762000,139 M2,120 M2,2+1,0 (Yeni),1. Kat,
+
+İstanbul,Pendik,Yenişehir Mahallesi,2750000,140 M2,119 M2,3+1,11-15,5. Kat,
+
+İstanbul,Çekmeköy,Cumhuriyet Mahallesi,1400000,110 M2,90 M2,2+1,4,6. Kat,
+
+İstanbul,Pendik,Yenişehir Mahallesi,2750000,140 M2,119 M2,3+1,11-15,5. Kat,
+
+İstanbul,Esenyurt,Çınar Mahallesi,780000,90 M2,85 M2,2+1,5-10,Yüksek Giriş,
+
+İstanbul,Beylikdüzü,Adnan Kahveci Mahallesi,4100000,225 M2,200 M2,4+1,0 (Yeni),5. Kat,
+
+İstanbul,Bahçelievler,Siyavuşpaşa Mahallesi,1200000,220 M2,210 M2,4+2,21 Ve Üzeri,5. Kat,Krediye Uygun Değil
+
+İstanbul,Beylikdüzü,Yakuplu Mahallesi,1850000,155 M2,140 M2,3+1,0 (Yeni),3. Kat,
+
+İstanbul,Sancaktepe,Emek Mahallesi,4150000,175 M2,140 M2,3+1,5-10,Çatı Dubleks,
+
+İstanbul,Sultangazi,İsmetpaşa Mahallesi,750000,115 M2,110 M2,2+1,16-20,Çatı Katı,
+
+İstanbul,Üsküdar,Çengelköy Mahallesi,18000000,400 M2,350 M2,5+2,0 (Yeni),Çatı Dubleks,
+
+İstanbul,Maltepe,Altayçeşme Mahallesi,3200000,130 M2,117 M2,4+1,11-15,5. Kat,
+
+İstanbul,Eyüpsultan,Silahtarağa Mahallesi,1120000,110 M2,95 M2,2+1,16-20,3. Kat,
+
+İstanbul,Tuzla,Postane Mahallesi,2800000,125 M2,100 M2,3+1,0 (Yeni),7. Kat,
+
+İstanbul,Esenyurt,Ardıçlı Mahallesi,490000,130 M2,110 M2,2+1,11-15,3. Kat,
+
+İstanbul,Bahçelievler,Zafer Mahallesi,570000,80 M2,75 M2,2+1,16-20,2. Kat,Krediye Uygun Değil
+
+İstanbul,Esenyurt,Mehterçeşme Mahallesi,277000,95 M2,80 M2,1+1,0 (Yeni),Bahçe Katı,
+
+İstanbul,Esenyurt,Mehterçeşme Mahallesi,472000,139 M2,125 M2,2+1,0 (Yeni),1. Kat,
+
+İstanbul,Maltepe,Altayçeşme Mahallesi,1550000,65 M2,55 M2,1+1,0 (Yeni),Düz Giriş,
+
+İstanbul,Küçükçekmece,Yeşilova Mahallesi,2550000,120 M2,110 M2,3+1,4,1. Kat,
+
+İstanbul,Beylikdüzü,Kavaklı Mahallesi,536000,135 M2,120 M2,2+1,0 (Yeni),2. Kat,
+
+İstanbul,Kağıthane,Ortabayır Mahallesi,1140000,105 M2,80 M2,2+1,11-15,Bahçe Katı,
+
+İstanbul,Üsküdar,Mimar Sinan Mahallesi,2200000,110 M2,100 M2,2+1,16-20,4. Kat,
+
+İstanbul,Tuzla,Postane Mahallesi,2350000,125 M2,100 M2,3+1,0 (Yeni),7. Kat,
+
+İstanbul,Büyükçekmece,Türkoba Mahallesi,13000000,600 M2,380 M2,5+1,5-10,Villa Tipi,
+
+İstanbul,Kadıköy,Caddebostan Mahallesi,8475000,150 M2,115 M2,3+1,3,7. Kat,
+
+İstanbul,Beylikdüzü,Cumhuriyet Mahallesi,1200000,100 M2,90 M2,2+1,0 (Yeni),7. Kat,
+
+İstanbul,Beylikdüzü,Cumhuriyet Mahallesi,559000,115 M2,110 M2,2+1,0 (Yeni),2. Kat,
+
+İstanbul,Esenyurt,Üçevler Mahallesi,620000,150 M2,135 M2,4+1,0 (Yeni),4. Kat,
+
+İstanbul,Bakırköy,Sakızağacı Mahallesi,11200000,171 M2,111 M2,2+1,2,2. Kat,
+
+İstanbul,Tuzla,Postane Mahallesi,2500000,125 M2,100 M2,3+1,0 (Yeni),7. Kat,
+
+İstanbul,Şişli,Paşa Mahallesi,2350000,180 M2,150 M2,3+2,5-10,3. Kat,
+
+İstanbul,Bahçelievler,Zafer Mahallesi,1350000,90 M2,85 M2,2+1,0 (Yeni),3. Kat,
+
+İstanbul,Bahçelievler,Soğanlı Mahallesi,1900000,165 M2,150 M2,4+1,0 (Yeni),5. Kat,
+
+İstanbul,Kadıköy,Bostancı Mahallesi,4350000,110 M2,95 M2,3+1,3,11. Kat,
+
+İstanbul,Esenyurt,Yeşilkent Mahallesi,1650000,150 M2,145 M2,3+1,0 (Yeni),6. Kat,
+
+İstanbul,Esenyurt,Çınar Mahallesi,745000,110 M2,105 M2,2+1,0 (Yeni),2. Kat,
+
+İstanbul,Esenyurt,Selahaddin Eyyubi Mahallesi,695000,100 M2,90 M2,2+1,0 (Yeni),3. Kat,
+
+İstanbul,Bahçelievler,Çobançeşme Mahallesi,1150000,85 M2,1 M2,2+1,4,3. Kat,
+
+İstanbul,Beylikdüzü,Yakuplu Mahallesi,1250000,120 M2,110 M2,2+1,0 (Yeni),1. Kat,
+
+İstanbul,Esenyurt,Yeşilkent Mahallesi,1160000,125 M2,120 M2,2+1,4,12. Kat,
+
+İstanbul,Beylikdüzü,Yakuplu Mahallesi,1275000,120 M2,110 M2,2+1,0 (Yeni),1. Kat,
+
+İstanbul,Beşiktaş,Akat Mahallesi,3950000,130 M2,100 M2,3+1,21 Ve Üzeri,10. Kat,
+
+İstanbul,Beylikdüzü,Adnan Kahveci Mahallesi,2100000,120 M2,105 M2,2+1,2,1. Kat,
+
+İstanbul,Ümraniye,Esenevler Mahallesi,965000,70 M2,60 M2,2+1,11-15,Bahçe Katı,
+
+İstanbul,Kağıthane,Sultan Selim Mahallesi,1750000,130 M2,120 M2,3+1,16-20,6. Kat,
+
+İstanbul,Kartal,Topselvi Mahallesi,1600000,98 M2,73 M2,1+1,1,2. Kat,
+
+İstanbul,Kartal,Esentepe Mahallesi,1925000,122 M2,103 M2,3+1,0 (Yeni),2. Kat,
+
+İstanbul,Kartal,Atalar Mahallesi,2175000,204 M2,173 M2,4+1,21 Ve Üzeri,10. Kat,
+
+İstanbul,Beylikdüzü,Yakuplu Mahallesi,950000,80 M2,70 M2,1+1,0 (Yeni),Yüksek Giriş,
+
+İstanbul,Beylikdüzü,Kavaklı Mahallesi,1799000,117 M2,95 M2,2+1,4,2. Kat,
+
+İstanbul,Kartal,Gümüşpınar Mahallesi,3000000,130 M2,110 M2,3+1,4,5. Kat,
+
+İstanbul,Kadıköy,Fikirtepe Mahallesi,4550000,137 M2,92 M2,2+1,3,10. Kat,
+
+İstanbul,Kadıköy,Fikirtepe Mahallesi,4550000,137 M2,92 M2,2+1,3,10. Kat,
+
+İstanbul,Beylikdüzü,Kavaklı Mahallesi,3600000,126 M2,100 M2,2+1,1,4. Kat,
+
+İstanbul,Üsküdar,Cumhuriyet Mahallesi,1550000,80 M2,70 M2,2+1,0 (Yeni),2. Kat,
+
+İstanbul,Şişli,Gülbahar Mahallesi,600000,75 M2,70 M2,1+1,21 Ve Üzeri,4. Kat,Krediye Uygun Değil
+
+İstanbul,Çekmeköy,Çamlık Mahallesi,1739999,130 M2,115 M2,3+1,5-10,3. Kat,
+
+İstanbul,Kadıköy,Bostancı Mahallesi,2950000,140 M2,110 M2,3+1,21 Ve Üzeri,3. Kat,
+
+İstanbul,Kadıköy,Bostancı Mahallesi,5390000,240 M2,220 M2,4+1,21 Ve Üzeri,1. Kat,
+
+İstanbul,Sultangazi,Uğur Mumcu Mahallesi,2599000,260 M2,250 M2,6+2,0 (Yeni),Çatı Katı,
+
+İstanbul,Pendik,Orhangazi Mahallesi,625000,145 M2,130 M2,3+1,21 Ve Üzeri,4. Kat,Krediye Uygun Değil
+
+İstanbul,Pendik,Güzelyalı Mahallesi,690000,115 M2,105 M2,3+1,11-15,Bahçe Katı,
+
+İstanbul,Beylikdüzü,Adnan Kahveci Mahallesi,2100000,150 M2,130 M2,3+1,5-10,2. Kat,
+
+İstanbul,Ümraniye,Esenşehir Mahallesi,1365000,115 M2,105 M2,3+1,11-15,4. Kat,
+
+İstanbul,Pendik,Sülüntepe Mahallesi,1140000,85 M2,75 M2,2+1,4,1. Kat,
+
+İstanbul,Gaziosmanpaşa,Karadeniz Mahallesi,2050000,96 M2,62 M2,1+1,5-10,17. Kat,Krediye Uygun Değil
+
+İstanbul,Beylikdüzü,Adnan Kahveci Mahallesi,1600000,110 M2,90 M2,2+1,16-20,8. Kat,
+
+İstanbul,Esenyurt,Cumhuriyet Mahallesi,700000,38 M2,30 M2,Stüdyo,5-10,1. Kat,
+
+İstanbul,Küçükçekmece,Cennet Mahallesi,940000,130 M2,125 M2,3+1,21 Ve Üzeri,4. Kat,
+
+İstanbul,Kadıköy,Hasanpaşa Mahallesi,2850000,115 M2,95 M2,3+1,4,1. Kat,
+
+İstanbul,Kadıköy,Kozyatağı Mahallesi,3100000,130 M2,110 M2,3+1,21 Ve Üzeri,3. Kat,
+
+İstanbul,Beylikdüzü,Adnan Kahveci Mahallesi,1775000,160 M2,150 M2,3+1,11-15,3. Kat,
+
+İstanbul,Kadıköy,Caddebostan Mahallesi,9250000,180 M2,140 M2,4+1,21 Ve Üzeri,5. Kat,Krediye Uygun Değil
+
+İstanbul,Güngören,Güven Mahallesi,780000,85 M2,80 M2,2+1,21 Ve Üzeri,Yüksek Giriş,
+
+İstanbul,Çatalca,Subaşı Mahallesi,4000000,350 M2,330 M2,5+1,21 Ve Üzeri,Villa Tipi,Krediye Uygun Değil
+
+İstanbul,Şişli,Gülbahar Mahallesi,650000,75 M2,70 M2,1+1,21 Ve Üzeri,4. Kat,Krediye Uygun Değil
+
+İstanbul,Üsküdar,Bahçelievler Mahallesi,2200000,88 M2,75 M2,2+1,0 (Yeni),4. Kat,
+
+İstanbul,Kağıthane,Merkez Mahallesi,2850000,80 M2,58 M2,2+1,0 (Yeni),7. Kat,
+
+İstanbul,Tuzla,Aydıntepe Mahallesi,1400000,140 M2,135 M2,3+1,11-15,2. Kat,
+
+İstanbul,Pendik,Fatih Mahallesi,655000,100 M2,95 M2,2+1,21 Ve Üzeri,3. Kat,Krediye Uygun Değil
+
+İstanbul,Esenyurt,Turgut Özal Mahallesi,897500,165 M2,150 M2,3+1,5-10,Yüksek Giriş,
+
+İstanbul,Esenyurt,Turgut Özal Mahallesi,1310000,135 M2,120 M2,3+1,3,3. Kat,
+
+İstanbul,Sarıyer,Maslak Mahallesi,9500000,180 M2,140 M2,3+1,11-15,11. Kat,
+
+İstanbul,Sultangazi,50. Yıl Mahallesi,849000,100 M2,95 M2,2+1,11-15,2. Kat,
+
+﻿İstanbul,Esenyurt,Pınar Mahallesi,730000,115 M2,95 M2,2+1,5-10,2. Kat,
+
+İstanbul,Pendik,Çınardere Mahallesi,1425000,95 M2,85 M2,2+1,4,7. Kat,
+
+İstanbul,Beylikdüzü,Yakuplu Mahallesi,2350000,170 M2,145 M2,4+2,0 (Yeni),5. Kat,
+
+İstanbul,Esenyurt,Balıkyolu Mahallesi,670000,105 M2,100 M2,2+1,4,2. Kat,
+
+İstanbul,Esenyurt,Battalgazi Mahallesi,432000,80 M2,70 M2,1+1,3,Bahçe Katı,
+
+İstanbul,Sultangazi,50. Yıl Mahallesi,819000,90 M2,85 M2,2+1,11-15,Yüksek Giriş,
+
+İstanbul,Silivri,Mimar Sinan Mahallesi,755000,115 M2,95 M2,2+1,2,3. Kat,Krediye Uygun Değil
+
+İstanbul,Sarıyer,Bahçeköy Merkez Mahallesi,1250000,130 M2,125 M2,3+1,21 Ve Üzeri,4. Kat,Krediye Uygun Değil
+
+İstanbul,Küçükçekmece,Atakent Mahallesi,4500000,141 M2,120 M2,3+1,5-10,5. Kat,
+
+İstanbul,Bağcılar,Bağlar Mahallesi,1950000,67 M2,55 M2,1+1,5-10,7. Kat,
+
+İstanbul,Avcılar,Cihangir Mahallesi,890000,70 M2,65 M2,2+1,5-10,Bahçe Katı,
+
+İstanbul,Esenyurt,Necip Fazıl Kısakürek Mahallesi,739000,130 M2,120 M2,3+1,5-10,Yüksek Giriş,
+
+İstanbul,Üsküdar,Bulgurlu Mahallesi,2500000,150 M2,130 M2,5+1,0 (Yeni),4. Kat,
+
+İstanbul,Ataşehir,İnönü Mahallesi,1600000,100 M2,85 M2,2+1,5-10,3. Kat,
+
+İstanbul,Bahçelievler,Hürriyet Mahallesi,1150000,80 M2,78 M2,2+1,0 (Yeni),1. Kat,
+
+İstanbul,Beşiktaş,Akat Mahallesi,10800000,240 M2,220 M2,4+2,5-10,6. Kat,
+
+İstanbul,Sancaktepe,Meclis Mahallesi,737000,100 M2,90 M2,2+1,5-10,Yüksek Giriş,
+
+İstanbul,Beylikdüzü,Barış Mahallesi,1790000,165 M2,150 M2,3+1,5-10,1. Kat,
+
+İstanbul,Şişli,Gülbahar Mahallesi,645000,90 M2,85 M2,2+1,16-20,3. Kat,Krediye Uygun Değil
+
+İstanbul,Üsküdar,Bulgurlu Mahallesi,1750000,80 M2,70 M2,2+1,0 (Yeni),Yüksek Giriş,
+
+İstanbul,Sultanbeyli,Adil Mahallesi,1310000,125 M2,110 M2,3+1,0 (Yeni),4. Kat,
+
+İstanbul,Üsküdar,Bulgurlu Mahallesi,3500000,240 M2,185 M2,4+2,0 (Yeni),4. Kat,
+
+İstanbul,Kağıthane,Çağlayan Mahallesi,1989000,200 M2,170 M2,4+2,1,7. Kat,
+
+İstanbul,Beyoğlu,Keçeci Piri Mahallesi,1150000,110 M2,100 M2,3+1,5-10,Kot 1 (-1). Kat,
+
+İstanbul,Başakşehir,Bahçeşehir 2. Kısım Mahallesi,1900000,130 M2,95 M2,2+1,0 (Yeni),21. Kat,Krediye Uygun Değil
+
+İstanbul,Şişli,Fulya Mahallesi,60000000,600 M2,599 M2,5+1,1,30-40. Kat,
+
+İstanbul,Esenyurt,Akevler Mahallesi,1325000,120 M2,105 M2,2+1,5-10,5. Kat,
+
+İstanbul,Esenyurt,Mehterçeşme Mahallesi,820000,120 M2,100 M2,2+1,5-10,4. Kat,
+
+İstanbul,Maltepe,Zümrütevler Mahallesi,1450000,160 M2,120 M2,3+1,5-10,4. Kat,
+
+İstanbul,Sancaktepe,Eyüp Sultan Mahallesi,1197000,110 M2,75 M2,2+1,5-10,1. Kat,
+
+İstanbul,Sancaktepe,Eyüp Sultan Mahallesi,1197000,110 M2,75 M2,2+1,5-10,1. Kat,
+
+İstanbul,Sultanbeyli,Adil Mahallesi,640000,75 M2,68 M2,2+1,3,Bahçe Katı,
+
+İstanbul,Silivri,Alibey Mahallesi,980000,160 M2,156 M2,3.5+1,21 Ve Üzeri,4. Kat,Bilinmiyor
+
+İstanbul,Güngören,Güven Mahallesi,780000,90 M2,85 M2,2+1,21 Ve Üzeri,Yüksek Giriş,
+
+İstanbul,Esenyurt,Cumhuriyet Mahallesi,2100000,165 M2,138 M2,3+1,5-10,2. Kat,
+
+İstanbul,Beylikdüzü,Kavaklı Mahallesi,1975000,130 M2,120 M2,3+1,0 (Yeni),2. Kat,
+
+İstanbul,Güngören,Haznedar Mahallesi,1650000,120 M2,100 M2,3+1,21 Ve Üzeri,2. Kat,
+
+İstanbul,Pendik,Sülüntepe Mahallesi,1270000,105 M2,94 M2,2+1,5-10,6. Kat,
+
+İstanbul,Bahçelievler,Zafer Mahallesi,1600000,190 M2,180 M2,4+1,11-15,Çatı Dubleks,
+
+İstanbul,Sultanbeyli,Mimar Sinan Mahallesi,1350000,160 M2,135 M2,4+1,1,Çatı Dubleks,
+
+İstanbul,Ümraniye,Tatlısu Mahallesi,3535000,150 M2,120 M2,3+1,5-10,13. Kat,
+
+İstanbul,Sultangazi,Esentepe Mahallesi,650000,80 M2,70 M2,2+1,11-15,Yüksek Giriş,
+
+İstanbul,Ümraniye,Site Mahallesi,2200000,125 M2,110 M2,3+1,3,1. Kat,
+
+İstanbul,Ümraniye,Aşağı Dudullu Mahallesi,1100000,95 M2,80 M2,2+1,16-20,Düz Giriş,
+
+İstanbul,Bahçelievler,Soğanlı Mahallesi,830000,100 M2,95 M2,2+1,21 Ve Üzeri,1. Kat,
+
+İstanbul,Bahçelievler,Yenibosna Merkez Mahallesi,1770000,70 M2,42 M2,1+1,2,1. Kat,
+
+İstanbul,Bahçelievler,Siyavuşpaşa Mahallesi,1100000,90 M2,85 M2,2+1,21 Ve Üzeri,5. Kat,
+
+İstanbul,Başakşehir,Kayabaşı Mahallesi,1125000,69 M2,58 M2,2+1,5-10,2. Kat,
+
+İstanbul,Beylikdüzü,Yakuplu Mahallesi,1100000,100 M2,90 M2,2+1,0 (Yeni),2. Kat,
+
+İstanbul,Esenyurt,Battalgazi Mahallesi,520000,85 M2,70 M2,2+1,4,1. Kat,
+
+İstanbul,Sancaktepe,Yenidoğan Mahallesi,890000,110 M2,100 M2,3+1,0 (Yeni),3. Kat,
+
+İstanbul,Sancaktepe,Fatih Mahallesi,800000,95 M2,85 M2,2+1,0 (Yeni),3. Kat,
+
+İstanbul,Esenyurt,Osmangazi Mahallesi,520000,115 M2,105 M2,2+1,4,Bahçe Katı,
+
+İstanbul,Pendik,Çamlık Mahallesi,2449000,105 M2,95 M2,2+1,0 (Yeni),2. Kat,
+
+İstanbul,Şişli,Gülbahar Mahallesi,1250000,120 M2,110 M2,2+1,16-20,Kot 3 (-3). Kat,
+
+İstanbul,Eyüpsultan,Rami Cuma Mahallesi,2100000,130 M2,115 M2,3+1,21 Ve Üzeri,1. Kat,
+
+İstanbul,Bağcılar,Mahmutbey Mahallesi,900000,70 M2,60 M2,2+1,4,1. Kat,
+
+İstanbul,Avcılar,Denizköşkler Mahallesi,950000,120 M2,100 M2,3+1,21 Ve Üzeri,6. Kat,
+
+İstanbul,Sultanbeyli,Adil Mahallesi,789000,95 M2,85 M2,2+1,0 (Yeni),2. Kat,
+
+İstanbul,Sarıyer,Ayazağa Mahallesi,2700000,45 M2,30 M2,Stüdyo,1,7. Kat,
+
+İstanbul,Sarıyer,Ayazağa Mahallesi,2700000,45 M2,30 M2,Stüdyo,1,7. Kat,
+
+İstanbul,Esenyurt,Selahaddin Eyyubi Mahallesi,700000,115 M2,110 M2,2+1,4,4. Kat,
+
+İstanbul,Esenyurt,Akevler Mahallesi,1610000,130 M2,125 M2,3+1,1,4. Kat,
+
+İstanbul,Sancaktepe,Yenidoğan Mahallesi,950000,120 M2,110 M2,2+2,5-10,Yüksek Giriş,
+
+İstanbul,Büyükçekmece,Kumburgaz Mahallesi,4150000,550 M2,530 M2,5+2,11-15,Villa Tipi,
+
+İstanbul,Esenyurt,Mehmet Akif Ersoy Mahallesi,875000,100 M2,90 M2,2+1,5-10,2. Kat,
+
+İstanbul,Küçükçekmece,Atakent Mahallesi,1350000,47 M2,35 M2,1+1,5-10,1. Kat,
+
+İstanbul,Başakşehir,Güvercintepe Mahallesi,1150000,200 M2,180 M2,3+2,3,4. Kat,
+
+İstanbul,Başakşehir,Kayabaşı Mahallesi,3380000,130 M2,92 M2,2+1,4,6. Kat,
+
+İstanbul,Bayrampaşa,Yıldırım Mahallesi,2450000,110 M2,98 M2,3+1,0 (Yeni),1. Kat,
+
+İstanbul,Sancaktepe,Kemal Türkler Mahallesi,1400000,150 M2,135 M2,3+1,4,2. Kat,
+
+İstanbul,Ümraniye,Yamanevler Mahallesi,880000,70 M2,60 M2,1+1,0 (Yeni),Bahçe Katı,
+
+İstanbul,Sancaktepe,Eyüp Sultan Mahallesi,2150000,66 M2,56 M2,1+1,1,4. Kat,
+
+İstanbul,Şişli,19 Mayıs Mahallesi,2900000,85 M2,75 M2,2+1,0 (Yeni),3. Kat,
+
+İstanbul,Beylikdüzü,Kavaklı Mahallesi,1075000,100 M2,90 M2,2+1,5-10,2. Kat,
+
+İstanbul,Sancaktepe,Emek Mahallesi,1325000,70 M2,60 M2,1+1,5-10,3. Kat,
+
+İstanbul,Çatalca,Ferhatpaşa Mahallesi,900000,85 M2,65 M2,2+1,3,3. Kat,
+
+İstanbul,Bahçelievler,Soğanlı Mahallesi,850000,90 M2,85 M2,2+1,21 Ve Üzeri,3. Kat,
+
+İstanbul,Arnavutköy,İslambey Mahallesi,885000,90 M2,85 M2,2+1,0 (Yeni),2. Kat,
+
+İstanbul,Sancaktepe,Osmangazi Mahallesi,927000,130 M2,120 M2,2+1,0 (Yeni),Yüksek Giriş,
+
+İstanbul,Silivri,Gümüşyaka Mahallesi,1325000,170 M2,150 M2,4+1,21 Ve Üzeri,Müstakil,
+
+İstanbul,Küçükçekmece,Yeşilova Mahallesi,700000,115 M2,100 M2,2+1,21 Ve Üzeri,5. Kat,Krediye Uygun Değil
+
+İstanbul,Eyüpsultan,Çırçır Mahallesi,1350000,90 M2,85 M2,2+1,5-10,3. Kat,
+
+İstanbul,Çekmeköy,Taşdelen Mahallesi,950000,60 M2,50 M2,1+1,5-10,Düz Giriş,
+
+İstanbul,Ümraniye,Çakmak Mahallesi,1900000,180 M2,160 M2,4+1,11-15,4. Kat,
+
+İstanbul,Kadıköy,Göztepe Mahallesi,3600000,90 M2,65 M2,2+1,0 (Yeni),3. Kat,
+
+İstanbul,Çekmeköy,Mimar Sinan Mahallesi,1000000,65 M2,50 M2,1+1,5-10,Yüksek Giriş,
+
+İstanbul,Beylikdüzü,Adnan Kahveci Mahallesi,2300000,170 M2,140 M2,3+1,5-10,2. Kat,
+
+İstanbul,Büyükçekmece,Dizdariye Mahallesi,1900000,130 M2,115 M2,3+1,11-15,3. Kat,
+
+İstanbul,Büyükçekmece,Sinanoba Mahallesi,1850000,130 M2,100 M2,3+1,16-20,3. Kat,
+
+İstanbul,Beylikdüzü,Adnan Kahveci Mahallesi,2300000,170 M2,140 M2,3+1,5-10,2. Kat,
+
+İstanbul,Büyükçekmece,Dizdariye Mahallesi,1900000,130 M2,115 M2,3+1,11-15,3. Kat,
+
+İstanbul,Büyükçekmece,Sinanoba Mahallesi,1850000,130 M2,100 M2,3+1,16-20,3. Kat,
+
+İstanbul,Küçükçekmece,Mehmet Akif Mahallesi,400000,85 M2,80 M2,2+1,21 Ve Üzeri,1. Kat,Krediye Uygun Değil
+
+İstanbul,Küçükçekmece,Atakent Mahallesi,1700000,85 M2,80 M2,2+1,11-15,7. Kat,
+
+İstanbul,Küçükçekmece,Atakent Mahallesi,3150000,152 M2,138 M2,3+1,11-15,5. Kat,
+
+İstanbul,Silivri,Mimar Sinan Mahallesi,850000,92 M2,70 M2,2+1,2,6. Kat,
+
+İstanbul,Ataşehir,İçerenköy Mahallesi,1865000,105 M2,75 M2,2+1,5-10,1. Kat,
+
+İstanbul,Bahçelievler,Fevzi Çakmak Mahallesi,930000,135 M2,125 M2,3+1,21 Ve Üzeri,1. Kat,Krediye Uygun Değil
+
+İstanbul,Sancaktepe,Merve Mahallesi,895000,160 M2,150 M2,4+1,5-10,Yüksek Giriş,
+
+İstanbul,Başakşehir,Bahçeşehir 2. Kısım Mahallesi,3900000,166 M2,107 M2,3+1,0 (Yeni),14. Kat,Krediye Uygun Değil
+
+İstanbul,Beşiktaş,Mecidiye Mahallesi,8000000,220 M2,170 M2,2+1,21 Ve Üzeri,5. Kat,
+
+İstanbul,Başakşehir,Altınşehir Mahallesi,700000,100 M2,90 M2,2+1,0 (Yeni),Yüksek Giriş,
+
+İstanbul,Arnavutköy,Mustafa Kemal Paşa Mahallesi,600000,100 M2,92 M2,3+1,5-10,Yüksek Giriş,
+
+İstanbul,Fatih,Şehsuvar Bey Mahallesi,5750000,70 M2,60 M2,2+1,21 Ve Üzeri,Müstakil,Bilinmiyor
+
+İstanbul,Çekmeköy,Sultançiftliği Mahallesi,1250000,125 M2,115 M2,3+1,11-15,Düz Giriş,Krediye Uygun Değil
+
+İstanbul,Büyükçekmece,Celaliye Mahallesi,600000,90 M2,80 M2,2+1,21 Ve Üzeri,1. Kat,
+
+İstanbul,Maltepe,Altıntepe Mahallesi,1625000,95 M2,80 M2,2+1,21 Ve Üzeri,Yüksek Giriş,
+
+İstanbul,Sarıyer,Tarabya Mahallesi,11750000,220 M2,200 M2,4+1,21 Ve Üzeri,2. Kat,
+
+İstanbul,Kadıköy,Fenerbahçe Mahallesi,3500000,57 M2,43 M2,1+1,0 (Yeni),Bahçe Katı,
+
+İstanbul,Fatih,Molla Gürani Mahallesi,1100000,85 M2,80 M2,2+1,21 Ve Üzeri,Düz Giriş,
+
+İstanbul,Ataşehir,Esatpaşa Mahallesi,1750000,97 M2,87 M2,2+1,5-10,1. Kat,
+
+İstanbul,Avcılar,Cihangir Mahallesi,530000,110 M2,100 M2,2+1,21 Ve Üzeri,Bahçe Katı,Krediye Uygun Değil
+
+İstanbul,Ümraniye,Namık Kemal Mahallesi,1690000,93 M2,78 M2,2+1,0 (Yeni),Yüksek Giriş,
+
+İstanbul,Beylikdüzü,Marmara Mahallesi,950000,120 M2,110 M2,2+1,0 (Yeni),3. Kat,
+
+İstanbul,Gaziosmanpaşa,Şemsipaşa Mahallesi,585000,85 M2,75 M2,2+1,11-15,Kot 1 (-1). Kat,
+
+İstanbul,Bağcılar,Yenimahalle Mahallesi,1225000,125 M2,120 M2,3+1,11-15,2. Kat,
+
+İstanbul,Kartal,Uğur Mumcu Mahallesi,1200000,130 M2,120 M2,3+1,21 Ve Üzeri,Yüksek Giriş,
+
+İstanbul,Eyüpsultan,İslambey Mahallesi,1050000,110 M2,95 M2,2+1,5-10,1. Kat,
+
+İstanbul,Çekmeköy,Merkez Mahallesi,855000,90 M2,80 M2,3+1,5-10,Düz Giriş,
+
+İstanbul,Bağcılar,Göztepe Mahallesi,3100000,130 M2,100 M2,3+1,0 (Yeni),6. Kat,
+
+İstanbul,Silivri,Yeni Mahallesi,1050000,105 M2,95 M2,2+1,0 (Yeni),3. Kat,
+
+İstanbul,Esenyurt,Osmangazi Mahallesi,380000,100 M2,90 M2,2+1,5-10,Bahçe Katı,
+
+İstanbul,Bağcılar,Mahmutbey Mahallesi,1030000,95 M2,90 M2,2+1,11-15,2. Kat,
+
+İstanbul,Gaziosmanpaşa,Karadeniz Mahallesi,2120000,95 M2,92 M2,1+1,4,9. Kat,
+
+İstanbul,Sarıyer,Ayazağa Mahallesi,900000,70 M2,65 M2,1+1,21 Ve Üzeri,Düz Giriş,Krediye Uygun Değil
+
+İstanbul,Avcılar,Cihangir Mahallesi,150000,40 M2,35 M2,1 Oda,11-15,Düz Giriş,
+
+İstanbul,Sancaktepe,Kemal Türkler Mahallesi,650000,80 M2,70 M2,2+1,16-20,2. Kat,Krediye Uygun Değil
+
+İstanbul,Sultanbeyli,Fatih Mahallesi,1200000,201 M2,200 M2,2+1,21 Ve Üzeri,Düz Giriş,Krediye Uygun Değil
+
+İstanbul,Küçükçekmece,Kanarya Mahallesi,3500000,150 M2,130 M2,3+1,21 Ve Üzeri,5,Hayır
+
+İstanbul,Silivri,Yeni Mahallesi,1050000,120 M2,110 M2,3+1,0 (Yeni),3. Kat,
+
+İstanbul,Başakşehir,Güvercintepe Mahallesi,387500,80 M2,65 M2,1+1,1,Bahçe Katı,
+
+İstanbul,Beşiktaş,Dikilitaş Mahallesi,4500000,115 M2,88 M2,3+1,0 (Yeni),1. Kat,
+
+İstanbul,Beşiktaş,Dikilitaş Mahallesi,2800000,78 M2,51 M2,2+1,0 (Yeni),Yüksek Giriş,
+
+İstanbul,Büyükçekmece,Kamiloba Mahallesi,1250000,100 M2,90 M2,2+1,11-15,4. Kat,Bilinmiyor
+
+İstanbul,Bayrampaşa,Kartaltepe Mahallesi,2250000,80 M2,70 M2,2+1,0 (Yeni),4. Kat,
+
+İstanbul,Kağıthane,Merkez Mahallesi,3500000,85 M2,70 M2,2+1,3,5. Kat,
+
+İstanbul,Kadıköy,19 Mayıs Mahallesi,3495000,95 M2,73 M2,2+1,5-10,6. Kat,Krediye Uygun Değil
+
+İstanbul,Kadıköy,Feneryolu Mahallesi,3250000,100 M2,80 M2,2+1,21 Ve Üzeri,3. Kat,
+
+İstanbul,Kadıköy,Bostancı Mahallesi,2875000,105 M2,65 M2,2+1,4,5. Kat,
+
+İstanbul,Başakşehir,Ziya Gökalp Mahallesi,4900000,156 M2,152 M2,3+1,5-10,10. Kat,
+
+İstanbul,Başakşehir,Ziya Gökalp Mahallesi,3135000,122 M2,102 M2,2+1,5-10,10. Kat,
+
+İstanbul,Kadıköy,Göztepe Mahallesi,6575000,210 M2,152 M2,4+1,21 Ve Üzeri,2. Kat,
+
+İstanbul,Küçükçekmece,Yeşilova Mahallesi,1600000,85 M2,75 M2,2+1,0 (Yeni),2. Kat,
+
+İstanbul,Küçükçekmece,Yeşilova Mahallesi,1100000,85 M2,75 M2,2+1,0 (Yeni),1. Kat,
+
+İstanbul,Gaziosmanpaşa,Bağlarbaşı Mahallesi,1400000,100 M2,95 M2,2+1,5-10,Bahçe Katı,
+
+İstanbul,Esenyurt,Güzelyurt Mahallesi,965000,100 M2,85 M2,2+1,0 (Yeni),1. Kat,
+
+İstanbul,Beylikdüzü,Cumhuriyet Mahallesi,799000,100 M2,90 M2,2+1,3,Yüksek Giriş,
+
+İstanbul,Beylikdüzü,Cumhuriyet Mahallesi,679000,100 M2,90 M2,2+1,4,Yüksek Giriş,
+
+İstanbul,Pendik,Güzelyalı Mahallesi,1350000,90 M2,85 M2,2+1,0 (Yeni),2. Kat,
+
+İstanbul,Sancaktepe,Yunus Emre Mahallesi,910000,125 M2,110 M2,3+1,4,Yüksek Giriş,
+
+İstanbul,Sancaktepe,Yunus Emre Mahallesi,910000,125 M2,110 M2,3+1,4,Yüksek Giriş,
+
+İstanbul,Ataşehir,İnönü Mahallesi,2650000,130 M2,110 M2,3+1,5-10,1. Kat,
+
+İstanbul,Beylikdüzü,Yakuplu Mahallesi,1275000,110 M2,100 M2,2+1,0 (Yeni),2. Kat,
+
+İstanbul,Pendik,Yenişehir Mahallesi,1200000,67 M2,50 M2,1+1,11-15,6. Kat,
+
+İstanbul,Bahçelievler,Çobançeşme Mahallesi,880000,125 M2,120 M2,3+1,21 Ve Üzeri,1. Kat,Krediye Uygun Değil
+
+İstanbul,Bahçelievler,Çobançeşme Mahallesi,2200000,190 M2,170 M2,4+1,0 (Yeni),4. Kat,
+
+İstanbul,Esenyurt,İstiklal Mahallesi,274000,95 M2,80 M2,1+1,0 (Yeni),Bahçe Katı,
+
+İstanbul,Kartal,Uğur Mumcu Mahallesi,3650000,180 M2,160 M2,3+1,4,4. Kat,
+
+İstanbul,Beylikdüzü,Kavaklı Mahallesi,438000,140 M2,125 M2,2+1,0 (Yeni),Yüksek Giriş,
+
+İstanbul,Kartal,Soğanlık Yeni Mahallesi,1495000,115 M2,95 M2,3+1,0 (Yeni),Yüksek Giriş,
+
+İstanbul,Kartal,Soğanlık Yeni Mahallesi,1775000,115 M2,95 M2,3+1,0 (Yeni),1. Kat,
+
+İstanbul,Esenyurt,Mehmet Akif Ersoy Mahallesi,318000,135 M2,120 M2,2+1,0 (Yeni),Bahçe Katı,
+
+İstanbul,Maltepe,Feyzullah Mahallesi,2300000,85 M2,65 M2,2+1,5-10,2. Kat,
+
+İstanbul,Çekmeköy,Taşdelen Mahallesi,1649000,105 M2,85 M2,2+1,0 (Yeni),4. Kat,
+
+İstanbul,Esenyurt,Cumhuriyet Mahallesi,575999,100 M2,95 M2,2+1,0 (Yeni),Düz Giriş,
+
+İstanbul,Esenyurt,Zafer Mahallesi,785000,110 M2,100 M2,2+1,4,13. Kat,Krediye Uygun Değil
+
+İstanbul,Kadıköy,Göztepe Mahallesi,4600000,110 M2,85 M2,3+1,4,1. Kat,
+
+İstanbul,Çekmeköy,Taşdelen Mahallesi,1755000,140 M2,125 M2,2+1,0 (Yeni),1. Kat,
+
+İstanbul,Maltepe,İdealtepe Mahallesi,3900000,145 M2,130 M2,3+1,4,2. Kat,
+
+İstanbul,Sarıyer,Maslak Mahallesi,7200000,170 M2,135 M2,3+1,5-10,18. Kat,
+
+İstanbul,Esenyurt,Saadetdere Mahallesi,1110000,150 M2,130 M2,3+1,3,3. Kat,
+
+İstanbul,Avcılar,Cihangir Mahallesi,910000,85 M2,80 M2,2+1,11-15,Çatı Katı,
+
+İstanbul,Başakşehir,Güvercintepe Mahallesi,725000,100 M2,90 M2,2+1,3,Yüksek Giriş,
+
+İstanbul,Esenyurt,Akevler Mahallesi,1750000,135 M2,125 M2,3+1,5-10,6. Kat,
+
+İstanbul,Sultanbeyli,Hamidiye Mahallesi,1270000,155 M2,145 M2,4+1,0 (Yeni),Çatı Dubleks,
+
+İstanbul,Esenler,Fatih Mahallesi,1650000,135 M2,125 M2,3+1,4,1. Kat,
+
+İstanbul,Küçükçekmece,Atakent Mahallesi,1625000,62 M2,54 M2,1+1,5-10,6. Kat,
+
+İstanbul,Beylikdüzü,Kavaklı Mahallesi,2549000,165 M2,140 M2,3+1,0 (Yeni),2. Kat,
+
+İstanbul,Avcılar,Mustafa Kemal Paşa Mahallesi,2300000,200 M2,190 M2,5+1,4,Çatı Dubleks,
+
+İstanbul,Beylikdüzü,Kavaklı Mahallesi,2549000,165 M2,140 M2,3+1,0 (Yeni),2. Kat,
+
+İstanbul,Avcılar,Mustafa Kemal Paşa Mahallesi,2300000,200 M2,190 M2,5+1,4,Çatı Dubleks,
+
+İstanbul,Bahçelievler,Yenibosna Merkez Mahallesi,1570000,160 M2,150 M2,4+1,5-10,4. Kat,
+
+İstanbul,Bahçelievler,Yenibosna Merkez Mahallesi,1575000,130 M2,120 M2,3+1,5-10,2. Kat,
+
+İstanbul,Avcılar,Cihangir Mahallesi,850000,95 M2,90 M2,2+1,21 Ve Üzeri,5. Kat,
+
+İstanbul,Beylikdüzü,Adnan Kahveci Mahallesi,3500000,240 M2,190 M2,4+1,5-10,5. Kat,
+
+İstanbul,Maltepe,Çınar Mahallesi,2850000,90 M2,80 M2,2+1,3,3. Kat,
+
+İstanbul,Bahçelievler,Şirinevler Mahallesi,1130000,100 M2,90 M2,2+1,21 Ve Üzeri,1. Kat,
+
+İstanbul,Avcılar,Cihangir Mahallesi,1350000,140 M2,130 M2,3+1,21 Ve Üzeri,6. Kat,
+
+İstanbul,Kadıköy,Caddebostan Mahallesi,11200000,165 M2,132 M2,4+1,0 (Yeni),2. Kat,
+
+İstanbul,Esenler,Kazım Karabekir Mahallesi,1750000,130 M2,110 M2,4+1,0 (Yeni),3. Kat,
+
+İstanbul,Şişli,Gülbahar Mahallesi,949000,160 M2,150 M2,4+2,16-20,6. Kat,Krediye Uygun Değil
+
+İstanbul,Avcılar,Mustafa Kemal Paşa Mahallesi,1500000,100 M2,98 M2,2+1,4,1. Kat,
+
+İstanbul,Sultangazi,Malkoçoğlu Mahallesi,1585000,160 M2,120 M2,3+1,0 (Yeni),2. Kat,
+
+İstanbul,Pendik,Velibaba Mahallesi,1680000,117 M2,85 M2,3+1,3,1. Kat,
+
+İstanbul,Maltepe,Zümrütevler Mahallesi,3500000,100 M2,90 M2,2+1,5-10,4. Kat,
+
+İstanbul,Üsküdar,Cumhuriyet Mahallesi,1800000,95 M2,85 M2,2+1,16-20,Bahçe Katı,
+
+İstanbul,Üsküdar,Bulgurlu Mahallesi,7000000,250 M2,210 M2,5+2,21 Ve Üzeri,Düz Giriş,
+
+İstanbul,Kadıköy,Bostancı Mahallesi,4500000,120 M2,90 M2,3+1,1,3. Kat,
+
+İstanbul,Beylikdüzü,Cumhuriyet Mahallesi,1650000,165 M2,127 M2,3+1,1,4. Kat,
+
+İstanbul,Esenyurt,Gökevler Mahallesi,770000,70 M2,55 M2,1+1,5-10,Düz Giriş,
+
+İstanbul,Esenyurt,Mehmet Akif Ersoy Mahallesi,785000,105 M2,95 M2,2+1,0 (Yeni),3. Kat,
+
+İstanbul,Beylikdüzü,Barış Mahallesi,1795000,150 M2,140 M2,3+1,16-20,9. Kat,
+
+İstanbul,Sarıyer,İstinye Mahallesi,3350000,160 M2,140 M2,3+1,21 Ve Üzeri,Çatı Dubleks,
+
+İstanbul,Sultanbeyli,Battalgazi Mahallesi,1450000,130 M2,110 M2,2+1,5-10,Düz Giriş,
+
+İstanbul,Esenyurt,Güzelyurt Mahallesi,810000,110 M2,100 M2,2+1,0 (Yeni),6. Kat,
+
+İstanbul,Bahçelievler,Zafer Mahallesi,780000,100 M2,95 M2,2+1,0 (Yeni),Tam Bodrum,
+
+İstanbul,Eyüpsultan,Mithatpaşa Mahallesi,3900000,130 M2,105 M2,2+1,0 (Yeni),4. Kat,
+
+İstanbul,Başakşehir,Kayabaşı Mahallesi,2280000,124 M2,105 M2,3+1,5-10,1. Kat,
+
+İstanbul,Başakşehir,Başakşehir Mahallesi,5350000,200 M2,159 M2,4+1,5-10,17. Kat,Krediye Uygun Değil
+
+İstanbul,Beylikdüzü,Barış Mahallesi,1795000,150 M2,140 M2,3+1,16-20,9. Kat,
+
+İstanbul,Sarıyer,İstinye Mahallesi,3350000,160 M2,140 M2,3+1,21 Ve Üzeri,Çatı Dubleks,
+
+İstanbul,Sultanbeyli,Battalgazi Mahallesi,1450000,130 M2,110 M2,2+1,5-10,Düz Giriş,
+
+İstanbul,Esenyurt,Güzelyurt Mahallesi,810000,110 M2,100 M2,2+1,0 (Yeni),6. Kat,
+
+İstanbul,Bahçelievler,Zafer Mahallesi,780000,100 M2,95 M2,2+1,0 (Yeni),Tam Bodrum,
+
+İstanbul,Eyüpsultan,Mithatpaşa Mahallesi,3900000,130 M2,105 M2,2+1,0 (Yeni),4. Kat,
+
+İstanbul,Başakşehir,Kayabaşı Mahallesi,2280000,124 M2,105 M2,3+1,5-10,1. Kat,
+
+İstanbul,Başakşehir,Başakşehir Mahallesi,5350000,200 M2,159 M2,4+1,5-10,17. Kat,Krediye Uygun Değil
+
+İstanbul,Üsküdar,Ahmediye Mahallesi,1049999,85 M2,80 M2,2+1,21 Ve Üzeri,Yüksek Giriş,
+
+İstanbul,Üsküdar,Valide-i Atik Mahallesi,2430000,125 M2,100 M2,3+1,0 (Yeni),2. Kat,
+
+İstanbul,Gaziosmanpaşa,Merkez Mahallesi,2175000,300 M2,265 M2,5+2,16-20,3. Kat,
+
+İstanbul,Pendik,Doğu Mahallesi,2150000,80 M2,68 M2,2+1,4,7. Kat,
+
+İstanbul,Çekmeköy,Taşdelen Mahallesi,875000,65 M2,64 M2,1+1,5-10,Bahçe Katı,
+
+İstanbul,Ümraniye,Çamlık Mahallesi,2050000,190 M2,165 M2,3+2,5-10,5. Kat,
+
+İstanbul,Silivri,Yeni Mahallesi,749000,75 M2,56 M2,2+1,11-15,2. Kat,
+
+İstanbul,Başakşehir,Ziya Gökalp Mahallesi,3350000,150 M2,135 M2,3+1,4,Yüksek Giriş,
+
+İstanbul,Başakşehir,Ziya Gökalp Mahallesi,2900000,135 M2,100 M2,2+1,4,22. Kat,
+
+İstanbul,Başakşehir,Güvercintepe Mahallesi,975000,100 M2,90 M2,2+1,3,2. Kat,
+
+İstanbul,Küçükçekmece,Kemalpaşa Mahallesi,1750000,140 M2,130 M2,4+2,0 (Yeni),3. Kat,
+
+İstanbul,Esenyurt,Zafer Mahallesi,1200000,70 M2,58 M2,1+1,5-10,4. Kat,
+
+İstanbul,Silivri,Gümüşyaka Mahallesi,2680000,800 M2,300 M2,6+2,11-15,Düz Giriş,
+
+İstanbul,Beyoğlu,Gümüşsuyu Mahallesi,2350000,70 M2,65 M2,1+1,21 Ve Üzeri,2. Kat,Krediye Uygun Değil
+
+İstanbul,Çekmeköy,Nişantepe Mahallesi,1695000,95 M2,75 M2,2+1,5-10,9. Kat,
+
+İstanbul,Beyoğlu,Gümüşsuyu Mahallesi,2350000,70 M2,65 M2,1+1,21 Ve Üzeri,Düz Giriş,Krediye Uygun Değil
+
+İstanbul,Beylikdüzü,Adnan Kahveci Mahallesi,3150000,245 M2,235 M2,4+2,5-10,1. Kat,
+
+İstanbul,Arnavutköy,Deliklikaya Mahallesi,1875000,140 M2,120 M2,3+1,4,9. Kat,
+
+İstanbul,Fatih,Karagümrük Mahallesi,2000000,130 M2,125 M2,3+1,21 Ve Üzeri,2. Kat,
+
+İstanbul,Çekmeköy,Hamidiye Mahallesi,1250000,80 M2,75 M2,2+1,4,1. Kat,
+
+İstanbul,Üsküdar,Selimiye Mahallesi,4150000,135 M2,110 M2,3+1,4,2. Kat,
+
+İstanbul,Eyüpsultan,Merkez Mahallesi,2100000,125 M2,120 M2,3+1,0 (Yeni),3. Kat,
+
+İstanbul,Eyüpsultan,Merkez Mahallesi,2100000,125 M2,120 M2,3+1,0 (Yeni),3. Kat,
+
+İstanbul,Sancaktepe,Kemal Türkler Mahallesi,550000,90 M2,75 M2,2+1,5-10,Bahçe Katı,
+
+İstanbul,Ümraniye,Site Mahallesi,1320000,100 M2,85 M2,2+1,11-15,3. Kat,
+
+İstanbul,Sancaktepe,Kemal Türkler Mahallesi,550000,90 M2,75 M2,2+1,5-10,Bahçe Katı,Krediye Uygun Değil
+
+İstanbul,Maltepe,Feyzullah Mahallesi,2380000,95 M2,75 M2,2+1,0 (Yeni),4. Kat,
+
+İstanbul,Bahçelievler,Fevzi Çakmak Mahallesi,1530000,115 M2,110 M2,3+1,1,2. Kat,
+
+İstanbul,Çekmeköy,Aydınlar Mahallesi,1100000,90 M2,80 M2,2+1,4,5. Kat,
+
+İstanbul,Gaziosmanpaşa,Kazım Karabekir Mahallesi,860000,140 M2,130 M2,4+2,11-15,Bahçe Katı,
+
+İstanbul,Eyüpsultan,Yeşilpınar Mahallesi,1480000,85 M2,80 M2,2+1,0 (Yeni),2. Kat,
+
+İstanbul,Başakşehir,Bahçeşehir 2. Kısım Mahallesi,10000000,330 M2,300 M2,5+2,21 Ve Üzeri,Düz Giriş,
+
+İstanbul,Beşiktaş,Ulus Mahallesi,6985000,130 M2,120 M2,2.5+1,21 Ve Üzeri,Yüksek Giriş,
+
+İstanbul,Ümraniye,Madenler Mahallesi,900000,80 M2,65 M2,2+1,1,Yüksek Giriş,
+
+İstanbul,Çekmeköy,Mimar Sinan Mahallesi,1525000,95 M2,80 M2,2+1,0 (Yeni),4. Kat,
+
+İstanbul,Çekmeköy,Taşdelen Mahallesi,1395000,95 M2,85 M2,2+1,0 (Yeni),1. Kat,
+
+İstanbul,Maltepe,Bağlarbaşı Mahallesi,2350000,120 M2,100 M2,3+1,3,3. Kat,
+
+İstanbul,Kadıköy,Erenköy Mahallesi,4390000,91 M2,71 M2,3+1,5-10,Yüksek Giriş,
+
+İstanbul,Kadıköy,Bostancı Mahallesi,5390000,240 M2,210 M2,4+1,21 Ve Üzeri,1. Kat,
+
+İstanbul,Bahçelievler,Siyavuşpaşa Mahallesi,1475000,135 M2,125 M2,3+1,21 Ve Üzeri,5. Kat,
+
+İstanbul,Sultangazi,Yunus Emre Mahallesi,670000,89 M2,80 M2,2+1,21 Ve Üzeri,2. Kat,Bilinmiyor
+
+İstanbul,Bayrampaşa,Kartaltepe Mahallesi,2450000,190 M2,180 M2,4+2,0 (Yeni),Çatı Dubleks,
+
+İstanbul,Kağıthane,Merkez Mahallesi,2750000,80 M2,70 M2,2+1,4,2. Kat,
+
+İstanbul,Kağıthane,Emniyet Evleri Mahallesi,2200000,80 M2,65 M2,2+1,2,11. Kat,
+
+İstanbul,Güngören,Akıncılar Mahallesi,2500000,125 M2,115 M2,3+1,11-15,2. Kat,
+
+İstanbul,Bahçelievler,Şirinevler Mahallesi,1150000,115 M2,100 M2,2+1,21 Ve Üzeri,1. Kat,
+
+İstanbul,Beylikdüzü,Adnan Kahveci Mahallesi,2950000,230 M2,200 M2,4+2,0 (Yeni),Çatı Katı,
+
+İstanbul,Maltepe,Çınar Mahallesi,1680000,100 M2,90 M2,2+1,4,Bahçe Katı,
+
+İstanbul,Küçükçekmece,Cennet Mahallesi,1595000,110 M2,105 M2,3+1,5-10,1. Kat,
+
+İstanbul,Kartal,Soğanlık Yeni Mahallesi,1450000,115 M2,95 M2,3+1,0 (Yeni),Yüksek Giriş,
+
+İstanbul,Kartal,Soğanlık Yeni Mahallesi,1495000,115 M2,95 M2,3+1,0 (Yeni),Yüksek Giriş,
+
+İstanbul,Esenyurt,Zafer Mahallesi,650000,75 M2,70 M2,1+1,4,4. Kat,Krediye Uygun Değil
+
+İstanbul,Kartal,Soğanlık Yeni Mahallesi,1775000,115 M2,95 M2,3+1,0 (Yeni),1. Kat,
+
+İstanbul,Sancaktepe,Meclis Mahallesi,1350000,130 M2,120 M2,3+1,5-10,3. Kat,
+
+İstanbul,Kağıthane,Emniyet Evleri Mahallesi,1500000,90 M2,80 M2,2+1,5-10,1. Kat,
+
+İstanbul,Bahçelievler,Soğanlı Mahallesi,1649000,105 M2,95 M2,2+1,0 (Yeni),1. Kat,
+
+İstanbul,Bahçelievler,Siyavuşpaşa Mahallesi,2450000,120 M2,115 M2,3+1,5-10,1. Kat,
+
+İstanbul,Çekmeköy,Sultançiftliği Mahallesi,1200000,105 M2,90 M2,2+1,0 (Yeni),Yüksek Giriş,
+
+İstanbul,Beşiktaş,Yıldız Mahallesi,2600000,80 M2,75 M2,2+1,21 Ve Üzeri,Kot 1 (-1). Kat,
+
+İstanbul,Sultangazi,Sultançiftliği Mahallesi,650000,120 M2,115 M2,2+1,16-20,3. Kat,Krediye Uygun Değil
+
+İstanbul,Esenyurt,Balıkyolu Mahallesi,515000,95 M2,85 M2,2+1,3,Bahçe Katı,
+
+İstanbul,Kadıköy,Bostancı Mahallesi,2595000,130 M2,110 M2,3+1,21 Ve Üzeri,8. Kat,
+
+İstanbul,Çekmeköy,Merkez Mahallesi,850000,78 M2,65 M2,2+1,5-10,Yüksek Giriş,
+
+İstanbul,Kartal,Yakacık Yeni Mahallesi,3150000,140 M2,120 M2,3+1,3,5. Kat,
+
+İstanbul,Tuzla,Postane Mahallesi,2850000,125 M2,100 M2,3+1,0 (Yeni),6. Kat,
+
+İstanbul,Kağıthane,Seyrantepe Mahallesi,21000000,215 M2,190 M2,2+1,3,18. Kat,
+
+İstanbul,Kağıthane,Seyrantepe Mahallesi,16500000,90 M2,80 M2,1+1,3,14. Kat,
+
+İstanbul,Pendik,Velibaba Mahallesi,2500000,120 M2,110 M2,3+1,1,1. Kat,
+
+İstanbul,Ataşehir,Barbaros Mahallesi,4750000,120 M2,95 M2,2+1,11-15,17. Kat,
+
+İstanbul,Kadıköy,Merdivenköy Mahallesi,4650000,140 M2,110 M2,3+1,11-15,1. Kat,
+
+İstanbul,Sultanbeyli,Mimar Sinan Mahallesi,949000,115 M2,105 M2,2+1,0 (Yeni),3. Kat,
+
+İstanbul,Sultanbeyli,Mimar Sinan Mahallesi,1600000,190 M2,170 M2,4+2,0 (Yeni),5. Kat,
+
+İstanbul,Sancaktepe,Abdurrahmangazi Mahallesi,915000,89 M2,80 M2,2+1,0 (Yeni),2. Kat,
+
+İstanbul,Üsküdar,Ahmediye Mahallesi,1040000,85 M2,80 M2,2+1,21 Ve Üzeri,3. Kat,
+
+İstanbul,Maltepe,İdealtepe Mahallesi,1495000,75 M2,65 M2,2+1,3,Bahçe Katı,
+
+İstanbul,Maltepe,Küçükyalı Mahallesi,765000,70 M2,58 M2,1+1,21 Ve Üzeri,1. Kat,Krediye Uygun Değil
+
+İstanbul,Maltepe,Altıntepe Mahallesi,1900000,115 M2,95 M2,2+1,21 Ve Üzeri,2. Kat,
+
+İstanbul,Güngören,Gençosman Mahallesi,2000000,160 M2,150 M2,5+1,0 (Yeni),Çatı Dubleks,
+
+İstanbul,Sultangazi,75. Yıl Mahallesi,450000,100 M2,90 M2,2+1,21 Ve Üzeri,Bahçe Katı,
+
+İstanbul,Kadıköy,Bostancı Mahallesi,1650000,110 M2,88 M2,3+1,21 Ve Üzeri,Düz Giriş,
+
+İstanbul,Pendik,Şeyhli Mahallesi,1250000,95 M2,85 M2,2+1,4,1. Kat,
+
+İstanbul,Bahçelievler,Siyavuşpaşa Mahallesi,1425000,105 M2,93 M2,2+1,0 (Yeni),1. Kat,
+
+İstanbul,Bahçelievler,Siyavuşpaşa Mahallesi,1425000,105 M2,93 M2,2+1,0 (Yeni),1. Kat,
+
+İstanbul,Esenler,Fatih Mahallesi,649000,103 M2,90 M2,2+1,5-10,Bahçe Katı,
+
+İstanbul,Sultangazi,Cebeci Mahallesi,799000,95 M2,90 M2,2+1,0 (Yeni),Düz Giriş,
+
+İstanbul,Sultangazi,Uğur Mumcu Mahallesi,1149000,100 M2,95 M2,2+1,4,2. Kat,
+
+İstanbul,Sultangazi,İsmetpaşa Mahallesi,855000,135 M2,130 M2,3+1,11-15,Yüksek Giriş,
+
+İstanbul,Kadıköy,Suadiye Mahallesi,6950000,153 M2,138 M2,3+1,3,5. Kat,
+
+İstanbul,Esenyurt,İnönü Mahallesi,650000,98 M2,88 M2,2+1,11-15,1. Kat,
+
+İstanbul,Kağıthane,Merkez Mahallesi,1900000,200 M2,180 M2,5+1,5-10,Düz Giriş,
+
+İstanbul,Şişli,19 Mayıs Mahallesi,2100000,90 M2,80 M2,2+1,21 Ve Üzeri,1. Kat,
+
+İstanbul,Kadıköy,Feneryolu Mahallesi,4150000,110 M2,80 M2,3+1,5-10,3. Kat,
+
+İstanbul,Sultangazi,Malkoçoğlu Mahallesi,1695000,190 M2,170 M2,2+1,0 (Yeni),Çatı Dubleks,
+
+İstanbul,Beylikdüzü,Adnan Kahveci Mahallesi,1399999,120 M2,110 M2,2+1,0 (Yeni),4. Kat,
+
+İstanbul,Esenyurt,Mehterçeşme Mahallesi,525000,100 M2,85 M2,1+1,0 (Yeni),Bahçe Katı,
+
+İstanbul,Maltepe,Altıntepe Mahallesi,1090000,50 M2,40 M2,1+1,5-10,Bahçe Katı,
+
+İstanbul,Pendik,Şeyhli Mahallesi,1250000,95 M2,85 M2,2+1,0 (Yeni),4. Kat,
+
+İstanbul,Bahçelievler,Yenibosna Merkez Mahallesi,1500000,130 M2,120 M2,3+1,0 (Yeni),4. Kat,
+
+İstanbul,Gaziosmanpaşa,Hürriyet Mahallesi,995000,98 M2,90 M2,2+1,11-15,Yüksek Giriş,
+
+İstanbul,Kağıthane,Merkez Mahallesi,745000,70 M2,65 M2,1+1,11-15,Yüksek Giriş,
+
+İstanbul,Esenyurt,Selahaddin Eyyubi Mahallesi,615000,100 M2,95 M2,2+1,0 (Yeni),Yüksek Giriş,
+
+İstanbul,Tuzla,Yayla Mahallesi,2200000,123 M2,100 M2,3+1,0 (Yeni),1. Kat,
+
+İstanbul,Esenyurt,İncirtepe Mahallesi,645000,120 M2,110 M2,2+1,5-10,Yüksek Giriş,
+
+İstanbul,Esenler,Tuna Mahallesi,450000,144 M2,100 M2,2+1,16-20,Çatı Katı,Krediye Uygun Değil
+
+İstanbul,Sultanbeyli,Mimar Sinan Mahallesi,890000,110 M2,100 M2,3+1,0 (Yeni),3. Kat,
+
+İstanbul,Sancaktepe,Yenidoğan Mahallesi,850000,95 M2,80 M2,2+1,0 (Yeni),3. Kat,
+
+İstanbul,Ümraniye,Yamanevler Mahallesi,770000,65 M2,55 M2,1+1,0 (Yeni),Bahçe Katı,
+
+İstanbul,Esenyurt,Necip Fazıl Kısakürek Mahallesi,990000,235 M2,230 M2,4+2,5-10,1. Kat,
+
+İstanbul,Kağıthane,Gültepe Mahallesi,540000,72 M2,64 M2,1+1,21 Ve Üzeri,5. Kat,Krediye Uygun Değil
+
+İstanbul,Pendik,Güzelyalı Mahallesi,675000,190 M2,150 M2,3+1,21 Ve Üzeri,5. Kat,
+
+İstanbul,Beylikdüzü,Cumhuriyet Mahallesi,539999,110 M2,95 M2,2+1,0 (Yeni),Yüksek Giriş,
+
+İstanbul,Bahçelievler,Şirinevler Mahallesi,839000,75 M2,65 M2,2+1,5-10,Bahçe Katı,
+
+İstanbul,Beylikdüzü,Cumhuriyet Mahallesi,539999,110 M2,95 M2,2+1,0 (Yeni),Yüksek Giriş,
+
+İstanbul,Bahçelievler,Şirinevler Mahallesi,839000,75 M2,65 M2,2+1,5-10,Bahçe Katı,
+
+İstanbul,Maltepe,Altıntepe Mahallesi,2990000,130 M2,100 M2,3+1,3,3. Kat,
+
+İstanbul,Esenyurt,Zafer Mahallesi,1150000,85 M2,75 M2,1+1,4,15. Kat,
+
+İstanbul,Ümraniye,Aşağı Dudullu Mahallesi,5450000,176 M2,150 M2,3+1,11-15,1. Kat,
+
+İstanbul,Gaziosmanpaşa,Barbaros Hayrettinpaşa Mahallesi,1835000,195 M2,175 M2,4+1,5-10,3. Kat,
+
+İstanbul,Başakşehir,Ziya Gökalp Mahallesi,2900000,139 M2,114 M2,2+1,5-10,15. Kat,

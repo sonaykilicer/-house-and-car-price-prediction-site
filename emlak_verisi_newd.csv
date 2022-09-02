@@ -1,0 +1,1411 @@
+,Sehir,İlce,Mahalle,Fiyat,brüt metrekare,Net Metrekare,Oda Sayısı,Binanın Yaşı,Bulunduğu Kat
+0,İstanbul,Kartal,Cumhuriyet Mahallesi,1890000,107,70,2+1,5-10,20
+1,İstanbul,Kartal,Çavuşoğlu Mahallesi,1310000,120,105,3+1,0 (Yeni),Bahçe Katı
+2,İstanbul,Başakşehir,Kayabaşı Mahallesi,900000,75,68,2+1,5-10,5
+3,İstanbul,Beylikdüzü,Adnan Kahveci Mahallesi,1575000,200,185,3+1,11-15,5
+4,İstanbul,Eyüpsultan,Nişancı Mahallesi,775000,100,90,2+1,21 Ve Üzeri,4
+5,İstanbul,Sarıyer,Rumeli Kavağı Mahallesi,1500000,115,90,2+1,21 Ve Üzeri,3
+6,İstanbul,Sarıyer,Kumköy Mahallesi,4000000,275,250,5+1,21 Ve Üzeri,Villa Tipi
+7,İstanbul,Küçükçekmece,Halkalı Merkez Mahallesi,1400000,124,80,2+1,3,6
+8,İstanbul,Bağcılar,100. Yıl Mahallesi,760000,155,140,3+1,21 Ve Üzeri,4
+9,İstanbul,Sancaktepe,Yunus Emre Mahallesi,495000,125,110,2+1,3,Yüksek Giriş
+10,İstanbul,Çekmeköy,Mimar Sinan Mahallesi,1200000,165,140,3+2,4,Çatı Katı
+11,İstanbul,Çekmeköy,Hamidiye Mahallesi,455000,55,45,1+1,4,Bahçe Katı
+12,İstanbul,Sultanbeyli,Battalgazi Mahallesi,575000,80,70,2+1,5-10,1
+13,İstanbul,Avcılar,Tahtakale Mahallesi,7000000,130,110,3+1,0 (Yeni),6
+14,İstanbul,Başakşehir,Başak Mahallesi,1950000,90,80,2+1,11-15,8
+15,İstanbul,Sarıyer,Yeniköy Mahallesi,761000000,900,800,8+ Oda,21 Ve Üzeri,Müstakil
+16,İstanbul,Eyüpsultan,Nişancı Mahallesi,550000,85,75,2+1,5-10,Bahçe Katı
+17,İstanbul,Ataşehir,Esatpaşa Mahallesi,745000,86,77,2+1,5-10,Yüksek Giriş
+18,İstanbul,Maltepe,Fındıklı Mahallesi,620000,90,80,2+1,5-10,Yüksek Giriş
+19,İstanbul,Eyüpsultan,Göktürk Merkez Mahallesi,8500000,390,235,4+1,0 (Yeni),1
+20,İstanbul,Esenler,Menderes Mahallesi,759000,120,110,2+1,5-10,4
+21,İstanbul,Esenyurt,Barbaros Hayrettin Paşa Mahallesi,580000,74,42,1+1,5-10,7
+22,İstanbul,Çekmeköy,Çatalmeşe Mahallesi,675000,92,72,2+1,0 (Yeni),5
+23,İstanbul,Esenyurt,Süleymaniye Mahallesi,559000,120,100,2+1,3,Yüksek Giriş
+24,İstanbul,Maltepe,Zümrütevler Mahallesi,720000,110,85,2+1,11-15,1
+25,İstanbul,Maltepe,Cevizli Mahallesi,2250000,180,160,3+2,5-10,4
+26,İstanbul,Şişli,Kuştepe Mahallesi,6500000,228,227,3+2,21 Ve Üzeri,Villa Tipi
+27,İstanbul,Kadıköy,Merdivenköy Mahallesi,4250000,255,245,5+1,16-20,9
+28,İstanbul,Pendik,Esenler Mahallesi,540000,90,75,2+1,11-15,Düz Giriş
+29,İstanbul,Arnavutköy,Arnavutköy Merkez Mahallesi,715000,145,135,2+1,5-10,2
+30,İstanbul,Beylikdüzü,Cumhuriyet Mahallesi,350000,80,75,1+1,0 (Yeni),6
+31,İstanbul,Bahçelievler,Siyavuşpaşa Mahallesi,980000,95,85,2+1,0 (Yeni),Yüksek Giriş
+32,İstanbul,Başakşehir,Kayabaşı Mahallesi,900000,75,68,2+1,5-10,5
+33,İstanbul,Esenler,Fatih Mahallesi,540000,85,75,2+1,5-10,Yüksek Giriş
+34,İstanbul,Bahçelievler,Soğanlı Mahallesi,1400000,165,155,3+1,0 (Yeni),5
+35,İstanbul,Beyoğlu,Bülbül Mahallesi,11050000,395,394,1 Oda,21 Ve Üzeri,Düz Giriş
+36,İstanbul,Beşiktaş,Arnavutköy Mahallesi,17500000,145,75,6+3,21 Ve Üzeri,Müstakil
+37,İstanbul,Pendik,Esenler Mahallesi,775000,95,85,2+1,3,2
+38,İstanbul,Pendik,Esenler Mahallesi,778000,95,85,2+1,5-10,3
+39,İstanbul,Ataşehir,Örnek Mahallesi,600000,55,50,1+1,0 (Yeni),Bahçe Katı
+40,İstanbul,Bağcılar,100. Yıl Mahallesi,600000,125,115,2+1,21 Ve Üzeri,2
+41,İstanbul,Maltepe,Bağlarbaşı Mahallesi,775000,90,80,2+1,21 Ve Üzeri,1
+42,İstanbul,Üsküdar,Beylerbeyi Mahallesi,895000,80,60,2+1,21 Ve Üzeri,Yüksek Giriş
+43,İstanbul,Küçükçekmece,Mehmet Akif Mahallesi,895000,160,150,3+2,2,3
+44,İstanbul,Beylikdüzü,Cumhuriyet Mahallesi,429999,105,90,2+1,0 (Yeni),1
+45,İstanbul,Ataşehir,Esatpaşa Mahallesi,850000,95,90,2+1,5-10,Yüksek Giriş
+46,İstanbul,Beylikdüzü,Cumhuriyet Mahallesi,800000,125,105,2+1,5-10,1
+47,İstanbul,Maltepe,Fındıklı Mahallesi,768000,90,80,2+1,11-15,1
+48,İstanbul,Sarıyer,Kazım Karabekir Paşa Mahallesi,350000,100,95,2+1,11-15,Müstakil
+49,İstanbul,Başakşehir,Kayabaşı Mahallesi,920000,75,68,2+1,5-10,8
+50,İstanbul,Maltepe,Cevizli Mahallesi,900000,50,45,1+1,2,Düz Giriş
+51,İstanbul,Maltepe,Cevizli Mahallesi,1720000,240,215,4+2,0 (Yeni),5
+52,İstanbul,Üsküdar,Cumhuriyet Mahallesi,1450000,167,147,3+1,5-10,4
+53,İstanbul,Esenler,Namık Kemal Mahallesi,315000,100,90,2+1,21 Ve Üzeri,6
+54,İstanbul,Tuzla,Cami Mahallesi,1750000,120,85,3+1,0 (Yeni),2
+55,İstanbul,Sarıyer,Ayazağa Mahallesi,3650000,82,55,1+1,4,8
+56,İstanbul,Zeytinburnu,Kazlıçeşme Mahallesi,15000000,246,200,3.5+1,5-10,28
+57,İstanbul,Beşiktaş,Mecidiye Mahallesi,1500000,100,85,2+1,21 Ve Üzeri,Düz Giriş
+58,İstanbul,Sarıyer,Ayazağa Mahallesi,12000000,220,160,4+1,4,15
+59,İstanbul,Ataşehir,İnönü Mahallesi,650000,65,50,1+1,5-10,1
+60,İstanbul,Şişli,Teşvikiye Mahallesi,3650000,120,100,2+1,21 Ve Üzeri,2
+61,İstanbul,Çekmeköy,Merkez Mahallesi,900000,100,95,2+1,2,3
+62,İstanbul,Ataşehir,Aşıkveysel Mahallesi,450000,60,55,1+1,3,Yüksek Giriş
+63,İstanbul,Esenyurt,Çınar Mahallesi,365000,135,120,3+1,0 (Yeni),Bahçe Katı
+64,İstanbul,Bahçelievler,Siyavuşpaşa Mahallesi,780000,85,80,2+1,11-15,2
+65,İstanbul,Esenyurt,Cumhuriyet Mahallesi,437500,100,85,2+1,5-10,2
+66,İstanbul,Kadıköy,Bostancı Mahallesi,1940000,120,105,3+1,5-10,3
+67,İstanbul,Kartal,Cevizli Mahallesi,550000,115,107,3+1,21 Ve Üzeri,4
+68,İstanbul,Kadıköy,Kozyatağı Mahallesi,3380000,135,115,4+1,4,2
+69,İstanbul,Beylikdüzü,Kavaklı Mahallesi,1080000,105,95,2+1,0 (Yeni),1
+70,İstanbul,Maltepe,Esenkent Mahallesi,1270000,110,80,2+1,0 (Yeni),4
+71,İstanbul,Kadıköy,Fenerbahçe Mahallesi,5250000,140,100,3+1,0 (Yeni),9
+72,İstanbul,Avcılar,Üniversite Mahallesi,5750000,216,120,3+1,21 Ve Üzeri,4
+73,İstanbul,Küçükçekmece,Fevzi Çakmak Mahallesi,5450000,800,799,1 Oda,21 Ve Üzeri,Düz Giriş
+74,İstanbul,Küçükçekmece,Mehmet Akif Mahallesi,785000,95,90,2+1,0 (Yeni),Yüksek Giriş
+75,İstanbul,Şişli,Mecidiyeköy Mahallesi,2350000,140,130,3+1,21 Ve Üzeri,6
+76,İstanbul,Esenyurt,Koza Mahallesi,2850000,157,101,2+1,1,18
+77,İstanbul,Şişli,Paşa Mahallesi,525000,90,75,1+1,5-10,Düz Giriş
+78,İstanbul,Büyükçekmece,Fatih Mahallesi,7000000,670,510,7+2,0 (Yeni),Villa Tipi
+79,İstanbul,Üsküdar,Kuzguncuk Mahallesi,144000000,550,500,7+2,21 Ve Üzeri,Villa Tipi
+80,İstanbul,Esenyurt,Bağlarçeşme Mahallesi,629000,150,130,3+1,5-10,3
+81,İstanbul,Kadıköy,Caddebostan Mahallesi,5600000,140,110,3+1,4,9
+82,İstanbul,Fatih,Koca Mustafapaşa Mahallesi,750000,105,95,2+1,21 Ve Üzeri,4
+83,İstanbul,Fatih,Koca Mustafapaşa Mahallesi,4950000,340,330,6+1,2,Düz Giriş
+84,İstanbul,Kartal,Cumhuriyet Mahallesi,1990000,111,73,2+1,5-10,28
+85,İstanbul,Silivri,Yeni Mahallesi,1225000,125,95,2+1,0 (Yeni),7
+86,İstanbul,Beyoğlu,Sütlüce Mahallesi,575000,110,90,2+1,11-15,Bahçe Katı
+87,İstanbul,Şişli,Fulya Mahallesi,4500000,155,145,3+1,21 Ve Üzeri,1
+88,İstanbul,Ataşehir,Atatürk Mahallesi,6500000,180,130,4+1,21 Ve Üzeri,13
+89,İstanbul,Kadıköy,Fenerbahçe Mahallesi,17500000,290,230,4+2,4,9
+90,İstanbul,Bahçelievler,Soğanlı Mahallesi,865000,80,75,2+1,0 (Yeni),1
+91,İstanbul,Eyüpsultan,Göktürk Merkez Mahallesi,3950000,220,180,3+1,11-15,4
+92,İstanbul,Bahçelievler,Şirinevler Mahallesi,1350000,95,85,2+1,0 (Yeni),2
+93,İstanbul,Bahçelievler,Şirinevler Mahallesi,1550000,125,115,3+1,0 (Yeni),2
+94,İstanbul,Beyoğlu,Şehit Muhtar Mahallesi,4750000,99,90,2+0,0 (Yeni),1
+95,İstanbul,Esenler,Davutpaşa Mahallesi,700000,85,80,2+1,0 (Yeni),Yüksek Giriş
+96,İstanbul,Kadıköy,Bostancı Mahallesi,2695000,155,140,3+1,21 Ve Üzeri,2
+97,İstanbul,Bahçelievler,Bahçelievler Mahallesi,865000,85,80,2+1,0 (Yeni),1
+98,İstanbul,Küçükçekmece,Atakent Mahallesi,3000000,167,130,3+1,5-10,5
+99,İstanbul,Küçükçekmece,Mehmet Akif Mahallesi,530000,135,130,3+1,16-20,2
+100,İstanbul,Kartal,Hürriyet Mahallesi,1200000,95,75,2+1,5-10,10
+101,İstanbul,Kadıköy,Feneryolu Mahallesi,2850000,155,115,3+1,21 Ve Üzeri,2
+102,İstanbul,Maltepe,Küçükyalı Mahallesi,1990000,143,110,3+1,21 Ve Üzeri,5
+103,İstanbul,Esenyurt,Cumhuriyet Mahallesi,638500,110,90,3+1,1,Düz Giriş
+104,İstanbul,Beylikdüzü,Cumhuriyet Mahallesi,550000,150,140,3+1,0 (Yeni),8
+105,İstanbul,Küçükçekmece,Yeni Mahalle Mahallesi,1150000,190,170,3+2,21 Ve Üzeri,Bahçe Dublex
+106,İstanbul,Beyoğlu,Yahya Kahya Mahallesi,875000,90,80,2+1,21 Ve Üzeri,3
+107,İstanbul,Bakırköy,Ataköy 2-5-6. Kısım Mahallesi,11500000,240,220,4+1,11-15,5
+108,İstanbul,Bahçelievler,Şirinevler Mahallesi,1000000,90,85,2+1,0 (Yeni),2
+109,İstanbul,Tuzla,Şifa Mahallesi,1000000,220,198,3+1,21 Ve Üzeri,Müstakil
+110,İstanbul,Esenler,Menderes Mahallesi,835000,90,85,2+1,5-10,5
+111,İstanbul,Sarıyer,Kumköy Mahallesi,3500000,450,400,6+2,11-15,Düz Giriş
+112,İstanbul,Bahçelievler,Soğanlı Mahallesi,1285000,85,80,2+1,0 (Yeni),2
+113,İstanbul,Şişli,Harbiye Mahallesi,9000000,165,150,3+1,11-15,5
+114,İstanbul,Arnavutköy,Yunus Emre Mahallesi,870000,107,106,2+1,21 Ve Üzeri,Müstakil
+115,İstanbul,Kadıköy,Bostancı Mahallesi,4250000,165,133,3+1,21 Ve Üzeri,8
+116,İstanbul,Silivri,Yeni Mahallesi,1500000,145,125,3+1,4,6
+117,İstanbul,Bağcılar,Kirazlı Mahallesi,640000,85,80,2+1,5-10,1
+118,İstanbul,Küçükçekmece,Atakent Mahallesi,3650000,196,170,4+1,11-15,10
+119,İstanbul,Büyükçekmece,Kamiloba Mahallesi,7000000,1200,1000,6+2,11-15,Düz Giriş
+120,İstanbul,Küçükçekmece,Atakent Mahallesi,2100000,115,90,2+1,5-10,4
+121,İstanbul,Kartal,Karlıktepe Mahallesi,970000,120,100,3+1,0 (Yeni),Yüksek Giriş
+122,İstanbul,Pendik,Esenler Mahallesi,1451500,100,80,2+1,0 (Yeni),1
+123,İstanbul,Pendik,Esenler Mahallesi,1451500,103,84,2+1,0 (Yeni),1
+124,İstanbul,Pendik,Esenler Mahallesi,1150000,81,63,2+1,0 (Yeni),1
+125,İstanbul,Pendik,Esenler Mahallesi,2273000,140,110,3+1,0 (Yeni),8
+126,İstanbul,Pendik,Yenişehir Mahallesi,617500,70,60,1+1,11-15,Bahçe Katı
+127,İstanbul,Bakırköy,Ataköy 2-5-6. Kısım Mahallesi,28000000,600,550,5+1,21 Ve Üzeri,12
+128,İstanbul,Maltepe,Girne Mahallesi,1000000,90,75,2+1,0 (Yeni),3
+129,İstanbul,Maltepe,Girne Mahallesi,800000,80,65,2+1,0 (Yeni),1
+130,İstanbul,Beylikdüzü,Dereağzı Mahallesi,5250000,300,270,5+2,0 (Yeni),Villa Tipi
+131,İstanbul,Beylikdüzü,Dereağzı Mahallesi,8000000,450,400,7+2,0 (Yeni),Villa Tipi
+132,İstanbul,Büyükçekmece,Atatürk Mahallesi,1550000,230,200,5+2,21 Ve Üzeri,1
+133,İstanbul,Sultanbeyli,Battalgazi Mahallesi,595000,85,80,2+1,0 (Yeni),1
+134,İstanbul,Bakırköy,Ataköy 2-5-6. Kısım Mahallesi,10250000,174,165,3+1,5-10,3
+135,İstanbul,Sultanbeyli,Mimar Sinan Mahallesi,645000,90,85,2+1,0 (Yeni),1
+136,İstanbul,Büyükçekmece,Celaliye Mahallesi,2400000,350,330,4+1,11-15,Düz Giriş
+137,İstanbul,Sarıyer,Maslak Mahallesi,3750000,135,87,3+1,5-10,13
+138,İstanbul,Bakırköy,Ataköy 2-5-6. Kısım Mahallesi,2750000,120,105,3+1,21 Ve Üzeri,13
+139,İstanbul,Maltepe,Bağlarbaşı Mahallesi,1150000,145,110,3+1,21 Ve Üzeri,2
+140,İstanbul,Tuzla,İstasyon Mahallesi,1050000,105,85,3+1,5-10,Yüksek Giriş
+141,İstanbul,Pendik,Esenler Mahallesi,1614000,119,93,2+1,0 (Yeni),9
+142,İstanbul,Şişli,Teşvikiye Mahallesi,4500000,165,150,3+1,21 Ve Üzeri,Bahçe Katı
+143,İstanbul,Avcılar,Merkez Mahallesi,3100000,162,142,3+1,5-10,9
+144,İstanbul,Şişli,Teşvikiye Mahallesi,1600000,55,49,1+1,0 (Yeni),Düz Giriş
+145,İstanbul,Eyüpsultan,İslambey Mahallesi,1050000,160,150,4+2,5-10,3
+146,İstanbul,Ataşehir,İnönü Mahallesi,1155000,145,140,3+1,11-15,2
+147,İstanbul,Avcılar,Tahtakale Mahallesi,2330000,189,140,3+1,5-10,13
+148,İstanbul,Maltepe,Bağlarbaşı Mahallesi,1150000,145,110,3+1,21 Ve Üzeri,4
+149,İstanbul,Sultanbeyli,Battalgazi Mahallesi,759000,130,110,3+1,0 (Yeni),1
+150,İstanbul,Bağcılar,Fevzi Çakmak Mahallesi,600000,90,85,2+1,5-10,Yüksek Giriş
+151,İstanbul,Kartal,Atalar Mahallesi,1300000,135,115,3+1,5-10,4
+152,İstanbul,Sancaktepe,İnönü Mahallesi,1150000,150,125,3+2,0 (Yeni),Çatı Dubleks
+153,İstanbul,Beşiktaş,Nisbetiye Mahallesi,8500000,300,270,5+1,21 Ve Üzeri,Bahçe Katı
+154,İstanbul,Beşiktaş,Akat Mahallesi,16500000,350,320,5+2,21 Ve Üzeri,Düz Giriş
+155,İstanbul,Kadıköy,Suadiye Mahallesi,3985000,145,108,3+1,21 Ve Üzeri,1
+156,İstanbul,Küçükçekmece,Halkalı Merkez Mahallesi,1450000,100,90,1+1,5-10,11
+157,İstanbul,Avcılar,Tahtakale Mahallesi,2100000,164,128,2+1,3,8
+158,İstanbul,Ümraniye,Site Mahallesi,1650000,120,106,3+1,11-15,Düz Giriş
+159,İstanbul,Maltepe,Feyzullah Mahallesi,2300000,160,150,2+2,3,4
+160,İstanbul,Beylikdüzü,Cumhuriyet Mahallesi,350000,105,100,1+1,0 (Yeni),8
+161,İstanbul,Pendik,Esenler Mahallesi,1451500,139,80,2+1,0 (Yeni),1
+162,İstanbul,Pendik,Esenler Mahallesi,1263000,102,75,2+1,1,9
+163,İstanbul,Küçükçekmece,Atakent Mahallesi,3150000,192,175,4+1,11-15,5
+164,İstanbul,Beylikdüzü,Cumhuriyet Mahallesi,350000,80,75,1+1,0 (Yeni),5
+165,İstanbul,Güngören,Mareşal Çakmak Mahallesi,445000,65,55,1+1,0 (Yeni),Bahçe Katı
+166,İstanbul,Beşiktaş,Levent Mahallesi,22000000,450,400,6+2,5-10,Düz Giriş
+167,İstanbul,Beylikdüzü,Cumhuriyet Mahallesi,650000,135,125,2+1,0 (Yeni),4
+168,İstanbul,Beylikdüzü,Yakuplu Mahallesi,599000,110,95,2+1,0 (Yeni),Bahçe Katı
+169,İstanbul,Silivri,Gümüşyaka Mahallesi,1075000,245,230,3+1,21 Ve Üzeri,Düz Giriş
+170,İstanbul,Pendik,Harmandere Mahallesi,650000,180,160,3+1,11-15,4
+171,İstanbul,Eyüpsultan,Merkez Mahallesi,1490000,160,150,3+2,0 (Yeni),3
+172,İstanbul,Sarıyer,Sarıyer Merkez Mahallesi,4200000,270,200,5+3,11-15,Müstakil
+173,İstanbul,Kadıköy,Koşuyolu Mahallesi,8250000,305,304,1 Oda,21 Ve Üzeri,Düz Giriş
+174,İstanbul,Şişli,Gülbahar Mahallesi,1450000,160,150,3+1,21 Ve Üzeri,4
+175,İstanbul,Sarıyer,Zekeriyaköy Mahallesi,6500000,500,450,6+2,21 Ve Üzeri,Villa Tipi
+176,İstanbul,Esenler,Kazım Karabekir Mahallesi,850000,95,85,2+1,0 (Yeni),4
+177,İstanbul,Bağcılar,Yavuz Selim Mahallesi,685000,160,150,3+1,11-15,3
+178,İstanbul,Kağıthane,Merkez Mahallesi,1800000,255,220,4+1,5-10,4
+179,İstanbul,Maltepe,Girne Mahallesi,1200000,119,100,3+1,0 (Yeni),4
+180,İstanbul,Beylikdüzü,Cumhuriyet Mahallesi,247000,125,115,2+1,0 (Yeni),3
+181,İstanbul,Arnavutköy,Mavigöl Mahallesi,3900000,500,300,4+1,5-10,Villa Tipi
+182,İstanbul,Bağcılar,Sancaktepe Mahallesi,1200000,200,190,5+1,2,3
+183,İstanbul,Güngören,Mehmet Nesih Özmen Mahallesi,2750000,160,140,3+1,5-10,1
+184,İstanbul,Eyüpsultan,Güzeltepe Mahallesi,4400000,178,105,3+1,0 (Yeni),5
+185,İstanbul,Esenyurt,Mehmet Akif Ersoy Mahallesi,250000,92,85,2+1,0 (Yeni),Bahçe Katı
+186,İstanbul,Küçükçekmece,Atakent Mahallesi,3400000,167,140,3+1,11-15,6
+187,İstanbul,Küçükçekmece,Mehmet Akif Mahallesi,1200000,165,160,6+1,1,Çatı Dubleks
+188,İstanbul,Bahçelievler,Soğanlı Mahallesi,1650000,190,170,4+2,0 (Yeni),5
+189,İstanbul,Büyükçekmece,Atatürk Mahallesi,600000,100,90,2+1,0 (Yeni),3
+190,İstanbul,Arnavutköy,Arnavutköy Merkez Mahallesi,720000,100,90,2+1,5-10,5
+191,İstanbul,Ümraniye,Esenevler Mahallesi,1360000,87,75,2+1,0 (Yeni),3
+192,İstanbul,Tuzla,Aydınlı Mahallesi,650000,90,75,2+1,0 (Yeni),2
+193,İstanbul,Beylikdüzü,Marmara Mahallesi,4300000,270,250,Stüdyo,4,Düz Giriş
+194,İstanbul,Maltepe,Altayçeşme Mahallesi,2700000,109,80,2+1,3,4
+195,İstanbul,Sarıyer,Bahçeköy Merkez Mahallesi,850000,90,85,2+1,11-15,3
+196,İstanbul,Başakşehir,Altınşehir Mahallesi,1100000,190,180,4+2,3,Kot 3 (-3)
+197,İstanbul,Küçükçekmece,İnönü Mahallesi,1175000,185,165,4+1,5-10,Çatı Dubleks
+198,İstanbul,Maltepe,Girne Mahallesi,1250000,110,95,3+1,3,2
+199,İstanbul,Esenler,Tuna Mahallesi,290000,55,50,1+1,3,Bahçe Katı
+200,İstanbul,Esenler,Tuna Mahallesi,740000,95,90,2+1,4,3
+201,İstanbul,Bahçelievler,Zafer Mahallesi,720000,90,80,2+1,0 (Yeni),Yüksek Giriş
+202,İstanbul,Büyükçekmece,Kamiloba Mahallesi,1700000,120,100,1+1,11-15,Düz Giriş
+203,İstanbul,Beşiktaş,Levazım Mahallesi,15200000,189,133,3+1,4,7
+204,İstanbul,Bahçelievler,Kocasinan Merkez Mahallesi,750000,128,125,2+1,11-15,Çatı Dubleks
+205,İstanbul,Büyükçekmece,Kamiloba Mahallesi,755000,85,80,2+1,11-15,Düz Giriş
+206,İstanbul,Beylikdüzü,Barış Mahallesi,1200000,115,100,2+1,11-15,2
+207,İstanbul,Beylikdüzü,Beylikdüzü OSB Mahallesi,330000,95,85,1+1,0 (Yeni),11
+208,İstanbul,Pendik,Güllü Bağlar Mahallesi,2900000,300,260,6+1,0 (Yeni),9
+209,İstanbul,Pendik,Güllü Bağlar Mahallesi,2300000,300,250,4+1,0 (Yeni),10
+210,İstanbul,Beylikdüzü,Sahil Mahallesi,1900000,135,110,2+1,2,2
+211,İstanbul,Eyüpsultan,Yeşilpınar Mahallesi,1500000,110,90,3+1,11-15,Yüksek Giriş
+212,İstanbul,Çekmeköy,Hamidiye Mahallesi,5000000,178,150,3+1,5-10,3
+213,İstanbul,Pendik,Güzelyalı Mahallesi,1000000,125,120,3+1,5-10,2
+214,İstanbul,Pendik,Velibaba Mahallesi,1500000,125,120,3+1,3,1
+215,İstanbul,Beykoz,Acarlar Mahallesi,2750000,145,105,2+1,2,5
+216,İstanbul,Beykoz,Göztepe Mahallesi,3700000,150,135,3+1,21 Ve Üzeri,4
+217,İstanbul,Sancaktepe,Safa Mahallesi,775000,125,100,3+1,11-15,7
+218,İstanbul,Beylikdüzü,Cumhuriyet Mahallesi,689999,150,140,3+1,0 (Yeni),2
+219,İstanbul,Esenyurt,Saadetdere Mahallesi,670000,130,120,2+1,4,2
+220,İstanbul,Sultanbeyli,Hasanpaşa Mahallesi,1050000,80,70,2+1,5-10,Bahçe Katı
+221,İstanbul,Esenyurt,Saadetdere Mahallesi,690000,90,80,2+1,0 (Yeni),2
+222,İstanbul,Başakşehir,Bahçeşehir 2. Kısım Mahallesi,2250000,100,90,2+1,11-15,5
+223,İstanbul,Başakşehir,Bahçeşehir 2. Kısım Mahallesi,1800000,220,200,4+2,16-20,5
+224,İstanbul,Beylikdüzü,Adnan Kahveci Mahallesi,1750000,220,160,4+1,1,3
+225,İstanbul,Beylikdüzü,Adnan Kahveci Mahallesi,5250000,450,325,6+2,0 (Yeni),Düz Giriş
+226,İstanbul,Beylikdüzü,Adnan Kahveci Mahallesi,1475000,125,105,2+1,0 (Yeni),2
+227,İstanbul,Gaziosmanpaşa,Şemsipaşa Mahallesi,1185000,110,100,2+1,0 (Yeni),3
+228,İstanbul,Bayrampaşa,Kartaltepe Mahallesi,1350000,165,150,3+2,0 (Yeni),Çatı Dubleks
+229,İstanbul,Beylikdüzü,Yakuplu Mahallesi,1000000,110,100,3+1,4,1
+230,İstanbul,Avcılar,Denizköşkler Mahallesi,1300000,110,100,3+1,0 (Yeni),3
+231,İstanbul,Avcılar,Cihangir Mahallesi,980000,130,120,3+1,5-10,5
+232,İstanbul,Avcılar,Gümüşpala Mahallesi,1500000,160,150,3+2,5-10,3
+233,İstanbul,Beylikdüzü,Adnan Kahveci Mahallesi,3100000,185,170,3+1,5-10,3
+234,İstanbul,Avcılar,Merkez Mahallesi,1500000,150,140,3+2,0 (Yeni),Çatı Dubleks
+235,İstanbul,Esenyurt,Piri Reis Mahallesi,849000,140,130,3+1,5-10,11
+236,İstanbul,Küçükçekmece,Halkalı Merkez Mahallesi,3250000,152,110,3+1,0 (Yeni),2
+237,İstanbul,Bahçelievler,Çobançeşme Mahallesi,785000,120,100,2+1,21 Ve Üzeri,1
+238,İstanbul,Kadıköy,Bostancı Mahallesi,3950000,120,90,3+1,4,2
+239,İstanbul,Kağıthane,Merkez Mahallesi,975000,200,180,5+1,5-10,Düz Giriş
+240,İstanbul,Kartal,Cumhuriyet Mahallesi,1295000,125,110,3+1,4,2
+241,İstanbul,Pendik,Yeni Mahallesi,875000,78,70,2+1,0 (Yeni),Yüksek Giriş
+242,İstanbul,Pendik,Yenişehir Mahallesi,675000,85,75,2+1,16-20,4
+243,İstanbul,Ümraniye,Yamanevler Mahallesi,2800000,74,50,1+1,0 (Yeni),21
+244,İstanbul,Ümraniye,Yamanevler Mahallesi,2600000,74,50,1+1,0 (Yeni),20
+245,İstanbul,Avcılar,Cihangir Mahallesi,400000,130,125,3+1,21 Ve Üzeri,1
+246,İstanbul,Sultanbeyli,Hasanpaşa Mahallesi,1050000,80,70,2+1,5-10,Bahçe Katı
+247,İstanbul,Esenyurt,Mevlana Mahallesi,1350000,140,125,3+1,21 Ve Üzeri,12
+248,İstanbul,Küçükçekmece,İnönü Mahallesi,680000,85,75,2+1,0 (Yeni),Yüksek Giriş
+249,İstanbul,Küçükçekmece,İnönü Mahallesi,680000,80,75,2+1,0 (Yeni),Yüksek Giriş
+250,İstanbul,Bahçelievler,Siyavuşpaşa Mahallesi,615000,165,140,3+1,16-20,5
+251,İstanbul,Maltepe,Zümrütevler Mahallesi,1420000,92,75,2+1,5-10,13
+252,İstanbul,Eyüpsultan,Nişancı Mahallesi,890000,230,200,5+2,21 Ve Üzeri,Müstakil
+253,İstanbul,Sultanbeyli,Ahmet Yesevi Mahallesi,598000,120,99,2+1,0 (Yeni),Kot 1 (-1)
+254,İstanbul,Avcılar,Mustafa Kemal Paşa Mahallesi,293000,83,73,1+1,0 (Yeni),1
+255,İstanbul,Kadıköy,Fenerbahçe Mahallesi,12000000,200,147,4+1,0 (Yeni),18
+256,İstanbul,Esenyurt,Mehterçeşme Mahallesi,285000,80,70,1+1,0 (Yeni),2
+257,İstanbul,Çekmeköy,Merkez Mahallesi,699000,85,70,2+1,0 (Yeni),Kot 1 (-1)
+258,İstanbul,Çekmeköy,Merkez Mahallesi,819000,90,80,2+1,0 (Yeni),1
+259,İstanbul,Bahçelievler,Bahçelievler Mahallesi,1435000,120,100,3+1,21 Ve Üzeri,1
+260,İstanbul,Esenyurt,Cumhuriyet Mahallesi,329000,110,100,2+1,0 (Yeni),3
+261,İstanbul,Beylikdüzü,Beylikdüzü OSB Mahallesi,505000,117,107,2+1,0 (Yeni),6
+262,İstanbul,Ümraniye,Esenşehir Mahallesi,2950000,130,100,2+1,5-10,6
+263,İstanbul,Maltepe,Girne Mahallesi,1525000,100,78,2+1,5-10,2
+264,İstanbul,Esenyurt,Mehmet Akif Ersoy Mahallesi,326000,112,102,2+1,0 (Yeni),3
+265,İstanbul,Başakşehir,Başakşehir Mahallesi,4990000,177,140,4+1,5-10,3
+266,İstanbul,Beylikdüzü,Yakuplu Mahallesi,388000,110,100,2+1,0 (Yeni),4
+267,İstanbul,Zeytinburnu,Seyitnizam Mahallesi,1100000,170,160,4+2,21 Ve Üzeri,5
+268,İstanbul,Esenyurt,Güzelyurt Mahallesi,250000,75,65,1+1,0 (Yeni),4
+269,İstanbul,Esenyurt,İncirtepe Mahallesi,355000,130,120,3+1,0 (Yeni),3
+270,İstanbul,Beylikdüzü,Adnan Kahveci Mahallesi,1699000,270,250,5+2,0 (Yeni),4
+271,İstanbul,Beylikdüzü,Cumhuriyet Mahallesi,749900,150,140,3+1,0 (Yeni),2
+272,İstanbul,Beylikdüzü,Cumhuriyet Mahallesi,529900,120,105,2+1,0 (Yeni),1
+273,İstanbul,Beylikdüzü,Adnan Kahveci Mahallesi,1434900,160,150,3+1,0 (Yeni),Yüksek Giriş
+274,İstanbul,Beylikdüzü,Adnan Kahveci Mahallesi,800000,105,90,1+1,3,3
+275,İstanbul,Beylikdüzü,Cumhuriyet Mahallesi,659000,140,120,3+1,0 (Yeni),1
+276,İstanbul,Beylikdüzü,Cumhuriyet Mahallesi,439000,110,100,2+1,4,2
+277,İstanbul,Fatih,Topkapı Mahallesi,870000,120,115,2+1,21 Ve Üzeri,4
+278,İstanbul,Beylikdüzü,Cumhuriyet Mahallesi,1950000,165,136,3+1,21 Ve Üzeri,15
+279,İstanbul,Beylikdüzü,Cumhuriyet Mahallesi,2750000,165,146,3+1,16-20,8
+280,İstanbul,Çekmeköy,Güngören Mahallesi,1250000,127,105,3+1,11-15,1
+281,İstanbul,Beylikdüzü,Cumhuriyet Mahallesi,739000,115,102,2+1,0 (Yeni),2
+282,İstanbul,Beylikdüzü,Cumhuriyet Mahallesi,699000,146,120,3+1,0 (Yeni),1
+283,İstanbul,Beylikdüzü,Cumhuriyet Mahallesi,340000,110,100,2+1,4,2
+284,İstanbul,Beylikdüzü,Cumhuriyet Mahallesi,439000,110,100,2+1,4,2
+285,İstanbul,Beylikdüzü,Cumhuriyet Mahallesi,269999,130,120,2+1,0 (Yeni),Bahçe Katı
+286,İstanbul,Beylikdüzü,Cumhuriyet Mahallesi,499999,120,110,2+1,0 (Yeni),2
+287,İstanbul,Bahçelievler,Şirinevler Mahallesi,2325000,220,205,5+2,4,Çatı Dubleks
+288,İstanbul,Esenyurt,Cumhuriyet Mahallesi,739000,115,102,2+1,0 (Yeni),2
+289,İstanbul,Beylikdüzü,Cumhuriyet Mahallesi,539999,100,95,2+1,0 (Yeni),Yüksek Giriş
+290,İstanbul,Bahçelievler,Siyavuşpaşa Mahallesi,615000,100,87,2+1,21 Ve Üzeri,5
+291,İstanbul,Beylikdüzü,Yakuplu Mahallesi,889000,110,90,2+1,0 (Yeni),2
+292,İstanbul,Küçükçekmece,Yeşilova Mahallesi,610000,135,120,3+1,16-20,1
+293,İstanbul,Bahçelievler,Şirinevler Mahallesi,1250000,210,200,5+2,21 Ve Üzeri,Çatı Dubleks
+294,İstanbul,Küçükçekmece,Halkalı Merkez Mahallesi,1600000,141,95,3+1,4,10
+295,İstanbul,Beylikdüzü,Adnan Kahveci Mahallesi,1575000,140,125,2+1,5-10,Villa Tipi
+296,İstanbul,Beykoz,Çubuklu Mahallesi,200000000,1500,1100,6+1,21 Ve Üzeri,Müstakil
+297,İstanbul,Avcılar,Gümüşpala Mahallesi,495000,130,110,3+1,21 Ve Üzeri,2
+298,İstanbul,Avcılar,Denizköşkler Mahallesi,390000,110,100,3+1,21 Ve Üzeri,1
+299,İstanbul,Esenyurt,Çınar Mahallesi,450000,100,90,2+1,5-10,1
+300,İstanbul,Beylikdüzü,Adnan Kahveci Mahallesi,1699000,270,250,5+2,0 (Yeni),4
+301,İstanbul,Beylikdüzü,Cumhuriyet Mahallesi,749900,150,140,3+1,0 (Yeni),2
+302,İstanbul,Beylikdüzü,Cumhuriyet Mahallesi,529900,120,105,2+1,0 (Yeni),1
+303,İstanbul,Beylikdüzü,Adnan Kahveci Mahallesi,1434900,160,150,3+1,0 (Yeni),Yüksek Giriş
+304,İstanbul,Beylikdüzü,Adnan Kahveci Mahallesi,800000,105,90,1+1,3,3
+305,İstanbul,Beylikdüzü,Cumhuriyet Mahallesi,659000,140,120,3+1,0 (Yeni),1
+306,İstanbul,Beylikdüzü,Cumhuriyet Mahallesi,439000,110,100,2+1,4,2
+307,İstanbul,Fatih,Topkapı Mahallesi,870000,120,115,2+1,21 Ve Üzeri,4
+308,İstanbul,Beylikdüzü,Cumhuriyet Mahallesi,1950000,165,136,3+1,21 Ve Üzeri,15
+309,İstanbul,Beylikdüzü,Cumhuriyet Mahallesi,2750000,165,146,3+1,16-20,8
+310,İstanbul,Çekmeköy,Güngören Mahallesi,1250000,127,105,3+1,11-15,1
+311,İstanbul,Beylikdüzü,Cumhuriyet Mahallesi,739000,115,102,2+1,0 (Yeni),2
+312,İstanbul,Beylikdüzü,Cumhuriyet Mahallesi,699000,146,120,3+1,0 (Yeni),1
+313,İstanbul,Beylikdüzü,Cumhuriyet Mahallesi,340000,110,100,2+1,4,2
+314,İstanbul,Beylikdüzü,Cumhuriyet Mahallesi,439000,110,100,2+1,4,2
+315,İstanbul,Beylikdüzü,Cumhuriyet Mahallesi,269999,130,120,2+1,0 (Yeni),Bahçe Katı
+316,İstanbul,Beylikdüzü,Cumhuriyet Mahallesi,499999,120,110,2+1,0 (Yeni),2
+317,İstanbul,Bahçelievler,Şirinevler Mahallesi,2325000,220,205,5+2,4,Çatı Dubleks
+318,İstanbul,Esenyurt,Cumhuriyet Mahallesi,739000,115,102,2+1,0 (Yeni),2
+319,İstanbul,Beylikdüzü,Cumhuriyet Mahallesi,539999,100,95,2+1,0 (Yeni),Yüksek Giriş
+320,İstanbul,Bahçelievler,Siyavuşpaşa Mahallesi,615000,100,87,2+1,21 Ve Üzeri,5
+321,İstanbul,Beylikdüzü,Yakuplu Mahallesi,889000,110,90,2+1,0 (Yeni),2
+322,İstanbul,Küçükçekmece,Yeşilova Mahallesi,610000,135,120,3+1,16-20,1
+323,İstanbul,Bahçelievler,Şirinevler Mahallesi,1250000,210,200,5+2,21 Ve Üzeri,Çatı Dubleks
+324,İstanbul,Küçükçekmece,Halkalı Merkez Mahallesi,1600000,141,95,3+1,4,10
+325,İstanbul,Beylikdüzü,Adnan Kahveci Mahallesi,1575000,140,125,2+1,5-10,Villa Tipi
+326,İstanbul,Beykoz,Çubuklu Mahallesi,200000000,1500,1100,6+1,21 Ve Üzeri,Müstakil
+327,İstanbul,Avcılar,Gümüşpala Mahallesi,495000,130,110,3+1,21 Ve Üzeri,2
+328,İstanbul,Avcılar,Denizköşkler Mahallesi,390000,110,100,3+1,21 Ve Üzeri,1
+329,İstanbul,Esenyurt,Çınar Mahallesi,450000,100,90,2+1,5-10,1
+330,İstanbul,Beylikdüzü,Adnan Kahveci Mahallesi,1699000,270,250,5+2,0 (Yeni),4
+331,İstanbul,Beylikdüzü,Cumhuriyet Mahallesi,749900,150,140,3+1,0 (Yeni),2
+332,İstanbul,Beylikdüzü,Cumhuriyet Mahallesi,529900,120,105,2+1,0 (Yeni),1
+333,İstanbul,Beylikdüzü,Adnan Kahveci Mahallesi,1434900,160,150,3+1,0 (Yeni),Yüksek Giriş
+334,İstanbul,Beylikdüzü,Adnan Kahveci Mahallesi,800000,105,90,1+1,3,3
+335,İstanbul,Beylikdüzü,Cumhuriyet Mahallesi,659000,140,120,3+1,0 (Yeni),1
+336,İstanbul,Beylikdüzü,Cumhuriyet Mahallesi,439000,110,100,2+1,4,2
+337,İstanbul,Fatih,Topkapı Mahallesi,870000,120,115,2+1,21 Ve Üzeri,4
+338,İstanbul,Beylikdüzü,Cumhuriyet Mahallesi,1950000,165,136,3+1,21 Ve Üzeri,15
+339,İstanbul,Beylikdüzü,Cumhuriyet Mahallesi,2750000,165,146,3+1,16-20,8
+340,İstanbul,Çekmeköy,Güngören Mahallesi,1250000,127,105,3+1,11-15,1
+341,İstanbul,Beylikdüzü,Cumhuriyet Mahallesi,739000,115,102,2+1,0 (Yeni),2
+342,İstanbul,Beylikdüzü,Cumhuriyet Mahallesi,699000,146,120,3+1,0 (Yeni),1
+343,İstanbul,Beylikdüzü,Cumhuriyet Mahallesi,340000,110,100,2+1,4,2
+344,İstanbul,Beylikdüzü,Cumhuriyet Mahallesi,439000,110,100,2+1,4,2
+345,İstanbul,Beylikdüzü,Cumhuriyet Mahallesi,269999,130,120,2+1,0 (Yeni),Bahçe Katı
+346,İstanbul,Beylikdüzü,Cumhuriyet Mahallesi,499999,120,110,2+1,0 (Yeni),2
+347,İstanbul,Bahçelievler,Şirinevler Mahallesi,2325000,220,205,5+2,4,Çatı Dubleks
+348,İstanbul,Esenyurt,Cumhuriyet Mahallesi,739000,115,102,2+1,0 (Yeni),2
+349,İstanbul,Beylikdüzü,Cumhuriyet Mahallesi,539999,100,95,2+1,0 (Yeni),Yüksek Giriş
+350,İstanbul,Bahçelievler,Siyavuşpaşa Mahallesi,615000,100,87,2+1,21 Ve Üzeri,5
+351,İstanbul,Beylikdüzü,Yakuplu Mahallesi,889000,110,90,2+1,0 (Yeni),2
+352,İstanbul,Küçükçekmece,Yeşilova Mahallesi,610000,135,120,3+1,16-20,1
+353,İstanbul,Bahçelievler,Şirinevler Mahallesi,1250000,210,200,5+2,21 Ve Üzeri,Çatı Dubleks
+354,İstanbul,Küçükçekmece,Halkalı Merkez Mahallesi,1600000,141,95,3+1,4,10
+355,İstanbul,Beylikdüzü,Adnan Kahveci Mahallesi,1575000,140,125,2+1,5-10,Villa Tipi
+356,İstanbul,Beykoz,Çubuklu Mahallesi,200000000,1500,1100,6+1,21 Ve Üzeri,Müstakil
+357,İstanbul,Avcılar,Gümüşpala Mahallesi,495000,130,110,3+1,21 Ve Üzeri,2
+358,İstanbul,Avcılar,Denizköşkler Mahallesi,390000,110,100,3+1,21 Ve Üzeri,1
+359,İstanbul,Esenyurt,Çınar Mahallesi,450000,100,90,2+1,5-10,1
+360,İstanbul,Beylikdüzü,Adnan Kahveci Mahallesi,1699000,270,250,5+2,0 (Yeni),4
+361,İstanbul,Beylikdüzü,Cumhuriyet Mahallesi,749900,150,140,3+1,0 (Yeni),2
+362,İstanbul,Beylikdüzü,Cumhuriyet Mahallesi,529900,120,105,2+1,0 (Yeni),1
+363,İstanbul,Beylikdüzü,Adnan Kahveci Mahallesi,1434900,160,150,3+1,0 (Yeni),Yüksek Giriş
+364,İstanbul,Beylikdüzü,Adnan Kahveci Mahallesi,800000,105,90,1+1,3,3
+365,İstanbul,Beylikdüzü,Cumhuriyet Mahallesi,659000,140,120,3+1,0 (Yeni),1
+366,İstanbul,Beylikdüzü,Cumhuriyet Mahallesi,439000,110,100,2+1,4,2
+367,İstanbul,Fatih,Topkapı Mahallesi,870000,120,115,2+1,21 Ve Üzeri,4
+368,İstanbul,Beylikdüzü,Cumhuriyet Mahallesi,1950000,165,136,3+1,21 Ve Üzeri,15
+369,İstanbul,Beylikdüzü,Cumhuriyet Mahallesi,2750000,165,146,3+1,16-20,8
+370,İstanbul,Çekmeköy,Güngören Mahallesi,1250000,127,105,3+1,11-15,1
+371,İstanbul,Beylikdüzü,Cumhuriyet Mahallesi,739000,115,102,2+1,0 (Yeni),2
+372,İstanbul,Beylikdüzü,Cumhuriyet Mahallesi,699000,146,120,3+1,0 (Yeni),1
+373,İstanbul,Beylikdüzü,Cumhuriyet Mahallesi,340000,110,100,2+1,4,2
+374,İstanbul,Beylikdüzü,Cumhuriyet Mahallesi,439000,110,100,2+1,4,2
+375,İstanbul,Beylikdüzü,Cumhuriyet Mahallesi,269999,130,120,2+1,0 (Yeni),Bahçe Katı
+376,İstanbul,Beylikdüzü,Cumhuriyet Mahallesi,499999,120,110,2+1,0 (Yeni),2
+377,İstanbul,Bahçelievler,Şirinevler Mahallesi,2325000,220,205,5+2,4,Çatı Dubleks
+378,İstanbul,Esenyurt,Cumhuriyet Mahallesi,739000,115,102,2+1,0 (Yeni),2
+379,İstanbul,Beylikdüzü,Cumhuriyet Mahallesi,539999,100,95,2+1,0 (Yeni),Yüksek Giriş
+380,İstanbul,Bahçelievler,Siyavuşpaşa Mahallesi,615000,100,87,2+1,21 Ve Üzeri,5
+381,İstanbul,Beylikdüzü,Yakuplu Mahallesi,889000,110,90,2+1,0 (Yeni),2
+382,İstanbul,Küçükçekmece,Yeşilova Mahallesi,610000,135,120,3+1,16-20,1
+383,İstanbul,Bahçelievler,Şirinevler Mahallesi,1250000,210,200,5+2,21 Ve Üzeri,Çatı Dubleks
+384,İstanbul,Küçükçekmece,Halkalı Merkez Mahallesi,1600000,141,95,3+1,4,10
+385,İstanbul,Beylikdüzü,Adnan Kahveci Mahallesi,1575000,140,125,2+1,5-10,Villa Tipi
+386,İstanbul,Beykoz,Çubuklu Mahallesi,200000000,1500,1100,6+1,21 Ve Üzeri,Müstakil
+387,İstanbul,Avcılar,Gümüşpala Mahallesi,495000,130,110,3+1,21 Ve Üzeri,2
+388,İstanbul,Avcılar,Denizköşkler Mahallesi,390000,110,100,3+1,21 Ve Üzeri,1
+389,İstanbul,Esenyurt,Çınar Mahallesi,450000,100,90,2+1,5-10,1
+390,İstanbul,Beylikdüzü,Adnan Kahveci Mahallesi,1699000,270,250,5+2,0 (Yeni),4
+391,İstanbul,Beylikdüzü,Cumhuriyet Mahallesi,749900,150,140,3+1,0 (Yeni),2
+392,İstanbul,Beylikdüzü,Cumhuriyet Mahallesi,529900,120,105,2+1,0 (Yeni),1
+393,İstanbul,Beylikdüzü,Adnan Kahveci Mahallesi,1434900,160,150,3+1,0 (Yeni),Yüksek Giriş
+394,İstanbul,Beylikdüzü,Adnan Kahveci Mahallesi,800000,105,90,1+1,3,3
+395,İstanbul,Beylikdüzü,Cumhuriyet Mahallesi,659000,140,120,3+1,0 (Yeni),1
+396,İstanbul,Beylikdüzü,Cumhuriyet Mahallesi,439000,110,100,2+1,4,2
+397,İstanbul,Fatih,Topkapı Mahallesi,870000,120,115,2+1,21 Ve Üzeri,4
+398,İstanbul,Beylikdüzü,Cumhuriyet Mahallesi,1950000,165,136,3+1,21 Ve Üzeri,15
+399,İstanbul,Beylikdüzü,Cumhuriyet Mahallesi,2750000,165,146,3+1,16-20,8
+400,İstanbul,Çekmeköy,Güngören Mahallesi,1250000,127,105,3+1,11-15,1
+401,İstanbul,Beylikdüzü,Cumhuriyet Mahallesi,739000,115,102,2+1,0 (Yeni),2
+402,İstanbul,Beylikdüzü,Cumhuriyet Mahallesi,699000,146,120,3+1,0 (Yeni),1
+403,İstanbul,Beylikdüzü,Cumhuriyet Mahallesi,340000,110,100,2+1,4,2
+404,İstanbul,Beylikdüzü,Cumhuriyet Mahallesi,439000,110,100,2+1,4,2
+405,İstanbul,Beylikdüzü,Cumhuriyet Mahallesi,269999,130,120,2+1,0 (Yeni),Bahçe Katı
+406,İstanbul,Beylikdüzü,Cumhuriyet Mahallesi,499999,120,110,2+1,0 (Yeni),2
+407,İstanbul,Bahçelievler,Şirinevler Mahallesi,2325000,220,205,5+2,4,Çatı Dubleks
+408,İstanbul,Esenyurt,Cumhuriyet Mahallesi,739000,115,102,2+1,0 (Yeni),2
+409,İstanbul,Beylikdüzü,Cumhuriyet Mahallesi,539999,100,95,2+1,0 (Yeni),Yüksek Giriş
+410,İstanbul,Bahçelievler,Siyavuşpaşa Mahallesi,615000,100,87,2+1,21 Ve Üzeri,5
+411,İstanbul,Beylikdüzü,Yakuplu Mahallesi,889000,110,90,2+1,0 (Yeni),2
+412,İstanbul,Küçükçekmece,Yeşilova Mahallesi,610000,135,120,3+1,16-20,1
+413,İstanbul,Bahçelievler,Şirinevler Mahallesi,1250000,210,200,5+2,21 Ve Üzeri,Çatı Dubleks
+414,İstanbul,Küçükçekmece,Halkalı Merkez Mahallesi,1600000,141,95,3+1,4,10
+415,İstanbul,Beylikdüzü,Adnan Kahveci Mahallesi,1575000,140,125,2+1,5-10,Villa Tipi
+416,İstanbul,Beykoz,Çubuklu Mahallesi,200000000,1500,1100,6+1,21 Ve Üzeri,Müstakil
+417,İstanbul,Avcılar,Gümüşpala Mahallesi,495000,130,110,3+1,21 Ve Üzeri,2
+418,İstanbul,Avcılar,Denizköşkler Mahallesi,390000,110,100,3+1,21 Ve Üzeri,1
+419,İstanbul,Esenyurt,Çınar Mahallesi,450000,100,90,2+1,5-10,1
+420,İstanbul,Beylikdüzü,Adnan Kahveci Mahallesi,1699000,270,250,5+2,0 (Yeni),4
+421,İstanbul,Beylikdüzü,Cumhuriyet Mahallesi,749900,150,140,3+1,0 (Yeni),2
+422,İstanbul,Beylikdüzü,Cumhuriyet Mahallesi,529900,120,105,2+1,0 (Yeni),1
+423,İstanbul,Beylikdüzü,Adnan Kahveci Mahallesi,1434900,160,150,3+1,0 (Yeni),Yüksek Giriş
+424,İstanbul,Beylikdüzü,Adnan Kahveci Mahallesi,800000,105,90,1+1,3,3
+425,İstanbul,Beylikdüzü,Cumhuriyet Mahallesi,659000,140,120,3+1,0 (Yeni),1
+426,İstanbul,Beylikdüzü,Cumhuriyet Mahallesi,439000,110,100,2+1,4,2
+427,İstanbul,Fatih,Topkapı Mahallesi,870000,120,115,2+1,21 Ve Üzeri,4
+428,İstanbul,Beylikdüzü,Cumhuriyet Mahallesi,1950000,165,136,3+1,21 Ve Üzeri,15
+429,İstanbul,Beylikdüzü,Cumhuriyet Mahallesi,2750000,165,146,3+1,16-20,8
+430,İstanbul,Çekmeköy,Güngören Mahallesi,1250000,127,105,3+1,11-15,1
+431,İstanbul,Beylikdüzü,Cumhuriyet Mahallesi,739000,115,102,2+1,0 (Yeni),2
+432,İstanbul,Beylikdüzü,Cumhuriyet Mahallesi,699000,146,120,3+1,0 (Yeni),1
+433,İstanbul,Beylikdüzü,Cumhuriyet Mahallesi,340000,110,100,2+1,4,2
+434,İstanbul,Beylikdüzü,Cumhuriyet Mahallesi,439000,110,100,2+1,4,2
+435,İstanbul,Beylikdüzü,Cumhuriyet Mahallesi,269999,130,120,2+1,0 (Yeni),Bahçe Katı
+436,İstanbul,Beylikdüzü,Cumhuriyet Mahallesi,499999,120,110,2+1,0 (Yeni),2
+437,İstanbul,Bahçelievler,Şirinevler Mahallesi,2325000,220,205,5+2,4,Çatı Dubleks
+438,İstanbul,Esenyurt,Cumhuriyet Mahallesi,739000,115,102,2+1,0 (Yeni),2
+439,İstanbul,Beylikdüzü,Cumhuriyet Mahallesi,539999,100,95,2+1,0 (Yeni),Yüksek Giriş
+440,İstanbul,Bahçelievler,Siyavuşpaşa Mahallesi,615000,100,87,2+1,21 Ve Üzeri,5
+441,İstanbul,Beylikdüzü,Yakuplu Mahallesi,889000,110,90,2+1,0 (Yeni),2
+442,İstanbul,Küçükçekmece,Yeşilova Mahallesi,610000,135,120,3+1,16-20,1
+443,İstanbul,Bahçelievler,Şirinevler Mahallesi,1250000,210,200,5+2,21 Ve Üzeri,Çatı Dubleks
+444,İstanbul,Küçükçekmece,Halkalı Merkez Mahallesi,1600000,141,95,3+1,4,10
+445,İstanbul,Beylikdüzü,Adnan Kahveci Mahallesi,1575000,140,125,2+1,5-10,Villa Tipi
+446,İstanbul,Beykoz,Çubuklu Mahallesi,200000000,1500,1100,6+1,21 Ve Üzeri,Müstakil
+447,İstanbul,Avcılar,Gümüşpala Mahallesi,495000,130,110,3+1,21 Ve Üzeri,2
+448,İstanbul,Avcılar,Denizköşkler Mahallesi,390000,110,100,3+1,21 Ve Üzeri,1
+449,İstanbul,Esenyurt,Çınar Mahallesi,450000,100,90,2+1,5-10,1
+450,İstanbul,Beylikdüzü,Adnan Kahveci Mahallesi,1699000,270,250,5+2,0 (Yeni),4
+451,İstanbul,Beylikdüzü,Cumhuriyet Mahallesi,749900,150,140,3+1,0 (Yeni),2
+452,İstanbul,Beylikdüzü,Cumhuriyet Mahallesi,529900,120,105,2+1,0 (Yeni),1
+453,İstanbul,Beylikdüzü,Adnan Kahveci Mahallesi,1434900,160,150,3+1,0 (Yeni),Yüksek Giriş
+454,İstanbul,Beylikdüzü,Adnan Kahveci Mahallesi,800000,105,90,1+1,3,3
+455,İstanbul,Beylikdüzü,Cumhuriyet Mahallesi,659000,140,120,3+1,0 (Yeni),1
+456,İstanbul,Beylikdüzü,Cumhuriyet Mahallesi,439000,110,100,2+1,4,2
+457,İstanbul,Fatih,Topkapı Mahallesi,870000,120,115,2+1,21 Ve Üzeri,4
+458,İstanbul,Beylikdüzü,Cumhuriyet Mahallesi,1950000,165,136,3+1,21 Ve Üzeri,15
+459,İstanbul,Beylikdüzü,Cumhuriyet Mahallesi,2750000,165,146,3+1,16-20,8
+460,İstanbul,Çekmeköy,Güngören Mahallesi,1250000,127,105,3+1,11-15,1
+461,İstanbul,Beylikdüzü,Cumhuriyet Mahallesi,739000,115,102,2+1,0 (Yeni),2
+462,İstanbul,Beylikdüzü,Cumhuriyet Mahallesi,699000,146,120,3+1,0 (Yeni),1
+463,İstanbul,Beylikdüzü,Cumhuriyet Mahallesi,340000,110,100,2+1,4,2
+464,İstanbul,Beylikdüzü,Cumhuriyet Mahallesi,439000,110,100,2+1,4,2
+465,İstanbul,Beylikdüzü,Cumhuriyet Mahallesi,269999,130,120,2+1,0 (Yeni),Bahçe Katı
+466,İstanbul,Beylikdüzü,Cumhuriyet Mahallesi,499999,120,110,2+1,0 (Yeni),2
+467,İstanbul,Bahçelievler,Şirinevler Mahallesi,2325000,220,205,5+2,4,Çatı Dubleks
+468,İstanbul,Esenyurt,Cumhuriyet Mahallesi,739000,115,102,2+1,0 (Yeni),2
+469,İstanbul,Beylikdüzü,Cumhuriyet Mahallesi,539999,100,95,2+1,0 (Yeni),Yüksek Giriş
+470,İstanbul,Bahçelievler,Siyavuşpaşa Mahallesi,615000,100,87,2+1,21 Ve Üzeri,5
+471,İstanbul,Beylikdüzü,Yakuplu Mahallesi,889000,110,90,2+1,0 (Yeni),2
+472,İstanbul,Küçükçekmece,Yeşilova Mahallesi,610000,135,120,3+1,16-20,1
+473,İstanbul,Bahçelievler,Şirinevler Mahallesi,1250000,210,200,5+2,21 Ve Üzeri,Çatı Dubleks
+474,İstanbul,Küçükçekmece,Halkalı Merkez Mahallesi,1600000,141,95,3+1,4,10
+475,İstanbul,Beylikdüzü,Adnan Kahveci Mahallesi,1575000,140,125,2+1,5-10,Villa Tipi
+476,İstanbul,Beykoz,Çubuklu Mahallesi,200000000,1500,1100,6+1,21 Ve Üzeri,Müstakil
+477,İstanbul,Avcılar,Gümüşpala Mahallesi,495000,130,110,3+1,21 Ve Üzeri,2
+478,İstanbul,Avcılar,Denizköşkler Mahallesi,390000,110,100,3+1,21 Ve Üzeri,1
+479,İstanbul,Esenyurt,Çınar Mahallesi,450000,100,90,2+1,5-10,1
+480,İstanbul,Beylikdüzü,Adnan Kahveci Mahallesi,1699000,270,250,5+2,0 (Yeni),4
+481,İstanbul,Beylikdüzü,Cumhuriyet Mahallesi,749900,150,140,3+1,0 (Yeni),2
+482,İstanbul,Beylikdüzü,Cumhuriyet Mahallesi,529900,120,105,2+1,0 (Yeni),1
+483,İstanbul,Beylikdüzü,Adnan Kahveci Mahallesi,1434900,160,150,3+1,0 (Yeni),Yüksek Giriş
+484,İstanbul,Beylikdüzü,Adnan Kahveci Mahallesi,800000,105,90,1+1,3,3
+485,İstanbul,Beylikdüzü,Cumhuriyet Mahallesi,659000,140,120,3+1,0 (Yeni),1
+486,İstanbul,Beylikdüzü,Cumhuriyet Mahallesi,439000,110,100,2+1,4,2
+487,İstanbul,Fatih,Topkapı Mahallesi,870000,120,115,2+1,21 Ve Üzeri,4
+488,İstanbul,Beylikdüzü,Cumhuriyet Mahallesi,1950000,165,136,3+1,21 Ve Üzeri,15
+489,İstanbul,Beylikdüzü,Cumhuriyet Mahallesi,2750000,165,146,3+1,16-20,8
+490,İstanbul,Çekmeköy,Güngören Mahallesi,1250000,127,105,3+1,11-15,1
+491,İstanbul,Beylikdüzü,Cumhuriyet Mahallesi,739000,115,102,2+1,0 (Yeni),2
+492,İstanbul,Beylikdüzü,Cumhuriyet Mahallesi,699000,146,120,3+1,0 (Yeni),1
+493,İstanbul,Beylikdüzü,Cumhuriyet Mahallesi,340000,110,100,2+1,4,2
+494,İstanbul,Beylikdüzü,Cumhuriyet Mahallesi,439000,110,100,2+1,4,2
+495,İstanbul,Beylikdüzü,Cumhuriyet Mahallesi,269999,130,120,2+1,0 (Yeni),Bahçe Katı
+496,İstanbul,Beylikdüzü,Cumhuriyet Mahallesi,499999,120,110,2+1,0 (Yeni),2
+497,İstanbul,Bahçelievler,Şirinevler Mahallesi,2325000,220,205,5+2,4,Çatı Dubleks
+498,İstanbul,Esenyurt,Cumhuriyet Mahallesi,739000,115,102,2+1,0 (Yeni),2
+499,İstanbul,Beylikdüzü,Cumhuriyet Mahallesi,539999,100,95,2+1,0 (Yeni),Yüksek Giriş
+500,İstanbul,Bahçelievler,Siyavuşpaşa Mahallesi,615000,100,87,2+1,21 Ve Üzeri,5
+501,İstanbul,Beylikdüzü,Yakuplu Mahallesi,889000,110,90,2+1,0 (Yeni),2
+502,İstanbul,Küçükçekmece,Yeşilova Mahallesi,610000,135,120,3+1,16-20,1
+503,İstanbul,Bahçelievler,Şirinevler Mahallesi,1250000,210,200,5+2,21 Ve Üzeri,Çatı Dubleks
+504,İstanbul,Küçükçekmece,Halkalı Merkez Mahallesi,1600000,141,95,3+1,4,10
+505,İstanbul,Beylikdüzü,Adnan Kahveci Mahallesi,1575000,140,125,2+1,5-10,Villa Tipi
+506,İstanbul,Beykoz,Çubuklu Mahallesi,200000000,1500,1100,6+1,21 Ve Üzeri,Müstakil
+507,İstanbul,Avcılar,Gümüşpala Mahallesi,495000,130,110,3+1,21 Ve Üzeri,2
+508,İstanbul,Avcılar,Denizköşkler Mahallesi,390000,110,100,3+1,21 Ve Üzeri,1
+509,İstanbul,Esenyurt,Çınar Mahallesi,450000,100,90,2+1,5-10,1
+510,İstanbul,Beylikdüzü,Adnan Kahveci Mahallesi,1699000,270,250,5+2,0 (Yeni),4
+511,İstanbul,Beylikdüzü,Cumhuriyet Mahallesi,749900,150,140,3+1,0 (Yeni),2
+512,İstanbul,Beylikdüzü,Cumhuriyet Mahallesi,529900,120,105,2+1,0 (Yeni),1
+513,İstanbul,Beylikdüzü,Adnan Kahveci Mahallesi,1434900,160,150,3+1,0 (Yeni),Yüksek Giriş
+514,İstanbul,Beylikdüzü,Adnan Kahveci Mahallesi,800000,105,90,1+1,3,3
+515,İstanbul,Beylikdüzü,Cumhuriyet Mahallesi,659000,140,120,3+1,0 (Yeni),1
+516,İstanbul,Beylikdüzü,Cumhuriyet Mahallesi,439000,110,100,2+1,4,2
+517,İstanbul,Fatih,Topkapı Mahallesi,870000,120,115,2+1,21 Ve Üzeri,4
+518,İstanbul,Beylikdüzü,Cumhuriyet Mahallesi,1950000,165,136,3+1,21 Ve Üzeri,15
+519,İstanbul,Beylikdüzü,Cumhuriyet Mahallesi,2750000,165,146,3+1,16-20,8
+520,İstanbul,Çekmeköy,Güngören Mahallesi,1250000,127,105,3+1,11-15,1
+521,İstanbul,Beylikdüzü,Cumhuriyet Mahallesi,739000,115,102,2+1,0 (Yeni),2
+522,İstanbul,Beylikdüzü,Cumhuriyet Mahallesi,699000,146,120,3+1,0 (Yeni),1
+523,İstanbul,Beylikdüzü,Cumhuriyet Mahallesi,340000,110,100,2+1,4,2
+524,İstanbul,Beylikdüzü,Cumhuriyet Mahallesi,439000,110,100,2+1,4,2
+525,İstanbul,Beylikdüzü,Cumhuriyet Mahallesi,269999,130,120,2+1,0 (Yeni),Bahçe Katı
+526,İstanbul,Beylikdüzü,Cumhuriyet Mahallesi,499999,120,110,2+1,0 (Yeni),2
+527,İstanbul,Bahçelievler,Şirinevler Mahallesi,2325000,220,205,5+2,4,Çatı Dubleks
+528,İstanbul,Esenyurt,Cumhuriyet Mahallesi,739000,115,102,2+1,0 (Yeni),2
+529,İstanbul,Beylikdüzü,Cumhuriyet Mahallesi,539999,100,95,2+1,0 (Yeni),Yüksek Giriş
+530,İstanbul,Bahçelievler,Siyavuşpaşa Mahallesi,615000,100,87,2+1,21 Ve Üzeri,5
+531,İstanbul,Beylikdüzü,Yakuplu Mahallesi,889000,110,90,2+1,0 (Yeni),2
+532,İstanbul,Küçükçekmece,Yeşilova Mahallesi,610000,135,120,3+1,16-20,1
+533,İstanbul,Bahçelievler,Şirinevler Mahallesi,1250000,210,200,5+2,21 Ve Üzeri,Çatı Dubleks
+534,İstanbul,Küçükçekmece,Halkalı Merkez Mahallesi,1600000,141,95,3+1,4,10
+535,İstanbul,Beylikdüzü,Adnan Kahveci Mahallesi,1575000,140,125,2+1,5-10,Villa Tipi
+536,İstanbul,Beykoz,Çubuklu Mahallesi,200000000,1500,1100,6+1,21 Ve Üzeri,Müstakil
+537,İstanbul,Avcılar,Gümüşpala Mahallesi,495000,130,110,3+1,21 Ve Üzeri,2
+538,İstanbul,Avcılar,Denizköşkler Mahallesi,390000,110,100,3+1,21 Ve Üzeri,1
+539,İstanbul,Esenyurt,Çınar Mahallesi,450000,100,90,2+1,5-10,1
+540,İstanbul,Beylikdüzü,Adnan Kahveci Mahallesi,1699000,270,250,5+2,0 (Yeni),4
+541,İstanbul,Beylikdüzü,Cumhuriyet Mahallesi,749900,150,140,3+1,0 (Yeni),2
+542,İstanbul,Beylikdüzü,Cumhuriyet Mahallesi,529900,120,105,2+1,0 (Yeni),1
+543,İstanbul,Beylikdüzü,Adnan Kahveci Mahallesi,1434900,160,150,3+1,0 (Yeni),Yüksek Giriş
+544,İstanbul,Beylikdüzü,Adnan Kahveci Mahallesi,800000,105,90,1+1,3,3
+545,İstanbul,Beylikdüzü,Cumhuriyet Mahallesi,659000,140,120,3+1,0 (Yeni),1
+546,İstanbul,Beylikdüzü,Cumhuriyet Mahallesi,439000,110,100,2+1,4,2
+547,İstanbul,Fatih,Topkapı Mahallesi,870000,120,115,2+1,21 Ve Üzeri,4
+548,İstanbul,Beylikdüzü,Cumhuriyet Mahallesi,1950000,165,136,3+1,21 Ve Üzeri,15
+549,İstanbul,Beylikdüzü,Cumhuriyet Mahallesi,2750000,165,146,3+1,16-20,8
+550,İstanbul,Çekmeköy,Güngören Mahallesi,1250000,127,105,3+1,11-15,1
+551,İstanbul,Beylikdüzü,Cumhuriyet Mahallesi,739000,115,102,2+1,0 (Yeni),2
+552,İstanbul,Beylikdüzü,Cumhuriyet Mahallesi,699000,146,120,3+1,0 (Yeni),1
+553,İstanbul,Beylikdüzü,Cumhuriyet Mahallesi,340000,110,100,2+1,4,2
+554,İstanbul,Beylikdüzü,Cumhuriyet Mahallesi,439000,110,100,2+1,4,2
+555,İstanbul,Beylikdüzü,Cumhuriyet Mahallesi,269999,130,120,2+1,0 (Yeni),Bahçe Katı
+556,İstanbul,Beylikdüzü,Cumhuriyet Mahallesi,499999,120,110,2+1,0 (Yeni),2
+557,İstanbul,Bahçelievler,Şirinevler Mahallesi,2325000,220,205,5+2,4,Çatı Dubleks
+558,İstanbul,Esenyurt,Cumhuriyet Mahallesi,739000,115,102,2+1,0 (Yeni),2
+559,İstanbul,Beylikdüzü,Cumhuriyet Mahallesi,539999,100,95,2+1,0 (Yeni),Yüksek Giriş
+560,İstanbul,Bahçelievler,Siyavuşpaşa Mahallesi,615000,100,87,2+1,21 Ve Üzeri,5
+561,İstanbul,Beylikdüzü,Yakuplu Mahallesi,889000,110,90,2+1,0 (Yeni),2
+562,İstanbul,Küçükçekmece,Yeşilova Mahallesi,610000,135,120,3+1,16-20,1
+563,İstanbul,Bahçelievler,Şirinevler Mahallesi,1250000,210,200,5+2,21 Ve Üzeri,Çatı Dubleks
+564,İstanbul,Küçükçekmece,Halkalı Merkez Mahallesi,1600000,141,95,3+1,4,10
+565,İstanbul,Beylikdüzü,Adnan Kahveci Mahallesi,1575000,140,125,2+1,5-10,Villa Tipi
+566,İstanbul,Beykoz,Çubuklu Mahallesi,200000000,1500,1100,6+1,21 Ve Üzeri,Müstakil
+567,İstanbul,Avcılar,Gümüşpala Mahallesi,495000,130,110,3+1,21 Ve Üzeri,2
+568,İstanbul,Avcılar,Denizköşkler Mahallesi,390000,110,100,3+1,21 Ve Üzeri,1
+569,İstanbul,Esenyurt,Çınar Mahallesi,450000,100,90,2+1,5-10,1
+570,İstanbul,Beylikdüzü,Adnan Kahveci Mahallesi,1699000,270,250,5+2,0 (Yeni),4
+571,İstanbul,Beylikdüzü,Cumhuriyet Mahallesi,749900,150,140,3+1,0 (Yeni),2
+572,İstanbul,Beylikdüzü,Cumhuriyet Mahallesi,529900,120,105,2+1,0 (Yeni),1
+573,İstanbul,Beylikdüzü,Adnan Kahveci Mahallesi,1434900,160,150,3+1,0 (Yeni),Yüksek Giriş
+574,İstanbul,Beylikdüzü,Adnan Kahveci Mahallesi,800000,105,90,1+1,3,3
+575,İstanbul,Beylikdüzü,Cumhuriyet Mahallesi,659000,140,120,3+1,0 (Yeni),1
+576,İstanbul,Beylikdüzü,Cumhuriyet Mahallesi,439000,110,100,2+1,4,2
+577,İstanbul,Fatih,Topkapı Mahallesi,870000,120,115,2+1,21 Ve Üzeri,4
+578,İstanbul,Beylikdüzü,Cumhuriyet Mahallesi,1950000,165,136,3+1,21 Ve Üzeri,15
+579,İstanbul,Beylikdüzü,Cumhuriyet Mahallesi,2750000,165,146,3+1,16-20,8
+580,İstanbul,Çekmeköy,Güngören Mahallesi,1250000,127,105,3+1,11-15,1
+581,İstanbul,Beylikdüzü,Cumhuriyet Mahallesi,739000,115,102,2+1,0 (Yeni),2
+582,İstanbul,Beylikdüzü,Cumhuriyet Mahallesi,699000,146,120,3+1,0 (Yeni),1
+583,İstanbul,Beylikdüzü,Cumhuriyet Mahallesi,340000,110,100,2+1,4,2
+584,İstanbul,Beylikdüzü,Cumhuriyet Mahallesi,439000,110,100,2+1,4,2
+585,İstanbul,Beylikdüzü,Cumhuriyet Mahallesi,269999,130,120,2+1,0 (Yeni),Bahçe Katı
+586,İstanbul,Beylikdüzü,Cumhuriyet Mahallesi,499999,120,110,2+1,0 (Yeni),2
+587,İstanbul,Bahçelievler,Şirinevler Mahallesi,2325000,220,205,5+2,4,Çatı Dubleks
+588,İstanbul,Esenyurt,Cumhuriyet Mahallesi,739000,115,102,2+1,0 (Yeni),2
+589,İstanbul,Beylikdüzü,Cumhuriyet Mahallesi,539999,100,95,2+1,0 (Yeni),Yüksek Giriş
+590,İstanbul,Bahçelievler,Siyavuşpaşa Mahallesi,615000,100,87,2+1,21 Ve Üzeri,5
+591,İstanbul,Beylikdüzü,Yakuplu Mahallesi,889000,110,90,2+1,0 (Yeni),2
+592,İstanbul,Küçükçekmece,Yeşilova Mahallesi,610000,135,120,3+1,16-20,1
+593,İstanbul,Bahçelievler,Şirinevler Mahallesi,1250000,210,200,5+2,21 Ve Üzeri,Çatı Dubleks
+594,İstanbul,Küçükçekmece,Halkalı Merkez Mahallesi,1600000,141,95,3+1,4,10
+595,İstanbul,Beylikdüzü,Adnan Kahveci Mahallesi,1575000,140,125,2+1,5-10,Villa Tipi
+596,İstanbul,Beykoz,Çubuklu Mahallesi,200000000,1500,1100,6+1,21 Ve Üzeri,Müstakil
+597,İstanbul,Avcılar,Gümüşpala Mahallesi,495000,130,110,3+1,21 Ve Üzeri,2
+598,İstanbul,Avcılar,Denizköşkler Mahallesi,390000,110,100,3+1,21 Ve Üzeri,1
+599,İstanbul,Esenyurt,Çınar Mahallesi,450000,100,90,2+1,5-10,1
+600,İstanbul,Beylikdüzü,Adnan Kahveci Mahallesi,1699000,270,250,5+2,0 (Yeni),4
+601,İstanbul,Beylikdüzü,Cumhuriyet Mahallesi,749900,150,140,3+1,0 (Yeni),2
+602,İstanbul,Beylikdüzü,Cumhuriyet Mahallesi,529900,120,105,2+1,0 (Yeni),1
+603,İstanbul,Beylikdüzü,Adnan Kahveci Mahallesi,1434900,160,150,3+1,0 (Yeni),Yüksek Giriş
+604,İstanbul,Beylikdüzü,Adnan Kahveci Mahallesi,800000,105,90,1+1,3,3
+605,İstanbul,Beylikdüzü,Cumhuriyet Mahallesi,659000,140,120,3+1,0 (Yeni),1
+606,İstanbul,Beylikdüzü,Cumhuriyet Mahallesi,439000,110,100,2+1,4,2
+607,İstanbul,Fatih,Topkapı Mahallesi,870000,120,115,2+1,21 Ve Üzeri,4
+608,İstanbul,Beylikdüzü,Cumhuriyet Mahallesi,1950000,165,136,3+1,21 Ve Üzeri,15
+609,İstanbul,Beylikdüzü,Cumhuriyet Mahallesi,2750000,165,146,3+1,16-20,8
+610,İstanbul,Çekmeköy,Güngören Mahallesi,1250000,127,105,3+1,11-15,1
+611,İstanbul,Beylikdüzü,Cumhuriyet Mahallesi,739000,115,102,2+1,0 (Yeni),2
+612,İstanbul,Beylikdüzü,Cumhuriyet Mahallesi,699000,146,120,3+1,0 (Yeni),1
+613,İstanbul,Beylikdüzü,Cumhuriyet Mahallesi,340000,110,100,2+1,4,2
+614,İstanbul,Beylikdüzü,Cumhuriyet Mahallesi,439000,110,100,2+1,4,2
+615,İstanbul,Beylikdüzü,Cumhuriyet Mahallesi,269999,130,120,2+1,0 (Yeni),Bahçe Katı
+616,İstanbul,Beylikdüzü,Cumhuriyet Mahallesi,499999,120,110,2+1,0 (Yeni),2
+617,İstanbul,Bahçelievler,Şirinevler Mahallesi,2325000,220,205,5+2,4,Çatı Dubleks
+618,İstanbul,Esenyurt,Cumhuriyet Mahallesi,739000,115,102,2+1,0 (Yeni),2
+619,İstanbul,Beylikdüzü,Cumhuriyet Mahallesi,539999,100,95,2+1,0 (Yeni),Yüksek Giriş
+620,İstanbul,Bahçelievler,Siyavuşpaşa Mahallesi,615000,100,87,2+1,21 Ve Üzeri,5
+621,İstanbul,Beylikdüzü,Yakuplu Mahallesi,889000,110,90,2+1,0 (Yeni),2
+622,İstanbul,Küçükçekmece,Yeşilova Mahallesi,610000,135,120,3+1,16-20,1
+623,İstanbul,Bahçelievler,Şirinevler Mahallesi,1250000,210,200,5+2,21 Ve Üzeri,Çatı Dubleks
+624,İstanbul,Küçükçekmece,Halkalı Merkez Mahallesi,1600000,141,95,3+1,4,10
+625,İstanbul,Beylikdüzü,Adnan Kahveci Mahallesi,1575000,140,125,2+1,5-10,Villa Tipi
+626,İstanbul,Beykoz,Çubuklu Mahallesi,200000000,1500,1100,6+1,21 Ve Üzeri,Müstakil
+627,İstanbul,Avcılar,Gümüşpala Mahallesi,495000,130,110,3+1,21 Ve Üzeri,2
+628,İstanbul,Avcılar,Denizköşkler Mahallesi,390000,110,100,3+1,21 Ve Üzeri,1
+629,İstanbul,Esenyurt,Çınar Mahallesi,450000,100,90,2+1,5-10,1
+630,İstanbul,Beylikdüzü,Adnan Kahveci Mahallesi,1699000,270,250,5+2,0 (Yeni),4
+631,İstanbul,Beylikdüzü,Cumhuriyet Mahallesi,749900,150,140,3+1,0 (Yeni),2
+632,İstanbul,Beylikdüzü,Cumhuriyet Mahallesi,529900,120,105,2+1,0 (Yeni),1
+633,İstanbul,Beylikdüzü,Adnan Kahveci Mahallesi,1434900,160,150,3+1,0 (Yeni),Yüksek Giriş
+634,İstanbul,Beylikdüzü,Adnan Kahveci Mahallesi,800000,105,90,1+1,3,3
+635,İstanbul,Beylikdüzü,Cumhuriyet Mahallesi,659000,140,120,3+1,0 (Yeni),1
+636,İstanbul,Beylikdüzü,Cumhuriyet Mahallesi,439000,110,100,2+1,4,2
+637,İstanbul,Fatih,Topkapı Mahallesi,870000,120,115,2+1,21 Ve Üzeri,4
+638,İstanbul,Beylikdüzü,Cumhuriyet Mahallesi,1950000,165,136,3+1,21 Ve Üzeri,15
+639,İstanbul,Beylikdüzü,Cumhuriyet Mahallesi,2750000,165,146,3+1,16-20,8
+640,İstanbul,Çekmeköy,Güngören Mahallesi,1250000,127,105,3+1,11-15,1
+641,İstanbul,Beylikdüzü,Cumhuriyet Mahallesi,739000,115,102,2+1,0 (Yeni),2
+642,İstanbul,Beylikdüzü,Cumhuriyet Mahallesi,699000,146,120,3+1,0 (Yeni),1
+643,İstanbul,Beylikdüzü,Cumhuriyet Mahallesi,340000,110,100,2+1,4,2
+644,İstanbul,Beylikdüzü,Cumhuriyet Mahallesi,439000,110,100,2+1,4,2
+645,İstanbul,Beylikdüzü,Cumhuriyet Mahallesi,269999,130,120,2+1,0 (Yeni),Bahçe Katı
+646,İstanbul,Beylikdüzü,Cumhuriyet Mahallesi,499999,120,110,2+1,0 (Yeni),2
+647,İstanbul,Bahçelievler,Şirinevler Mahallesi,2325000,220,205,5+2,4,Çatı Dubleks
+648,İstanbul,Esenyurt,Cumhuriyet Mahallesi,739000,115,102,2+1,0 (Yeni),2
+649,İstanbul,Beylikdüzü,Cumhuriyet Mahallesi,539999,100,95,2+1,0 (Yeni),Yüksek Giriş
+650,İstanbul,Bahçelievler,Siyavuşpaşa Mahallesi,615000,100,87,2+1,21 Ve Üzeri,5
+651,İstanbul,Beylikdüzü,Yakuplu Mahallesi,889000,110,90,2+1,0 (Yeni),2
+652,İstanbul,Küçükçekmece,Yeşilova Mahallesi,610000,135,120,3+1,16-20,1
+653,İstanbul,Bahçelievler,Şirinevler Mahallesi,1250000,210,200,5+2,21 Ve Üzeri,Çatı Dubleks
+654,İstanbul,Küçükçekmece,Halkalı Merkez Mahallesi,1600000,141,95,3+1,4,10
+655,İstanbul,Beylikdüzü,Adnan Kahveci Mahallesi,1575000,140,125,2+1,5-10,Villa Tipi
+656,İstanbul,Beykoz,Çubuklu Mahallesi,200000000,1500,1100,6+1,21 Ve Üzeri,Müstakil
+657,İstanbul,Avcılar,Gümüşpala Mahallesi,495000,130,110,3+1,21 Ve Üzeri,2
+658,İstanbul,Avcılar,Denizköşkler Mahallesi,390000,110,100,3+1,21 Ve Üzeri,1
+659,İstanbul,Esenyurt,Çınar Mahallesi,450000,100,90,2+1,5-10,1
+660,İstanbul,Beylikdüzü,Adnan Kahveci Mahallesi,1699000,270,250,5+2,0 (Yeni),4
+661,İstanbul,Beylikdüzü,Cumhuriyet Mahallesi,749900,150,140,3+1,0 (Yeni),2
+662,İstanbul,Beylikdüzü,Cumhuriyet Mahallesi,529900,120,105,2+1,0 (Yeni),1
+663,İstanbul,Beylikdüzü,Adnan Kahveci Mahallesi,1434900,160,150,3+1,0 (Yeni),Yüksek Giriş
+664,İstanbul,Beylikdüzü,Adnan Kahveci Mahallesi,800000,105,90,1+1,3,3
+665,İstanbul,Beylikdüzü,Cumhuriyet Mahallesi,659000,140,120,3+1,0 (Yeni),1
+666,İstanbul,Beylikdüzü,Cumhuriyet Mahallesi,439000,110,100,2+1,4,2
+667,İstanbul,Fatih,Topkapı Mahallesi,870000,120,115,2+1,21 Ve Üzeri,4
+668,İstanbul,Beylikdüzü,Cumhuriyet Mahallesi,1950000,165,136,3+1,21 Ve Üzeri,15
+669,İstanbul,Beylikdüzü,Cumhuriyet Mahallesi,2750000,165,146,3+1,16-20,8
+670,İstanbul,Çekmeköy,Güngören Mahallesi,1250000,127,105,3+1,11-15,1
+671,İstanbul,Beylikdüzü,Cumhuriyet Mahallesi,739000,115,102,2+1,0 (Yeni),2
+672,İstanbul,Beylikdüzü,Cumhuriyet Mahallesi,699000,146,120,3+1,0 (Yeni),1
+673,İstanbul,Beylikdüzü,Cumhuriyet Mahallesi,340000,110,100,2+1,4,2
+674,İstanbul,Beylikdüzü,Cumhuriyet Mahallesi,439000,110,100,2+1,4,2
+675,İstanbul,Beylikdüzü,Cumhuriyet Mahallesi,269999,130,120,2+1,0 (Yeni),Bahçe Katı
+676,İstanbul,Beylikdüzü,Cumhuriyet Mahallesi,499999,120,110,2+1,0 (Yeni),2
+677,İstanbul,Bahçelievler,Şirinevler Mahallesi,2325000,220,205,5+2,4,Çatı Dubleks
+678,İstanbul,Esenyurt,Cumhuriyet Mahallesi,739000,115,102,2+1,0 (Yeni),2
+679,İstanbul,Beylikdüzü,Cumhuriyet Mahallesi,539999,100,95,2+1,0 (Yeni),Yüksek Giriş
+680,İstanbul,Bahçelievler,Siyavuşpaşa Mahallesi,615000,100,87,2+1,21 Ve Üzeri,5
+681,İstanbul,Beylikdüzü,Yakuplu Mahallesi,889000,110,90,2+1,0 (Yeni),2
+682,İstanbul,Küçükçekmece,Yeşilova Mahallesi,610000,135,120,3+1,16-20,1
+683,İstanbul,Bahçelievler,Şirinevler Mahallesi,1250000,210,200,5+2,21 Ve Üzeri,Çatı Dubleks
+684,İstanbul,Küçükçekmece,Halkalı Merkez Mahallesi,1600000,141,95,3+1,4,10
+685,İstanbul,Beylikdüzü,Adnan Kahveci Mahallesi,1575000,140,125,2+1,5-10,Villa Tipi
+686,İstanbul,Beykoz,Çubuklu Mahallesi,200000000,1500,1100,6+1,21 Ve Üzeri,Müstakil
+687,İstanbul,Avcılar,Gümüşpala Mahallesi,495000,130,110,3+1,21 Ve Üzeri,2
+688,İstanbul,Avcılar,Denizköşkler Mahallesi,390000,110,100,3+1,21 Ve Üzeri,1
+689,İstanbul,Esenyurt,Çınar Mahallesi,450000,100,90,2+1,5-10,1
+690,İstanbul,Beylikdüzü,Adnan Kahveci Mahallesi,1699000,270,250,5+2,0 (Yeni),4
+691,İstanbul,Beylikdüzü,Cumhuriyet Mahallesi,749900,150,140,3+1,0 (Yeni),2
+692,İstanbul,Beylikdüzü,Cumhuriyet Mahallesi,529900,120,105,2+1,0 (Yeni),1
+693,İstanbul,Beylikdüzü,Adnan Kahveci Mahallesi,1434900,160,150,3+1,0 (Yeni),Yüksek Giriş
+694,İstanbul,Beylikdüzü,Adnan Kahveci Mahallesi,800000,105,90,1+1,3,3
+695,İstanbul,Beylikdüzü,Cumhuriyet Mahallesi,659000,140,120,3+1,0 (Yeni),1
+696,İstanbul,Beylikdüzü,Cumhuriyet Mahallesi,439000,110,100,2+1,4,2
+697,İstanbul,Fatih,Topkapı Mahallesi,870000,120,115,2+1,21 Ve Üzeri,4
+698,İstanbul,Beylikdüzü,Cumhuriyet Mahallesi,1950000,165,136,3+1,21 Ve Üzeri,15
+699,İstanbul,Beylikdüzü,Cumhuriyet Mahallesi,2750000,165,146,3+1,16-20,8
+700,İstanbul,Çekmeköy,Güngören Mahallesi,1250000,127,105,3+1,11-15,1
+701,İstanbul,Beylikdüzü,Cumhuriyet Mahallesi,739000,115,102,2+1,0 (Yeni),2
+702,İstanbul,Beylikdüzü,Cumhuriyet Mahallesi,699000,146,120,3+1,0 (Yeni),1
+703,İstanbul,Beylikdüzü,Cumhuriyet Mahallesi,340000,110,100,2+1,4,2
+704,İstanbul,Beylikdüzü,Cumhuriyet Mahallesi,439000,110,100,2+1,4,2
+705,İstanbul,Beylikdüzü,Cumhuriyet Mahallesi,269999,130,120,2+1,0 (Yeni),Bahçe Katı
+706,İstanbul,Beylikdüzü,Cumhuriyet Mahallesi,499999,120,110,2+1,0 (Yeni),2
+707,İstanbul,Bahçelievler,Şirinevler Mahallesi,2325000,220,205,5+2,4,Çatı Dubleks
+708,İstanbul,Esenyurt,Cumhuriyet Mahallesi,739000,115,102,2+1,0 (Yeni),2
+709,İstanbul,Beylikdüzü,Cumhuriyet Mahallesi,539999,100,95,2+1,0 (Yeni),Yüksek Giriş
+710,İstanbul,Bahçelievler,Siyavuşpaşa Mahallesi,615000,100,87,2+1,21 Ve Üzeri,5
+711,İstanbul,Beylikdüzü,Yakuplu Mahallesi,889000,110,90,2+1,0 (Yeni),2
+712,İstanbul,Küçükçekmece,Yeşilova Mahallesi,610000,135,120,3+1,16-20,1
+713,İstanbul,Bahçelievler,Şirinevler Mahallesi,1250000,210,200,5+2,21 Ve Üzeri,Çatı Dubleks
+714,İstanbul,Küçükçekmece,Halkalı Merkez Mahallesi,1600000,141,95,3+1,4,10
+715,İstanbul,Beylikdüzü,Adnan Kahveci Mahallesi,1575000,140,125,2+1,5-10,Villa Tipi
+716,İstanbul,Beykoz,Çubuklu Mahallesi,200000000,1500,1100,6+1,21 Ve Üzeri,Müstakil
+717,İstanbul,Avcılar,Gümüşpala Mahallesi,495000,130,110,3+1,21 Ve Üzeri,2
+718,İstanbul,Avcılar,Denizköşkler Mahallesi,390000,110,100,3+1,21 Ve Üzeri,1
+719,İstanbul,Esenyurt,Çınar Mahallesi,450000,100,90,2+1,5-10,1
+720,İstanbul,Beylikdüzü,Adnan Kahveci Mahallesi,1699000,270,250,5+2,0 (Yeni),4
+721,İstanbul,Beylikdüzü,Cumhuriyet Mahallesi,749900,150,140,3+1,0 (Yeni),2
+722,İstanbul,Beylikdüzü,Cumhuriyet Mahallesi,529900,120,105,2+1,0 (Yeni),1
+723,İstanbul,Beylikdüzü,Adnan Kahveci Mahallesi,1434900,160,150,3+1,0 (Yeni),Yüksek Giriş
+724,İstanbul,Beylikdüzü,Adnan Kahveci Mahallesi,800000,105,90,1+1,3,3
+725,İstanbul,Beylikdüzü,Cumhuriyet Mahallesi,659000,140,120,3+1,0 (Yeni),1
+726,İstanbul,Beylikdüzü,Cumhuriyet Mahallesi,439000,110,100,2+1,4,2
+727,İstanbul,Fatih,Topkapı Mahallesi,870000,120,115,2+1,21 Ve Üzeri,4
+728,İstanbul,Beylikdüzü,Cumhuriyet Mahallesi,1950000,165,136,3+1,21 Ve Üzeri,15
+729,İstanbul,Beylikdüzü,Cumhuriyet Mahallesi,2750000,165,146,3+1,16-20,8
+730,İstanbul,Çekmeköy,Güngören Mahallesi,1250000,127,105,3+1,11-15,1
+731,İstanbul,Beylikdüzü,Cumhuriyet Mahallesi,739000,115,102,2+1,0 (Yeni),2
+732,İstanbul,Beylikdüzü,Cumhuriyet Mahallesi,699000,146,120,3+1,0 (Yeni),1
+733,İstanbul,Beylikdüzü,Cumhuriyet Mahallesi,340000,110,100,2+1,4,2
+734,İstanbul,Beylikdüzü,Cumhuriyet Mahallesi,439000,110,100,2+1,4,2
+735,İstanbul,Beylikdüzü,Cumhuriyet Mahallesi,269999,130,120,2+1,0 (Yeni),Bahçe Katı
+736,İstanbul,Beylikdüzü,Cumhuriyet Mahallesi,499999,120,110,2+1,0 (Yeni),2
+737,İstanbul,Bahçelievler,Şirinevler Mahallesi,2325000,220,205,5+2,4,Çatı Dubleks
+738,İstanbul,Esenyurt,Cumhuriyet Mahallesi,739000,115,102,2+1,0 (Yeni),2
+739,İstanbul,Beylikdüzü,Cumhuriyet Mahallesi,539999,100,95,2+1,0 (Yeni),Yüksek Giriş
+740,İstanbul,Bahçelievler,Siyavuşpaşa Mahallesi,615000,100,87,2+1,21 Ve Üzeri,5
+741,İstanbul,Beylikdüzü,Yakuplu Mahallesi,889000,110,90,2+1,0 (Yeni),2
+742,İstanbul,Küçükçekmece,Yeşilova Mahallesi,610000,135,120,3+1,16-20,1
+743,İstanbul,Bahçelievler,Şirinevler Mahallesi,1250000,210,200,5+2,21 Ve Üzeri,Çatı Dubleks
+744,İstanbul,Küçükçekmece,Halkalı Merkez Mahallesi,1600000,141,95,3+1,4,10
+745,İstanbul,Beylikdüzü,Adnan Kahveci Mahallesi,1575000,140,125,2+1,5-10,Villa Tipi
+746,İstanbul,Beykoz,Çubuklu Mahallesi,200000000,1500,1100,6+1,21 Ve Üzeri,Müstakil
+747,İstanbul,Avcılar,Gümüşpala Mahallesi,495000,130,110,3+1,21 Ve Üzeri,2
+748,İstanbul,Avcılar,Denizköşkler Mahallesi,390000,110,100,3+1,21 Ve Üzeri,1
+749,İstanbul,Esenyurt,Çınar Mahallesi,450000,100,90,2+1,5-10,1
+750,İstanbul,Beylikdüzü,Adnan Kahveci Mahallesi,1699000,270,250,5+2,0 (Yeni),4
+751,İstanbul,Beylikdüzü,Cumhuriyet Mahallesi,749900,150,140,3+1,0 (Yeni),2
+752,İstanbul,Beylikdüzü,Cumhuriyet Mahallesi,529900,120,105,2+1,0 (Yeni),1
+753,İstanbul,Beylikdüzü,Adnan Kahveci Mahallesi,1434900,160,150,3+1,0 (Yeni),Yüksek Giriş
+754,İstanbul,Beylikdüzü,Adnan Kahveci Mahallesi,800000,105,90,1+1,3,3
+755,İstanbul,Beylikdüzü,Cumhuriyet Mahallesi,659000,140,120,3+1,0 (Yeni),1
+756,İstanbul,Beylikdüzü,Cumhuriyet Mahallesi,439000,110,100,2+1,4,2
+757,İstanbul,Fatih,Topkapı Mahallesi,870000,120,115,2+1,21 Ve Üzeri,4
+758,İstanbul,Beylikdüzü,Cumhuriyet Mahallesi,1950000,165,136,3+1,21 Ve Üzeri,15
+759,İstanbul,Beylikdüzü,Cumhuriyet Mahallesi,2750000,165,146,3+1,16-20,8
+760,İstanbul,Çekmeköy,Güngören Mahallesi,1250000,127,105,3+1,11-15,1
+761,İstanbul,Beylikdüzü,Cumhuriyet Mahallesi,739000,115,102,2+1,0 (Yeni),2
+762,İstanbul,Beylikdüzü,Cumhuriyet Mahallesi,699000,146,120,3+1,0 (Yeni),1
+763,İstanbul,Beylikdüzü,Cumhuriyet Mahallesi,340000,110,100,2+1,4,2
+764,İstanbul,Beylikdüzü,Cumhuriyet Mahallesi,439000,110,100,2+1,4,2
+765,İstanbul,Beylikdüzü,Cumhuriyet Mahallesi,269999,130,120,2+1,0 (Yeni),Bahçe Katı
+766,İstanbul,Beylikdüzü,Cumhuriyet Mahallesi,499999,120,110,2+1,0 (Yeni),2
+767,İstanbul,Bahçelievler,Şirinevler Mahallesi,2325000,220,205,5+2,4,Çatı Dubleks
+768,İstanbul,Esenyurt,Cumhuriyet Mahallesi,739000,115,102,2+1,0 (Yeni),2
+769,İstanbul,Beylikdüzü,Cumhuriyet Mahallesi,539999,100,95,2+1,0 (Yeni),Yüksek Giriş
+770,İstanbul,Bahçelievler,Siyavuşpaşa Mahallesi,615000,100,87,2+1,21 Ve Üzeri,5
+771,İstanbul,Beylikdüzü,Yakuplu Mahallesi,889000,110,90,2+1,0 (Yeni),2
+772,İstanbul,Küçükçekmece,Yeşilova Mahallesi,610000,135,120,3+1,16-20,1
+773,İstanbul,Bahçelievler,Şirinevler Mahallesi,1250000,210,200,5+2,21 Ve Üzeri,Çatı Dubleks
+774,İstanbul,Küçükçekmece,Halkalı Merkez Mahallesi,1600000,141,95,3+1,4,10
+775,İstanbul,Beylikdüzü,Adnan Kahveci Mahallesi,1575000,140,125,2+1,5-10,Villa Tipi
+776,İstanbul,Beykoz,Çubuklu Mahallesi,200000000,1500,1100,6+1,21 Ve Üzeri,Müstakil
+777,İstanbul,Avcılar,Gümüşpala Mahallesi,495000,130,110,3+1,21 Ve Üzeri,2
+778,İstanbul,Avcılar,Denizköşkler Mahallesi,390000,110,100,3+1,21 Ve Üzeri,1
+779,İstanbul,Esenyurt,Çınar Mahallesi,450000,100,90,2+1,5-10,1
+780,İstanbul,Beylikdüzü,Adnan Kahveci Mahallesi,1699000,270,250,5+2,0 (Yeni),4
+781,İstanbul,Beylikdüzü,Cumhuriyet Mahallesi,749900,150,140,3+1,0 (Yeni),2
+782,İstanbul,Beylikdüzü,Cumhuriyet Mahallesi,529900,120,105,2+1,0 (Yeni),1
+783,İstanbul,Beylikdüzü,Adnan Kahveci Mahallesi,1434900,160,150,3+1,0 (Yeni),Yüksek Giriş
+784,İstanbul,Beylikdüzü,Adnan Kahveci Mahallesi,800000,105,90,1+1,3,3
+785,İstanbul,Beylikdüzü,Cumhuriyet Mahallesi,659000,140,120,3+1,0 (Yeni),1
+786,İstanbul,Beylikdüzü,Cumhuriyet Mahallesi,439000,110,100,2+1,4,2
+787,İstanbul,Fatih,Topkapı Mahallesi,870000,120,115,2+1,21 Ve Üzeri,4
+788,İstanbul,Beylikdüzü,Cumhuriyet Mahallesi,1950000,165,136,3+1,21 Ve Üzeri,15
+789,İstanbul,Beylikdüzü,Cumhuriyet Mahallesi,2750000,165,146,3+1,16-20,8
+790,İstanbul,Çekmeköy,Güngören Mahallesi,1250000,127,105,3+1,11-15,1
+791,İstanbul,Beylikdüzü,Cumhuriyet Mahallesi,739000,115,102,2+1,0 (Yeni),2
+792,İstanbul,Beylikdüzü,Cumhuriyet Mahallesi,699000,146,120,3+1,0 (Yeni),1
+793,İstanbul,Beylikdüzü,Cumhuriyet Mahallesi,340000,110,100,2+1,4,2
+794,İstanbul,Beylikdüzü,Cumhuriyet Mahallesi,439000,110,100,2+1,4,2
+795,İstanbul,Beylikdüzü,Cumhuriyet Mahallesi,269999,130,120,2+1,0 (Yeni),Bahçe Katı
+796,İstanbul,Beylikdüzü,Cumhuriyet Mahallesi,499999,120,110,2+1,0 (Yeni),2
+797,İstanbul,Bahçelievler,Şirinevler Mahallesi,2325000,220,205,5+2,4,Çatı Dubleks
+798,İstanbul,Esenyurt,Cumhuriyet Mahallesi,739000,115,102,2+1,0 (Yeni),2
+799,İstanbul,Beylikdüzü,Cumhuriyet Mahallesi,539999,100,95,2+1,0 (Yeni),Yüksek Giriş
+800,İstanbul,Bahçelievler,Siyavuşpaşa Mahallesi,615000,100,87,2+1,21 Ve Üzeri,5
+801,İstanbul,Beylikdüzü,Yakuplu Mahallesi,889000,110,90,2+1,0 (Yeni),2
+802,İstanbul,Küçükçekmece,Yeşilova Mahallesi,610000,135,120,3+1,16-20,1
+803,İstanbul,Bahçelievler,Şirinevler Mahallesi,1250000,210,200,5+2,21 Ve Üzeri,Çatı Dubleks
+804,İstanbul,Küçükçekmece,Halkalı Merkez Mahallesi,1600000,141,95,3+1,4,10
+805,İstanbul,Beylikdüzü,Adnan Kahveci Mahallesi,1575000,140,125,2+1,5-10,Villa Tipi
+806,İstanbul,Beykoz,Çubuklu Mahallesi,200000000,1500,1100,6+1,21 Ve Üzeri,Müstakil
+807,İstanbul,Avcılar,Gümüşpala Mahallesi,495000,130,110,3+1,21 Ve Üzeri,2
+808,İstanbul,Avcılar,Denizköşkler Mahallesi,390000,110,100,3+1,21 Ve Üzeri,1
+809,İstanbul,Esenyurt,Çınar Mahallesi,450000,100,90,2+1,5-10,1
+810,İstanbul,Beylikdüzü,Adnan Kahveci Mahallesi,1699000,270,250,5+2,0 (Yeni),4
+811,İstanbul,Beylikdüzü,Cumhuriyet Mahallesi,749900,150,140,3+1,0 (Yeni),2
+812,İstanbul,Beylikdüzü,Cumhuriyet Mahallesi,529900,120,105,2+1,0 (Yeni),1
+813,İstanbul,Beylikdüzü,Adnan Kahveci Mahallesi,1434900,160,150,3+1,0 (Yeni),Yüksek Giriş
+814,İstanbul,Beylikdüzü,Adnan Kahveci Mahallesi,800000,105,90,1+1,3,3
+815,İstanbul,Beylikdüzü,Cumhuriyet Mahallesi,659000,140,120,3+1,0 (Yeni),1
+816,İstanbul,Beylikdüzü,Cumhuriyet Mahallesi,439000,110,100,2+1,4,2
+817,İstanbul,Fatih,Topkapı Mahallesi,870000,120,115,2+1,21 Ve Üzeri,4
+818,İstanbul,Beylikdüzü,Cumhuriyet Mahallesi,1950000,165,136,3+1,21 Ve Üzeri,15
+819,İstanbul,Beylikdüzü,Cumhuriyet Mahallesi,2750000,165,146,3+1,16-20,8
+820,İstanbul,Çekmeköy,Güngören Mahallesi,1250000,127,105,3+1,11-15,1
+821,İstanbul,Beylikdüzü,Cumhuriyet Mahallesi,739000,115,102,2+1,0 (Yeni),2
+822,İstanbul,Beylikdüzü,Cumhuriyet Mahallesi,699000,146,120,3+1,0 (Yeni),1
+823,İstanbul,Beylikdüzü,Cumhuriyet Mahallesi,340000,110,100,2+1,4,2
+824,İstanbul,Beylikdüzü,Cumhuriyet Mahallesi,439000,110,100,2+1,4,2
+825,İstanbul,Beylikdüzü,Cumhuriyet Mahallesi,269999,130,120,2+1,0 (Yeni),Bahçe Katı
+826,İstanbul,Beylikdüzü,Cumhuriyet Mahallesi,499999,120,110,2+1,0 (Yeni),2
+827,İstanbul,Bahçelievler,Şirinevler Mahallesi,2325000,220,205,5+2,4,Çatı Dubleks
+828,İstanbul,Esenyurt,Cumhuriyet Mahallesi,739000,115,102,2+1,0 (Yeni),2
+829,İstanbul,Beylikdüzü,Cumhuriyet Mahallesi,539999,100,95,2+1,0 (Yeni),Yüksek Giriş
+830,İstanbul,Bahçelievler,Siyavuşpaşa Mahallesi,615000,100,87,2+1,21 Ve Üzeri,5
+831,İstanbul,Beylikdüzü,Yakuplu Mahallesi,889000,110,90,2+1,0 (Yeni),2
+832,İstanbul,Küçükçekmece,Yeşilova Mahallesi,610000,135,120,3+1,16-20,1
+833,İstanbul,Bahçelievler,Şirinevler Mahallesi,1250000,210,200,5+2,21 Ve Üzeri,Çatı Dubleks
+834,İstanbul,Küçükçekmece,Halkalı Merkez Mahallesi,1600000,141,95,3+1,4,10
+835,İstanbul,Beylikdüzü,Adnan Kahveci Mahallesi,1575000,140,125,2+1,5-10,Villa Tipi
+836,İstanbul,Beykoz,Çubuklu Mahallesi,200000000,1500,1100,6+1,21 Ve Üzeri,Müstakil
+837,İstanbul,Avcılar,Gümüşpala Mahallesi,495000,130,110,3+1,21 Ve Üzeri,2
+838,İstanbul,Avcılar,Denizköşkler Mahallesi,390000,110,100,3+1,21 Ve Üzeri,1
+839,İstanbul,Esenyurt,Çınar Mahallesi,450000,100,90,2+1,5-10,1
+840,İstanbul,Beylikdüzü,Adnan Kahveci Mahallesi,1699000,270,250,5+2,0 (Yeni),4
+841,İstanbul,Beylikdüzü,Cumhuriyet Mahallesi,749900,150,140,3+1,0 (Yeni),2
+842,İstanbul,Beylikdüzü,Cumhuriyet Mahallesi,529900,120,105,2+1,0 (Yeni),1
+843,İstanbul,Beylikdüzü,Adnan Kahveci Mahallesi,1434900,160,150,3+1,0 (Yeni),Yüksek Giriş
+844,İstanbul,Beylikdüzü,Adnan Kahveci Mahallesi,800000,105,90,1+1,3,3
+845,İstanbul,Beylikdüzü,Cumhuriyet Mahallesi,659000,140,120,3+1,0 (Yeni),1
+846,İstanbul,Beylikdüzü,Cumhuriyet Mahallesi,439000,110,100,2+1,4,2
+847,İstanbul,Fatih,Topkapı Mahallesi,870000,120,115,2+1,21 Ve Üzeri,4
+848,İstanbul,Beylikdüzü,Cumhuriyet Mahallesi,1950000,165,136,3+1,21 Ve Üzeri,15
+849,İstanbul,Beylikdüzü,Cumhuriyet Mahallesi,2750000,165,146,3+1,16-20,8
+850,İstanbul,Çekmeköy,Güngören Mahallesi,1250000,127,105,3+1,11-15,1
+851,İstanbul,Beylikdüzü,Cumhuriyet Mahallesi,739000,115,102,2+1,0 (Yeni),2
+852,İstanbul,Beylikdüzü,Cumhuriyet Mahallesi,699000,146,120,3+1,0 (Yeni),1
+853,İstanbul,Beylikdüzü,Cumhuriyet Mahallesi,340000,110,100,2+1,4,2
+854,İstanbul,Beylikdüzü,Cumhuriyet Mahallesi,439000,110,100,2+1,4,2
+855,İstanbul,Beylikdüzü,Cumhuriyet Mahallesi,269999,130,120,2+1,0 (Yeni),Bahçe Katı
+856,İstanbul,Beylikdüzü,Cumhuriyet Mahallesi,499999,120,110,2+1,0 (Yeni),2
+857,İstanbul,Bahçelievler,Şirinevler Mahallesi,2325000,220,205,5+2,4,Çatı Dubleks
+858,İstanbul,Esenyurt,Cumhuriyet Mahallesi,739000,115,102,2+1,0 (Yeni),2
+859,İstanbul,Beylikdüzü,Cumhuriyet Mahallesi,539999,100,95,2+1,0 (Yeni),Yüksek Giriş
+860,İstanbul,Bahçelievler,Siyavuşpaşa Mahallesi,615000,100,87,2+1,21 Ve Üzeri,5
+861,İstanbul,Beylikdüzü,Yakuplu Mahallesi,889000,110,90,2+1,0 (Yeni),2
+862,İstanbul,Küçükçekmece,Yeşilova Mahallesi,610000,135,120,3+1,16-20,1
+863,İstanbul,Bahçelievler,Şirinevler Mahallesi,1250000,210,200,5+2,21 Ve Üzeri,Çatı Dubleks
+864,İstanbul,Küçükçekmece,Halkalı Merkez Mahallesi,1600000,141,95,3+1,4,10
+865,İstanbul,Beylikdüzü,Adnan Kahveci Mahallesi,1575000,140,125,2+1,5-10,Villa Tipi
+866,İstanbul,Beykoz,Çubuklu Mahallesi,200000000,1500,1100,6+1,21 Ve Üzeri,Müstakil
+867,İstanbul,Avcılar,Gümüşpala Mahallesi,495000,130,110,3+1,21 Ve Üzeri,2
+868,İstanbul,Avcılar,Denizköşkler Mahallesi,390000,110,100,3+1,21 Ve Üzeri,1
+869,İstanbul,Esenyurt,Çınar Mahallesi,450000,100,90,2+1,5-10,1
+870,İstanbul,Beylikdüzü,Adnan Kahveci Mahallesi,1699000,270,250,5+2,0 (Yeni),4
+871,İstanbul,Beylikdüzü,Cumhuriyet Mahallesi,749900,150,140,3+1,0 (Yeni),2
+872,İstanbul,Beylikdüzü,Cumhuriyet Mahallesi,529900,120,105,2+1,0 (Yeni),1
+873,İstanbul,Beylikdüzü,Adnan Kahveci Mahallesi,1434900,160,150,3+1,0 (Yeni),Yüksek Giriş
+874,İstanbul,Beylikdüzü,Adnan Kahveci Mahallesi,800000,105,90,1+1,3,3
+875,İstanbul,Beylikdüzü,Cumhuriyet Mahallesi,659000,140,120,3+1,0 (Yeni),1
+876,İstanbul,Beylikdüzü,Cumhuriyet Mahallesi,439000,110,100,2+1,4,2
+877,İstanbul,Fatih,Topkapı Mahallesi,870000,120,115,2+1,21 Ve Üzeri,4
+878,İstanbul,Beylikdüzü,Cumhuriyet Mahallesi,1950000,165,136,3+1,21 Ve Üzeri,15
+879,İstanbul,Beylikdüzü,Cumhuriyet Mahallesi,2750000,165,146,3+1,16-20,8
+880,İstanbul,Çekmeköy,Güngören Mahallesi,1250000,127,105,3+1,11-15,1
+881,İstanbul,Beylikdüzü,Cumhuriyet Mahallesi,739000,115,102,2+1,0 (Yeni),2
+882,İstanbul,Beylikdüzü,Cumhuriyet Mahallesi,699000,146,120,3+1,0 (Yeni),1
+883,İstanbul,Beylikdüzü,Cumhuriyet Mahallesi,340000,110,100,2+1,4,2
+884,İstanbul,Beylikdüzü,Cumhuriyet Mahallesi,439000,110,100,2+1,4,2
+885,İstanbul,Beylikdüzü,Cumhuriyet Mahallesi,269999,130,120,2+1,0 (Yeni),Bahçe Katı
+886,İstanbul,Beylikdüzü,Cumhuriyet Mahallesi,499999,120,110,2+1,0 (Yeni),2
+887,İstanbul,Bahçelievler,Şirinevler Mahallesi,2325000,220,205,5+2,4,Çatı Dubleks
+888,İstanbul,Esenyurt,Cumhuriyet Mahallesi,739000,115,102,2+1,0 (Yeni),2
+889,İstanbul,Beylikdüzü,Cumhuriyet Mahallesi,539999,100,95,2+1,0 (Yeni),Yüksek Giriş
+890,İstanbul,Bahçelievler,Siyavuşpaşa Mahallesi,615000,100,87,2+1,21 Ve Üzeri,5
+891,İstanbul,Beylikdüzü,Yakuplu Mahallesi,889000,110,90,2+1,0 (Yeni),2
+892,İstanbul,Küçükçekmece,Yeşilova Mahallesi,610000,135,120,3+1,16-20,1
+893,İstanbul,Bahçelievler,Şirinevler Mahallesi,1250000,210,200,5+2,21 Ve Üzeri,Çatı Dubleks
+894,İstanbul,Küçükçekmece,Halkalı Merkez Mahallesi,1600000,141,95,3+1,4,10
+895,İstanbul,Beylikdüzü,Adnan Kahveci Mahallesi,1575000,140,125,2+1,5-10,Villa Tipi
+896,İstanbul,Beykoz,Çubuklu Mahallesi,200000000,1500,1100,6+1,21 Ve Üzeri,Müstakil
+897,İstanbul,Avcılar,Gümüşpala Mahallesi,495000,130,110,3+1,21 Ve Üzeri,2
+898,İstanbul,Avcılar,Denizköşkler Mahallesi,390000,110,100,3+1,21 Ve Üzeri,1
+899,İstanbul,Esenyurt,Çınar Mahallesi,450000,100,90,2+1,5-10,1
+900,İstanbul,Beylikdüzü,Adnan Kahveci Mahallesi,1699000,270,250,5+2,0 (Yeni),4
+901,İstanbul,Beylikdüzü,Cumhuriyet Mahallesi,749900,150,140,3+1,0 (Yeni),2
+902,İstanbul,Beylikdüzü,Cumhuriyet Mahallesi,529900,120,105,2+1,0 (Yeni),1
+903,İstanbul,Beylikdüzü,Adnan Kahveci Mahallesi,1434900,160,150,3+1,0 (Yeni),Yüksek Giriş
+904,İstanbul,Beylikdüzü,Adnan Kahveci Mahallesi,800000,105,90,1+1,3,3
+905,İstanbul,Beylikdüzü,Cumhuriyet Mahallesi,659000,140,120,3+1,0 (Yeni),1
+906,İstanbul,Beylikdüzü,Cumhuriyet Mahallesi,439000,110,100,2+1,4,2
+907,İstanbul,Fatih,Topkapı Mahallesi,870000,120,115,2+1,21 Ve Üzeri,4
+908,İstanbul,Beylikdüzü,Cumhuriyet Mahallesi,1950000,165,136,3+1,21 Ve Üzeri,15
+909,İstanbul,Beylikdüzü,Cumhuriyet Mahallesi,2750000,165,146,3+1,16-20,8
+910,İstanbul,Çekmeköy,Güngören Mahallesi,1250000,127,105,3+1,11-15,1
+911,İstanbul,Beylikdüzü,Cumhuriyet Mahallesi,739000,115,102,2+1,0 (Yeni),2
+912,İstanbul,Beylikdüzü,Cumhuriyet Mahallesi,699000,146,120,3+1,0 (Yeni),1
+913,İstanbul,Beylikdüzü,Cumhuriyet Mahallesi,340000,110,100,2+1,4,2
+914,İstanbul,Beylikdüzü,Cumhuriyet Mahallesi,439000,110,100,2+1,4,2
+915,İstanbul,Beylikdüzü,Cumhuriyet Mahallesi,269999,130,120,2+1,0 (Yeni),Bahçe Katı
+916,İstanbul,Beylikdüzü,Cumhuriyet Mahallesi,499999,120,110,2+1,0 (Yeni),2
+917,İstanbul,Bahçelievler,Şirinevler Mahallesi,2325000,220,205,5+2,4,Çatı Dubleks
+918,İstanbul,Esenyurt,Cumhuriyet Mahallesi,739000,115,102,2+1,0 (Yeni),2
+919,İstanbul,Beylikdüzü,Cumhuriyet Mahallesi,539999,100,95,2+1,0 (Yeni),Yüksek Giriş
+920,İstanbul,Bahçelievler,Siyavuşpaşa Mahallesi,615000,100,87,2+1,21 Ve Üzeri,5
+921,İstanbul,Beylikdüzü,Yakuplu Mahallesi,889000,110,90,2+1,0 (Yeni),2
+922,İstanbul,Küçükçekmece,Yeşilova Mahallesi,610000,135,120,3+1,16-20,1
+923,İstanbul,Bahçelievler,Şirinevler Mahallesi,1250000,210,200,5+2,21 Ve Üzeri,Çatı Dubleks
+924,İstanbul,Küçükçekmece,Halkalı Merkez Mahallesi,1600000,141,95,3+1,4,10
+925,İstanbul,Beylikdüzü,Adnan Kahveci Mahallesi,1575000,140,125,2+1,5-10,Villa Tipi
+926,İstanbul,Beykoz,Çubuklu Mahallesi,200000000,1500,1100,6+1,21 Ve Üzeri,Müstakil
+927,İstanbul,Avcılar,Gümüşpala Mahallesi,495000,130,110,3+1,21 Ve Üzeri,2
+928,İstanbul,Avcılar,Denizköşkler Mahallesi,390000,110,100,3+1,21 Ve Üzeri,1
+929,İstanbul,Esenyurt,Çınar Mahallesi,450000,100,90,2+1,5-10,1
+930,İstanbul,Beylikdüzü,Adnan Kahveci Mahallesi,1699000,270,250,5+2,0 (Yeni),4
+931,İstanbul,Beylikdüzü,Cumhuriyet Mahallesi,749900,150,140,3+1,0 (Yeni),2
+932,İstanbul,Beylikdüzü,Cumhuriyet Mahallesi,529900,120,105,2+1,0 (Yeni),1
+933,İstanbul,Beylikdüzü,Adnan Kahveci Mahallesi,1434900,160,150,3+1,0 (Yeni),Yüksek Giriş
+934,İstanbul,Beylikdüzü,Adnan Kahveci Mahallesi,800000,105,90,1+1,3,3
+935,İstanbul,Beylikdüzü,Cumhuriyet Mahallesi,659000,140,120,3+1,0 (Yeni),1
+936,İstanbul,Beylikdüzü,Cumhuriyet Mahallesi,439000,110,100,2+1,4,2
+937,İstanbul,Fatih,Topkapı Mahallesi,870000,120,115,2+1,21 Ve Üzeri,4
+938,İstanbul,Beylikdüzü,Cumhuriyet Mahallesi,1950000,165,136,3+1,21 Ve Üzeri,15
+939,İstanbul,Beylikdüzü,Cumhuriyet Mahallesi,2750000,165,146,3+1,16-20,8
+940,İstanbul,Çekmeköy,Güngören Mahallesi,1250000,127,105,3+1,11-15,1
+941,İstanbul,Beylikdüzü,Cumhuriyet Mahallesi,739000,115,102,2+1,0 (Yeni),2
+942,İstanbul,Beylikdüzü,Cumhuriyet Mahallesi,699000,146,120,3+1,0 (Yeni),1
+943,İstanbul,Beylikdüzü,Cumhuriyet Mahallesi,340000,110,100,2+1,4,2
+944,İstanbul,Beylikdüzü,Cumhuriyet Mahallesi,439000,110,100,2+1,4,2
+945,İstanbul,Beylikdüzü,Cumhuriyet Mahallesi,269999,130,120,2+1,0 (Yeni),Bahçe Katı
+946,İstanbul,Beylikdüzü,Cumhuriyet Mahallesi,499999,120,110,2+1,0 (Yeni),2
+947,İstanbul,Bahçelievler,Şirinevler Mahallesi,2325000,220,205,5+2,4,Çatı Dubleks
+948,İstanbul,Esenyurt,Cumhuriyet Mahallesi,739000,115,102,2+1,0 (Yeni),2
+949,İstanbul,Beylikdüzü,Cumhuriyet Mahallesi,539999,100,95,2+1,0 (Yeni),Yüksek Giriş
+950,İstanbul,Bahçelievler,Siyavuşpaşa Mahallesi,615000,100,87,2+1,21 Ve Üzeri,5
+951,İstanbul,Beylikdüzü,Yakuplu Mahallesi,889000,110,90,2+1,0 (Yeni),2
+952,İstanbul,Küçükçekmece,Yeşilova Mahallesi,610000,135,120,3+1,16-20,1
+953,İstanbul,Bahçelievler,Şirinevler Mahallesi,1250000,210,200,5+2,21 Ve Üzeri,Çatı Dubleks
+954,İstanbul,Küçükçekmece,Halkalı Merkez Mahallesi,1600000,141,95,3+1,4,10
+955,İstanbul,Beylikdüzü,Adnan Kahveci Mahallesi,1575000,140,125,2+1,5-10,Villa Tipi
+956,İstanbul,Beykoz,Çubuklu Mahallesi,200000000,1500,1100,6+1,21 Ve Üzeri,Müstakil
+957,İstanbul,Avcılar,Gümüşpala Mahallesi,495000,130,110,3+1,21 Ve Üzeri,2
+958,İstanbul,Avcılar,Denizköşkler Mahallesi,390000,110,100,3+1,21 Ve Üzeri,1
+959,İstanbul,Esenyurt,Çınar Mahallesi,450000,100,90,2+1,5-10,1
+960,İstanbul,Beylikdüzü,Adnan Kahveci Mahallesi,1699000,270,250,5+2,0 (Yeni),4
+961,İstanbul,Beylikdüzü,Cumhuriyet Mahallesi,749900,150,140,3+1,0 (Yeni),2
+962,İstanbul,Beylikdüzü,Cumhuriyet Mahallesi,529900,120,105,2+1,0 (Yeni),1
+963,İstanbul,Beylikdüzü,Adnan Kahveci Mahallesi,1434900,160,150,3+1,0 (Yeni),Yüksek Giriş
+964,İstanbul,Beylikdüzü,Adnan Kahveci Mahallesi,800000,105,90,1+1,3,3
+965,İstanbul,Beylikdüzü,Cumhuriyet Mahallesi,659000,140,120,3+1,0 (Yeni),1
+966,İstanbul,Beylikdüzü,Cumhuriyet Mahallesi,439000,110,100,2+1,4,2
+967,İstanbul,Fatih,Topkapı Mahallesi,870000,120,115,2+1,21 Ve Üzeri,4
+968,İstanbul,Beylikdüzü,Cumhuriyet Mahallesi,1950000,165,136,3+1,21 Ve Üzeri,15
+969,İstanbul,Beylikdüzü,Cumhuriyet Mahallesi,2750000,165,146,3+1,16-20,8
+970,İstanbul,Çekmeköy,Güngören Mahallesi,1250000,127,105,3+1,11-15,1
+971,İstanbul,Beylikdüzü,Cumhuriyet Mahallesi,739000,115,102,2+1,0 (Yeni),2
+972,İstanbul,Beylikdüzü,Cumhuriyet Mahallesi,699000,146,120,3+1,0 (Yeni),1
+973,İstanbul,Beylikdüzü,Cumhuriyet Mahallesi,340000,110,100,2+1,4,2
+974,İstanbul,Beylikdüzü,Cumhuriyet Mahallesi,439000,110,100,2+1,4,2
+975,İstanbul,Beylikdüzü,Cumhuriyet Mahallesi,269999,130,120,2+1,0 (Yeni),Bahçe Katı
+976,İstanbul,Beylikdüzü,Cumhuriyet Mahallesi,499999,120,110,2+1,0 (Yeni),2
+977,İstanbul,Bahçelievler,Şirinevler Mahallesi,2325000,220,205,5+2,4,Çatı Dubleks
+978,İstanbul,Esenyurt,Cumhuriyet Mahallesi,739000,115,102,2+1,0 (Yeni),2
+979,İstanbul,Beylikdüzü,Cumhuriyet Mahallesi,539999,100,95,2+1,0 (Yeni),Yüksek Giriş
+980,İstanbul,Bahçelievler,Siyavuşpaşa Mahallesi,615000,100,87,2+1,21 Ve Üzeri,5
+981,İstanbul,Beylikdüzü,Yakuplu Mahallesi,889000,110,90,2+1,0 (Yeni),2
+982,İstanbul,Küçükçekmece,Yeşilova Mahallesi,610000,135,120,3+1,16-20,1
+983,İstanbul,Bahçelievler,Şirinevler Mahallesi,1250000,210,200,5+2,21 Ve Üzeri,Çatı Dubleks
+984,İstanbul,Küçükçekmece,Halkalı Merkez Mahallesi,1600000,141,95,3+1,4,10
+985,İstanbul,Beylikdüzü,Adnan Kahveci Mahallesi,1575000,140,125,2+1,5-10,Villa Tipi
+986,İstanbul,Beykoz,Çubuklu Mahallesi,200000000,1500,1100,6+1,21 Ve Üzeri,Müstakil
+987,İstanbul,Avcılar,Gümüşpala Mahallesi,495000,130,110,3+1,21 Ve Üzeri,2
+988,İstanbul,Avcılar,Denizköşkler Mahallesi,390000,110,100,3+1,21 Ve Üzeri,1
+989,İstanbul,Esenyurt,Çınar Mahallesi,450000,100,90,2+1,5-10,1
+990,İstanbul,Beylikdüzü,Adnan Kahveci Mahallesi,1699000,270,250,5+2,0 (Yeni),4
+991,İstanbul,Beylikdüzü,Cumhuriyet Mahallesi,749900,150,140,3+1,0 (Yeni),2
+992,İstanbul,Beylikdüzü,Cumhuriyet Mahallesi,529900,120,105,2+1,0 (Yeni),1
+993,İstanbul,Beylikdüzü,Adnan Kahveci Mahallesi,1434900,160,150,3+1,0 (Yeni),Yüksek Giriş
+994,İstanbul,Beylikdüzü,Adnan Kahveci Mahallesi,800000,105,90,1+1,3,3
+995,İstanbul,Beylikdüzü,Cumhuriyet Mahallesi,659000,140,120,3+1,0 (Yeni),1
+996,İstanbul,Beylikdüzü,Cumhuriyet Mahallesi,439000,110,100,2+1,4,2
+997,İstanbul,Fatih,Topkapı Mahallesi,870000,120,115,2+1,21 Ve Üzeri,4
+998,İstanbul,Beylikdüzü,Cumhuriyet Mahallesi,1950000,165,136,3+1,21 Ve Üzeri,15
+999,İstanbul,Beylikdüzü,Cumhuriyet Mahallesi,2750000,165,146,3+1,16-20,8
+1000,İstanbul,Çekmeköy,Güngören Mahallesi,1250000,127,105,3+1,11-15,1
+1001,İstanbul,Beylikdüzü,Cumhuriyet Mahallesi,739000,115,102,2+1,0 (Yeni),2
+1002,İstanbul,Beylikdüzü,Cumhuriyet Mahallesi,699000,146,120,3+1,0 (Yeni),1
+1003,İstanbul,Beylikdüzü,Cumhuriyet Mahallesi,340000,110,100,2+1,4,2
+1004,İstanbul,Beylikdüzü,Cumhuriyet Mahallesi,439000,110,100,2+1,4,2
+1005,İstanbul,Beylikdüzü,Cumhuriyet Mahallesi,269999,130,120,2+1,0 (Yeni),Bahçe Katı
+1006,İstanbul,Beylikdüzü,Cumhuriyet Mahallesi,499999,120,110,2+1,0 (Yeni),2
+1007,İstanbul,Bahçelievler,Şirinevler Mahallesi,2325000,220,205,5+2,4,Çatı Dubleks
+1008,İstanbul,Esenyurt,Cumhuriyet Mahallesi,739000,115,102,2+1,0 (Yeni),2
+1009,İstanbul,Beylikdüzü,Cumhuriyet Mahallesi,539999,100,95,2+1,0 (Yeni),Yüksek Giriş
+1010,İstanbul,Bahçelievler,Siyavuşpaşa Mahallesi,615000,100,87,2+1,21 Ve Üzeri,5
+1011,İstanbul,Beylikdüzü,Yakuplu Mahallesi,889000,110,90,2+1,0 (Yeni),2
+1012,İstanbul,Küçükçekmece,Yeşilova Mahallesi,610000,135,120,3+1,16-20,1
+1013,İstanbul,Bahçelievler,Şirinevler Mahallesi,1250000,210,200,5+2,21 Ve Üzeri,Çatı Dubleks
+1014,İstanbul,Küçükçekmece,Halkalı Merkez Mahallesi,1600000,141,95,3+1,4,10
+1015,İstanbul,Beylikdüzü,Adnan Kahveci Mahallesi,1575000,140,125,2+1,5-10,Villa Tipi
+1016,İstanbul,Beykoz,Çubuklu Mahallesi,200000000,1500,1100,6+1,21 Ve Üzeri,Müstakil
+1017,İstanbul,Avcılar,Gümüşpala Mahallesi,495000,130,110,3+1,21 Ve Üzeri,2
+1018,İstanbul,Avcılar,Denizköşkler Mahallesi,390000,110,100,3+1,21 Ve Üzeri,1
+1019,İstanbul,Esenyurt,Çınar Mahallesi,450000,100,90,2+1,5-10,1
+1020,İstanbul,Beylikdüzü,Adnan Kahveci Mahallesi,1699000,270,250,5+2,0 (Yeni),4
+1021,İstanbul,Beylikdüzü,Cumhuriyet Mahallesi,749900,150,140,3+1,0 (Yeni),2
+1022,İstanbul,Beylikdüzü,Cumhuriyet Mahallesi,529900,120,105,2+1,0 (Yeni),1
+1023,İstanbul,Beylikdüzü,Adnan Kahveci Mahallesi,1434900,160,150,3+1,0 (Yeni),Yüksek Giriş
+1024,İstanbul,Beylikdüzü,Adnan Kahveci Mahallesi,800000,105,90,1+1,3,3
+1025,İstanbul,Beylikdüzü,Cumhuriyet Mahallesi,659000,140,120,3+1,0 (Yeni),1
+1026,İstanbul,Beylikdüzü,Cumhuriyet Mahallesi,439000,110,100,2+1,4,2
+1027,İstanbul,Fatih,Topkapı Mahallesi,870000,120,115,2+1,21 Ve Üzeri,4
+1028,İstanbul,Beylikdüzü,Cumhuriyet Mahallesi,1950000,165,136,3+1,21 Ve Üzeri,15
+1029,İstanbul,Beylikdüzü,Cumhuriyet Mahallesi,2750000,165,146,3+1,16-20,8
+1030,İstanbul,Çekmeköy,Güngören Mahallesi,1250000,127,105,3+1,11-15,1
+1031,İstanbul,Beylikdüzü,Cumhuriyet Mahallesi,739000,115,102,2+1,0 (Yeni),2
+1032,İstanbul,Beylikdüzü,Cumhuriyet Mahallesi,699000,146,120,3+1,0 (Yeni),1
+1033,İstanbul,Beylikdüzü,Cumhuriyet Mahallesi,340000,110,100,2+1,4,2
+1034,İstanbul,Beylikdüzü,Cumhuriyet Mahallesi,439000,110,100,2+1,4,2
+1035,İstanbul,Beylikdüzü,Cumhuriyet Mahallesi,269999,130,120,2+1,0 (Yeni),Bahçe Katı
+1036,İstanbul,Beylikdüzü,Cumhuriyet Mahallesi,499999,120,110,2+1,0 (Yeni),2
+1037,İstanbul,Bahçelievler,Şirinevler Mahallesi,2325000,220,205,5+2,4,Çatı Dubleks
+1038,İstanbul,Esenyurt,Cumhuriyet Mahallesi,739000,115,102,2+1,0 (Yeni),2
+1039,İstanbul,Beylikdüzü,Cumhuriyet Mahallesi,539999,100,95,2+1,0 (Yeni),Yüksek Giriş
+1040,İstanbul,Bahçelievler,Siyavuşpaşa Mahallesi,615000,100,87,2+1,21 Ve Üzeri,5
+1041,İstanbul,Beylikdüzü,Yakuplu Mahallesi,889000,110,90,2+1,0 (Yeni),2
+1042,İstanbul,Küçükçekmece,Yeşilova Mahallesi,610000,135,120,3+1,16-20,1
+1043,İstanbul,Bahçelievler,Şirinevler Mahallesi,1250000,210,200,5+2,21 Ve Üzeri,Çatı Dubleks
+1044,İstanbul,Küçükçekmece,Halkalı Merkez Mahallesi,1600000,141,95,3+1,4,10
+1045,İstanbul,Beylikdüzü,Adnan Kahveci Mahallesi,1575000,140,125,2+1,5-10,Villa Tipi
+1046,İstanbul,Beykoz,Çubuklu Mahallesi,200000000,1500,1100,6+1,21 Ve Üzeri,Müstakil
+1047,İstanbul,Avcılar,Gümüşpala Mahallesi,495000,130,110,3+1,21 Ve Üzeri,2
+1048,İstanbul,Avcılar,Denizköşkler Mahallesi,390000,110,100,3+1,21 Ve Üzeri,1
+1049,İstanbul,Esenyurt,Çınar Mahallesi,450000,100,90,2+1,5-10,1
+1050,İstanbul,Beylikdüzü,Adnan Kahveci Mahallesi,1699000,270,250,5+2,0 (Yeni),4
+1051,İstanbul,Beylikdüzü,Cumhuriyet Mahallesi,749900,150,140,3+1,0 (Yeni),2
+1052,İstanbul,Beylikdüzü,Cumhuriyet Mahallesi,529900,120,105,2+1,0 (Yeni),1
+1053,İstanbul,Beylikdüzü,Adnan Kahveci Mahallesi,1434900,160,150,3+1,0 (Yeni),Yüksek Giriş
+1054,İstanbul,Beylikdüzü,Adnan Kahveci Mahallesi,800000,105,90,1+1,3,3
+1055,İstanbul,Beylikdüzü,Cumhuriyet Mahallesi,659000,140,120,3+1,0 (Yeni),1
+1056,İstanbul,Beylikdüzü,Cumhuriyet Mahallesi,439000,110,100,2+1,4,2
+1057,İstanbul,Fatih,Topkapı Mahallesi,870000,120,115,2+1,21 Ve Üzeri,4
+1058,İstanbul,Beylikdüzü,Cumhuriyet Mahallesi,1950000,165,136,3+1,21 Ve Üzeri,15
+1059,İstanbul,Beylikdüzü,Cumhuriyet Mahallesi,2750000,165,146,3+1,16-20,8
+1060,İstanbul,Çekmeköy,Güngören Mahallesi,1250000,127,105,3+1,11-15,1
+1061,İstanbul,Beylikdüzü,Cumhuriyet Mahallesi,739000,115,102,2+1,0 (Yeni),2
+1062,İstanbul,Beylikdüzü,Cumhuriyet Mahallesi,699000,146,120,3+1,0 (Yeni),1
+1063,İstanbul,Beylikdüzü,Cumhuriyet Mahallesi,340000,110,100,2+1,4,2
+1064,İstanbul,Beylikdüzü,Cumhuriyet Mahallesi,439000,110,100,2+1,4,2
+1065,İstanbul,Beylikdüzü,Cumhuriyet Mahallesi,269999,130,120,2+1,0 (Yeni),Bahçe Katı
+1066,İstanbul,Beylikdüzü,Cumhuriyet Mahallesi,499999,120,110,2+1,0 (Yeni),2
+1067,İstanbul,Bahçelievler,Şirinevler Mahallesi,2325000,220,205,5+2,4,Çatı Dubleks
+1068,İstanbul,Esenyurt,Cumhuriyet Mahallesi,739000,115,102,2+1,0 (Yeni),2
+1069,İstanbul,Beylikdüzü,Cumhuriyet Mahallesi,539999,100,95,2+1,0 (Yeni),Yüksek Giriş
+1070,İstanbul,Bahçelievler,Siyavuşpaşa Mahallesi,615000,100,87,2+1,21 Ve Üzeri,5
+1071,İstanbul,Beylikdüzü,Yakuplu Mahallesi,889000,110,90,2+1,0 (Yeni),2
+1072,İstanbul,Küçükçekmece,Yeşilova Mahallesi,610000,135,120,3+1,16-20,1
+1073,İstanbul,Bahçelievler,Şirinevler Mahallesi,1250000,210,200,5+2,21 Ve Üzeri,Çatı Dubleks
+1074,İstanbul,Küçükçekmece,Halkalı Merkez Mahallesi,1600000,141,95,3+1,4,10
+1075,İstanbul,Beylikdüzü,Adnan Kahveci Mahallesi,1575000,140,125,2+1,5-10,Villa Tipi
+1076,İstanbul,Beykoz,Çubuklu Mahallesi,200000000,1500,1100,6+1,21 Ve Üzeri,Müstakil
+1077,İstanbul,Avcılar,Gümüşpala Mahallesi,495000,130,110,3+1,21 Ve Üzeri,2
+1078,İstanbul,Avcılar,Denizköşkler Mahallesi,390000,110,100,3+1,21 Ve Üzeri,1
+1079,İstanbul,Esenyurt,Çınar Mahallesi,450000,100,90,2+1,5-10,1
+1080,İstanbul,Beylikdüzü,Adnan Kahveci Mahallesi,1699000,270,250,5+2,0 (Yeni),4
+1081,İstanbul,Beylikdüzü,Cumhuriyet Mahallesi,749900,150,140,3+1,0 (Yeni),2
+1082,İstanbul,Beylikdüzü,Cumhuriyet Mahallesi,529900,120,105,2+1,0 (Yeni),1
+1083,İstanbul,Beylikdüzü,Adnan Kahveci Mahallesi,1434900,160,150,3+1,0 (Yeni),Yüksek Giriş
+1084,İstanbul,Beylikdüzü,Adnan Kahveci Mahallesi,800000,105,90,1+1,3,3
+1085,İstanbul,Beylikdüzü,Cumhuriyet Mahallesi,659000,140,120,3+1,0 (Yeni),1
+1086,İstanbul,Beylikdüzü,Cumhuriyet Mahallesi,439000,110,100,2+1,4,2
+1087,İstanbul,Fatih,Topkapı Mahallesi,870000,120,115,2+1,21 Ve Üzeri,4
+1088,İstanbul,Beylikdüzü,Cumhuriyet Mahallesi,1950000,165,136,3+1,21 Ve Üzeri,15
+1089,İstanbul,Beylikdüzü,Cumhuriyet Mahallesi,2750000,165,146,3+1,16-20,8
+1090,İstanbul,Çekmeköy,Güngören Mahallesi,1250000,127,105,3+1,11-15,1
+1091,İstanbul,Beylikdüzü,Cumhuriyet Mahallesi,739000,115,102,2+1,0 (Yeni),2
+1092,İstanbul,Beylikdüzü,Cumhuriyet Mahallesi,699000,146,120,3+1,0 (Yeni),1
+1093,İstanbul,Beylikdüzü,Cumhuriyet Mahallesi,340000,110,100,2+1,4,2
+1094,İstanbul,Beylikdüzü,Cumhuriyet Mahallesi,439000,110,100,2+1,4,2
+1095,İstanbul,Beylikdüzü,Cumhuriyet Mahallesi,269999,130,120,2+1,0 (Yeni),Bahçe Katı
+1096,İstanbul,Beylikdüzü,Cumhuriyet Mahallesi,499999,120,110,2+1,0 (Yeni),2
+1097,İstanbul,Bahçelievler,Şirinevler Mahallesi,2325000,220,205,5+2,4,Çatı Dubleks
+1098,İstanbul,Esenyurt,Cumhuriyet Mahallesi,739000,115,102,2+1,0 (Yeni),2
+1099,İstanbul,Beylikdüzü,Cumhuriyet Mahallesi,539999,100,95,2+1,0 (Yeni),Yüksek Giriş
+1100,İstanbul,Bahçelievler,Siyavuşpaşa Mahallesi,615000,100,87,2+1,21 Ve Üzeri,5
+1101,İstanbul,Beylikdüzü,Yakuplu Mahallesi,889000,110,90,2+1,0 (Yeni),2
+1102,İstanbul,Küçükçekmece,Yeşilova Mahallesi,610000,135,120,3+1,16-20,1
+1103,İstanbul,Bahçelievler,Şirinevler Mahallesi,1250000,210,200,5+2,21 Ve Üzeri,Çatı Dubleks
+1104,İstanbul,Küçükçekmece,Halkalı Merkez Mahallesi,1600000,141,95,3+1,4,10
+1105,İstanbul,Beylikdüzü,Adnan Kahveci Mahallesi,1575000,140,125,2+1,5-10,Villa Tipi
+1106,İstanbul,Beykoz,Çubuklu Mahallesi,200000000,1500,1100,6+1,21 Ve Üzeri,Müstakil
+1107,İstanbul,Avcılar,Gümüşpala Mahallesi,495000,130,110,3+1,21 Ve Üzeri,2
+1108,İstanbul,Avcılar,Denizköşkler Mahallesi,390000,110,100,3+1,21 Ve Üzeri,1
+1109,İstanbul,Esenyurt,Çınar Mahallesi,450000,100,90,2+1,5-10,1
+1110,İstanbul,Beylikdüzü,Adnan Kahveci Mahallesi,1699000,270,250,5+2,0 (Yeni),4
+1111,İstanbul,Beylikdüzü,Cumhuriyet Mahallesi,749900,150,140,3+1,0 (Yeni),2
+1112,İstanbul,Beylikdüzü,Cumhuriyet Mahallesi,529900,120,105,2+1,0 (Yeni),1
+1113,İstanbul,Beylikdüzü,Adnan Kahveci Mahallesi,1434900,160,150,3+1,0 (Yeni),Yüksek Giriş
+1114,İstanbul,Beylikdüzü,Adnan Kahveci Mahallesi,800000,105,90,1+1,3,3
+1115,İstanbul,Beylikdüzü,Cumhuriyet Mahallesi,659000,140,120,3+1,0 (Yeni),1
+1116,İstanbul,Beylikdüzü,Cumhuriyet Mahallesi,439000,110,100,2+1,4,2
+1117,İstanbul,Fatih,Topkapı Mahallesi,870000,120,115,2+1,21 Ve Üzeri,4
+1118,İstanbul,Beylikdüzü,Cumhuriyet Mahallesi,1950000,165,136,3+1,21 Ve Üzeri,15
+1119,İstanbul,Beylikdüzü,Cumhuriyet Mahallesi,2750000,165,146,3+1,16-20,8
+1120,İstanbul,Çekmeköy,Güngören Mahallesi,1250000,127,105,3+1,11-15,1
+1121,İstanbul,Beylikdüzü,Cumhuriyet Mahallesi,739000,115,102,2+1,0 (Yeni),2
+1122,İstanbul,Beylikdüzü,Cumhuriyet Mahallesi,699000,146,120,3+1,0 (Yeni),1
+1123,İstanbul,Beylikdüzü,Cumhuriyet Mahallesi,340000,110,100,2+1,4,2
+1124,İstanbul,Beylikdüzü,Cumhuriyet Mahallesi,439000,110,100,2+1,4,2
+1125,İstanbul,Beylikdüzü,Cumhuriyet Mahallesi,269999,130,120,2+1,0 (Yeni),Bahçe Katı
+1126,İstanbul,Beylikdüzü,Cumhuriyet Mahallesi,499999,120,110,2+1,0 (Yeni),2
+1127,İstanbul,Bahçelievler,Şirinevler Mahallesi,2325000,220,205,5+2,4,Çatı Dubleks
+1128,İstanbul,Esenyurt,Cumhuriyet Mahallesi,739000,115,102,2+1,0 (Yeni),2
+1129,İstanbul,Beylikdüzü,Cumhuriyet Mahallesi,539999,100,95,2+1,0 (Yeni),Yüksek Giriş
+1130,İstanbul,Bahçelievler,Siyavuşpaşa Mahallesi,615000,100,87,2+1,21 Ve Üzeri,5
+1131,İstanbul,Beylikdüzü,Yakuplu Mahallesi,889000,110,90,2+1,0 (Yeni),2
+1132,İstanbul,Küçükçekmece,Yeşilova Mahallesi,610000,135,120,3+1,16-20,1
+1133,İstanbul,Bahçelievler,Şirinevler Mahallesi,1250000,210,200,5+2,21 Ve Üzeri,Çatı Dubleks
+1134,İstanbul,Küçükçekmece,Halkalı Merkez Mahallesi,1600000,141,95,3+1,4,10
+1135,İstanbul,Beylikdüzü,Adnan Kahveci Mahallesi,1575000,140,125,2+1,5-10,Villa Tipi
+1136,İstanbul,Beykoz,Çubuklu Mahallesi,200000000,1500,1100,6+1,21 Ve Üzeri,Müstakil
+1137,İstanbul,Avcılar,Gümüşpala Mahallesi,495000,130,110,3+1,21 Ve Üzeri,2
+1138,İstanbul,Avcılar,Denizköşkler Mahallesi,390000,110,100,3+1,21 Ve Üzeri,1
+1139,İstanbul,Esenyurt,Çınar Mahallesi,450000,100,90,2+1,5-10,1
+1140,İstanbul,Beylikdüzü,Adnan Kahveci Mahallesi,1699000,270,250,5+2,0 (Yeni),4
+1141,İstanbul,Beylikdüzü,Cumhuriyet Mahallesi,749900,150,140,3+1,0 (Yeni),2
+1142,İstanbul,Beylikdüzü,Cumhuriyet Mahallesi,529900,120,105,2+1,0 (Yeni),1
+1143,İstanbul,Beylikdüzü,Adnan Kahveci Mahallesi,1434900,160,150,3+1,0 (Yeni),Yüksek Giriş
+1144,İstanbul,Beylikdüzü,Adnan Kahveci Mahallesi,800000,105,90,1+1,3,3
+1145,İstanbul,Beylikdüzü,Cumhuriyet Mahallesi,659000,140,120,3+1,0 (Yeni),1
+1146,İstanbul,Beylikdüzü,Cumhuriyet Mahallesi,439000,110,100,2+1,4,2
+1147,İstanbul,Fatih,Topkapı Mahallesi,870000,120,115,2+1,21 Ve Üzeri,4
+1148,İstanbul,Beylikdüzü,Cumhuriyet Mahallesi,1950000,165,136,3+1,21 Ve Üzeri,15
+1149,İstanbul,Beylikdüzü,Cumhuriyet Mahallesi,2750000,165,146,3+1,16-20,8
+1150,İstanbul,Çekmeköy,Güngören Mahallesi,1250000,127,105,3+1,11-15,1
+1151,İstanbul,Beylikdüzü,Cumhuriyet Mahallesi,739000,115,102,2+1,0 (Yeni),2
+1152,İstanbul,Beylikdüzü,Cumhuriyet Mahallesi,699000,146,120,3+1,0 (Yeni),1
+1153,İstanbul,Beylikdüzü,Cumhuriyet Mahallesi,340000,110,100,2+1,4,2
+1154,İstanbul,Beylikdüzü,Cumhuriyet Mahallesi,439000,110,100,2+1,4,2
+1155,İstanbul,Beylikdüzü,Cumhuriyet Mahallesi,269999,130,120,2+1,0 (Yeni),Bahçe Katı
+1156,İstanbul,Beylikdüzü,Cumhuriyet Mahallesi,499999,120,110,2+1,0 (Yeni),2
+1157,İstanbul,Bahçelievler,Şirinevler Mahallesi,2325000,220,205,5+2,4,Çatı Dubleks
+1158,İstanbul,Esenyurt,Cumhuriyet Mahallesi,739000,115,102,2+1,0 (Yeni),2
+1159,İstanbul,Beylikdüzü,Cumhuriyet Mahallesi,539999,100,95,2+1,0 (Yeni),Yüksek Giriş
+1160,İstanbul,Bahçelievler,Siyavuşpaşa Mahallesi,615000,100,87,2+1,21 Ve Üzeri,5
+1161,İstanbul,Beylikdüzü,Yakuplu Mahallesi,889000,110,90,2+1,0 (Yeni),2
+1162,İstanbul,Küçükçekmece,Yeşilova Mahallesi,610000,135,120,3+1,16-20,1
+1163,İstanbul,Bahçelievler,Şirinevler Mahallesi,1250000,210,200,5+2,21 Ve Üzeri,Çatı Dubleks
+1164,İstanbul,Küçükçekmece,Halkalı Merkez Mahallesi,1600000,141,95,3+1,4,10
+1165,İstanbul,Beylikdüzü,Adnan Kahveci Mahallesi,1575000,140,125,2+1,5-10,Villa Tipi
+1166,İstanbul,Beykoz,Çubuklu Mahallesi,200000000,1500,1100,6+1,21 Ve Üzeri,Müstakil
+1167,İstanbul,Avcılar,Gümüşpala Mahallesi,495000,130,110,3+1,21 Ve Üzeri,2
+1168,İstanbul,Avcılar,Denizköşkler Mahallesi,390000,110,100,3+1,21 Ve Üzeri,1
+1169,İstanbul,Esenyurt,Çınar Mahallesi,450000,100,90,2+1,5-10,1
+1170,İstanbul,Beylikdüzü,Adnan Kahveci Mahallesi,1699000,270,250,5+2,0 (Yeni),4
+1171,İstanbul,Beylikdüzü,Cumhuriyet Mahallesi,749900,150,140,3+1,0 (Yeni),2
+1172,İstanbul,Beylikdüzü,Cumhuriyet Mahallesi,529900,120,105,2+1,0 (Yeni),1
+1173,İstanbul,Beylikdüzü,Adnan Kahveci Mahallesi,1434900,160,150,3+1,0 (Yeni),Yüksek Giriş
+1174,İstanbul,Beylikdüzü,Adnan Kahveci Mahallesi,800000,105,90,1+1,3,3
+1175,İstanbul,Beylikdüzü,Cumhuriyet Mahallesi,659000,140,120,3+1,0 (Yeni),1
+1176,İstanbul,Beylikdüzü,Cumhuriyet Mahallesi,439000,110,100,2+1,4,2
+1177,İstanbul,Fatih,Topkapı Mahallesi,870000,120,115,2+1,21 Ve Üzeri,4
+1178,İstanbul,Beylikdüzü,Cumhuriyet Mahallesi,1950000,165,136,3+1,21 Ve Üzeri,15
+1179,İstanbul,Beylikdüzü,Cumhuriyet Mahallesi,2750000,165,146,3+1,16-20,8
+1180,İstanbul,Çekmeköy,Güngören Mahallesi,1250000,127,105,3+1,11-15,1
+1181,İstanbul,Beylikdüzü,Cumhuriyet Mahallesi,739000,115,102,2+1,0 (Yeni),2
+1182,İstanbul,Beylikdüzü,Cumhuriyet Mahallesi,699000,146,120,3+1,0 (Yeni),1
+1183,İstanbul,Beylikdüzü,Cumhuriyet Mahallesi,340000,110,100,2+1,4,2
+1184,İstanbul,Beylikdüzü,Cumhuriyet Mahallesi,439000,110,100,2+1,4,2
+1185,İstanbul,Beylikdüzü,Cumhuriyet Mahallesi,269999,130,120,2+1,0 (Yeni),Bahçe Katı
+1186,İstanbul,Beylikdüzü,Cumhuriyet Mahallesi,499999,120,110,2+1,0 (Yeni),2
+1187,İstanbul,Bahçelievler,Şirinevler Mahallesi,2325000,220,205,5+2,4,Çatı Dubleks
+1188,İstanbul,Esenyurt,Cumhuriyet Mahallesi,739000,115,102,2+1,0 (Yeni),2
+1189,İstanbul,Beylikdüzü,Cumhuriyet Mahallesi,539999,100,95,2+1,0 (Yeni),Yüksek Giriş
+1190,İstanbul,Bahçelievler,Siyavuşpaşa Mahallesi,615000,100,87,2+1,21 Ve Üzeri,5
+1191,İstanbul,Beylikdüzü,Yakuplu Mahallesi,889000,110,90,2+1,0 (Yeni),2
+1192,İstanbul,Küçükçekmece,Yeşilova Mahallesi,610000,135,120,3+1,16-20,1
+1193,İstanbul,Bahçelievler,Şirinevler Mahallesi,1250000,210,200,5+2,21 Ve Üzeri,Çatı Dubleks
+1194,İstanbul,Küçükçekmece,Halkalı Merkez Mahallesi,1600000,141,95,3+1,4,10
+1195,İstanbul,Beylikdüzü,Adnan Kahveci Mahallesi,1575000,140,125,2+1,5-10,Villa Tipi
+1196,İstanbul,Beykoz,Çubuklu Mahallesi,200000000,1500,1100,6+1,21 Ve Üzeri,Müstakil
+1197,İstanbul,Avcılar,Gümüşpala Mahallesi,495000,130,110,3+1,21 Ve Üzeri,2
+1198,İstanbul,Avcılar,Denizköşkler Mahallesi,390000,110,100,3+1,21 Ve Üzeri,1
+1199,İstanbul,Esenyurt,Çınar Mahallesi,450000,100,90,2+1,5-10,1
+1200,İstanbul,Beylikdüzü,Adnan Kahveci Mahallesi,1699000,270,250,5+2,0 (Yeni),4
+1201,İstanbul,Beylikdüzü,Cumhuriyet Mahallesi,749900,150,140,3+1,0 (Yeni),2
+1202,İstanbul,Beylikdüzü,Cumhuriyet Mahallesi,529900,120,105,2+1,0 (Yeni),1
+1203,İstanbul,Beylikdüzü,Adnan Kahveci Mahallesi,1434900,160,150,3+1,0 (Yeni),Yüksek Giriş
+1204,İstanbul,Beylikdüzü,Adnan Kahveci Mahallesi,800000,105,90,1+1,3,3
+1205,İstanbul,Beylikdüzü,Cumhuriyet Mahallesi,659000,140,120,3+1,0 (Yeni),1
+1206,İstanbul,Beylikdüzü,Cumhuriyet Mahallesi,439000,110,100,2+1,4,2
+1207,İstanbul,Fatih,Topkapı Mahallesi,870000,120,115,2+1,21 Ve Üzeri,4
+1208,İstanbul,Beylikdüzü,Cumhuriyet Mahallesi,1950000,165,136,3+1,21 Ve Üzeri,15
+1209,İstanbul,Beylikdüzü,Cumhuriyet Mahallesi,2750000,165,146,3+1,16-20,8
+1210,İstanbul,Çekmeköy,Güngören Mahallesi,1250000,127,105,3+1,11-15,1
+1211,İstanbul,Beylikdüzü,Cumhuriyet Mahallesi,739000,115,102,2+1,0 (Yeni),2
+1212,İstanbul,Beylikdüzü,Cumhuriyet Mahallesi,699000,146,120,3+1,0 (Yeni),1
+1213,İstanbul,Beylikdüzü,Cumhuriyet Mahallesi,340000,110,100,2+1,4,2
+1214,İstanbul,Beylikdüzü,Cumhuriyet Mahallesi,439000,110,100,2+1,4,2
+1215,İstanbul,Beylikdüzü,Cumhuriyet Mahallesi,269999,130,120,2+1,0 (Yeni),Bahçe Katı
+1216,İstanbul,Beylikdüzü,Cumhuriyet Mahallesi,499999,120,110,2+1,0 (Yeni),2
+1217,İstanbul,Bahçelievler,Şirinevler Mahallesi,2325000,220,205,5+2,4,Çatı Dubleks
+1218,İstanbul,Esenyurt,Cumhuriyet Mahallesi,739000,115,102,2+1,0 (Yeni),2
+1219,İstanbul,Beylikdüzü,Cumhuriyet Mahallesi,539999,100,95,2+1,0 (Yeni),Yüksek Giriş
+1220,İstanbul,Bahçelievler,Siyavuşpaşa Mahallesi,615000,100,87,2+1,21 Ve Üzeri,5
+1221,İstanbul,Beylikdüzü,Yakuplu Mahallesi,889000,110,90,2+1,0 (Yeni),2
+1222,İstanbul,Küçükçekmece,Yeşilova Mahallesi,610000,135,120,3+1,16-20,1
+1223,İstanbul,Bahçelievler,Şirinevler Mahallesi,1250000,210,200,5+2,21 Ve Üzeri,Çatı Dubleks
+1224,İstanbul,Küçükçekmece,Halkalı Merkez Mahallesi,1600000,141,95,3+1,4,10
+1225,İstanbul,Beylikdüzü,Adnan Kahveci Mahallesi,1575000,140,125,2+1,5-10,Villa Tipi
+1226,İstanbul,Beykoz,Çubuklu Mahallesi,200000000,1500,1100,6+1,21 Ve Üzeri,Müstakil
+1227,İstanbul,Avcılar,Gümüşpala Mahallesi,495000,130,110,3+1,21 Ve Üzeri,2
+1228,İstanbul,Avcılar,Denizköşkler Mahallesi,390000,110,100,3+1,21 Ve Üzeri,1
+1229,İstanbul,Esenyurt,Çınar Mahallesi,450000,100,90,2+1,5-10,1
+1230,İstanbul,Beylikdüzü,Adnan Kahveci Mahallesi,1699000,270,250,5+2,0 (Yeni),4
+1231,İstanbul,Beylikdüzü,Cumhuriyet Mahallesi,749900,150,140,3+1,0 (Yeni),2
+1232,İstanbul,Beylikdüzü,Cumhuriyet Mahallesi,529900,120,105,2+1,0 (Yeni),1
+1233,İstanbul,Beylikdüzü,Adnan Kahveci Mahallesi,1434900,160,150,3+1,0 (Yeni),Yüksek Giriş
+1234,İstanbul,Beylikdüzü,Adnan Kahveci Mahallesi,800000,105,90,1+1,3,3
+1235,İstanbul,Beylikdüzü,Cumhuriyet Mahallesi,659000,140,120,3+1,0 (Yeni),1
+1236,İstanbul,Beylikdüzü,Cumhuriyet Mahallesi,439000,110,100,2+1,4,2
+1237,İstanbul,Fatih,Topkapı Mahallesi,870000,120,115,2+1,21 Ve Üzeri,4
+1238,İstanbul,Beylikdüzü,Cumhuriyet Mahallesi,1950000,165,136,3+1,21 Ve Üzeri,15
+1239,İstanbul,Beylikdüzü,Cumhuriyet Mahallesi,2750000,165,146,3+1,16-20,8
+1240,İstanbul,Çekmeköy,Güngören Mahallesi,1250000,127,105,3+1,11-15,1
+1241,İstanbul,Beylikdüzü,Cumhuriyet Mahallesi,739000,115,102,2+1,0 (Yeni),2
+1242,İstanbul,Beylikdüzü,Cumhuriyet Mahallesi,699000,146,120,3+1,0 (Yeni),1
+1243,İstanbul,Beylikdüzü,Cumhuriyet Mahallesi,340000,110,100,2+1,4,2
+1244,İstanbul,Beylikdüzü,Cumhuriyet Mahallesi,439000,110,100,2+1,4,2
+1245,İstanbul,Beylikdüzü,Cumhuriyet Mahallesi,269999,130,120,2+1,0 (Yeni),Bahçe Katı
+1246,İstanbul,Beylikdüzü,Cumhuriyet Mahallesi,499999,120,110,2+1,0 (Yeni),2
+1247,İstanbul,Bahçelievler,Şirinevler Mahallesi,2325000,220,205,5+2,4,Çatı Dubleks
+1248,İstanbul,Esenyurt,Cumhuriyet Mahallesi,739000,115,102,2+1,0 (Yeni),2
+1249,İstanbul,Beylikdüzü,Cumhuriyet Mahallesi,539999,100,95,2+1,0 (Yeni),Yüksek Giriş
+1250,İstanbul,Bahçelievler,Siyavuşpaşa Mahallesi,615000,100,87,2+1,21 Ve Üzeri,5
+1251,İstanbul,Beylikdüzü,Yakuplu Mahallesi,889000,110,90,2+1,0 (Yeni),2
+1252,İstanbul,Küçükçekmece,Yeşilova Mahallesi,610000,135,120,3+1,16-20,1
+1253,İstanbul,Bahçelievler,Şirinevler Mahallesi,1250000,210,200,5+2,21 Ve Üzeri,Çatı Dubleks
+1254,İstanbul,Küçükçekmece,Halkalı Merkez Mahallesi,1600000,141,95,3+1,4,10
+1255,İstanbul,Beylikdüzü,Adnan Kahveci Mahallesi,1575000,140,125,2+1,5-10,Villa Tipi
+1256,İstanbul,Beykoz,Çubuklu Mahallesi,200000000,1500,1100,6+1,21 Ve Üzeri,Müstakil
+1257,İstanbul,Avcılar,Gümüşpala Mahallesi,495000,130,110,3+1,21 Ve Üzeri,2
+1258,İstanbul,Avcılar,Denizköşkler Mahallesi,390000,110,100,3+1,21 Ve Üzeri,1
+1259,İstanbul,Esenyurt,Çınar Mahallesi,450000,100,90,2+1,5-10,1
+1260,İstanbul,Beylikdüzü,Adnan Kahveci Mahallesi,1699000,270,250,5+2,0 (Yeni),4
+1261,İstanbul,Beylikdüzü,Cumhuriyet Mahallesi,749900,150,140,3+1,0 (Yeni),2
+1262,İstanbul,Beylikdüzü,Cumhuriyet Mahallesi,529900,120,105,2+1,0 (Yeni),1
+1263,İstanbul,Beylikdüzü,Adnan Kahveci Mahallesi,1434900,160,150,3+1,0 (Yeni),Yüksek Giriş
+1264,İstanbul,Beylikdüzü,Adnan Kahveci Mahallesi,800000,105,90,1+1,3,3
+1265,İstanbul,Beylikdüzü,Cumhuriyet Mahallesi,659000,140,120,3+1,0 (Yeni),1
+1266,İstanbul,Beylikdüzü,Cumhuriyet Mahallesi,439000,110,100,2+1,4,2
+1267,İstanbul,Fatih,Topkapı Mahallesi,870000,120,115,2+1,21 Ve Üzeri,4
+1268,İstanbul,Beylikdüzü,Cumhuriyet Mahallesi,1950000,165,136,3+1,21 Ve Üzeri,15
+1269,İstanbul,Beylikdüzü,Cumhuriyet Mahallesi,2750000,165,146,3+1,16-20,8
+1270,İstanbul,Çekmeköy,Güngören Mahallesi,1250000,127,105,3+1,11-15,1
+1271,İstanbul,Beylikdüzü,Cumhuriyet Mahallesi,739000,115,102,2+1,0 (Yeni),2
+1272,İstanbul,Beylikdüzü,Cumhuriyet Mahallesi,699000,146,120,3+1,0 (Yeni),1
+1273,İstanbul,Beylikdüzü,Cumhuriyet Mahallesi,340000,110,100,2+1,4,2
+1274,İstanbul,Beylikdüzü,Cumhuriyet Mahallesi,439000,110,100,2+1,4,2
+1275,İstanbul,Beylikdüzü,Cumhuriyet Mahallesi,269999,130,120,2+1,0 (Yeni),Bahçe Katı
+1276,İstanbul,Beylikdüzü,Cumhuriyet Mahallesi,499999,120,110,2+1,0 (Yeni),2
+1277,İstanbul,Bahçelievler,Şirinevler Mahallesi,2325000,220,205,5+2,4,Çatı Dubleks
+1278,İstanbul,Esenyurt,Cumhuriyet Mahallesi,739000,115,102,2+1,0 (Yeni),2
+1279,İstanbul,Beylikdüzü,Cumhuriyet Mahallesi,539999,100,95,2+1,0 (Yeni),Yüksek Giriş
+1280,İstanbul,Bahçelievler,Siyavuşpaşa Mahallesi,615000,100,87,2+1,21 Ve Üzeri,5
+1281,İstanbul,Beylikdüzü,Yakuplu Mahallesi,889000,110,90,2+1,0 (Yeni),2
+1282,İstanbul,Küçükçekmece,Yeşilova Mahallesi,610000,135,120,3+1,16-20,1
+1283,İstanbul,Bahçelievler,Şirinevler Mahallesi,1250000,210,200,5+2,21 Ve Üzeri,Çatı Dubleks
+1284,İstanbul,Küçükçekmece,Halkalı Merkez Mahallesi,1600000,141,95,3+1,4,10
+1285,İstanbul,Beylikdüzü,Adnan Kahveci Mahallesi,1575000,140,125,2+1,5-10,Villa Tipi
+1286,İstanbul,Beykoz,Çubuklu Mahallesi,200000000,1500,1100,6+1,21 Ve Üzeri,Müstakil
+1287,İstanbul,Avcılar,Gümüşpala Mahallesi,495000,130,110,3+1,21 Ve Üzeri,2
+1288,İstanbul,Avcılar,Denizköşkler Mahallesi,390000,110,100,3+1,21 Ve Üzeri,1
+1289,İstanbul,Esenyurt,Çınar Mahallesi,450000,100,90,2+1,5-10,1
+1290,İstanbul,Beylikdüzü,Adnan Kahveci Mahallesi,1699000,270,250,5+2,0 (Yeni),4
+1291,İstanbul,Beylikdüzü,Cumhuriyet Mahallesi,749900,150,140,3+1,0 (Yeni),2
+1292,İstanbul,Beylikdüzü,Cumhuriyet Mahallesi,529900,120,105,2+1,0 (Yeni),1
+1293,İstanbul,Beylikdüzü,Adnan Kahveci Mahallesi,1434900,160,150,3+1,0 (Yeni),Yüksek Giriş
+1294,İstanbul,Beylikdüzü,Adnan Kahveci Mahallesi,800000,105,90,1+1,3,3
+1295,İstanbul,Beylikdüzü,Cumhuriyet Mahallesi,659000,140,120,3+1,0 (Yeni),1
+1296,İstanbul,Beylikdüzü,Cumhuriyet Mahallesi,439000,110,100,2+1,4,2
+1297,İstanbul,Fatih,Topkapı Mahallesi,870000,120,115,2+1,21 Ve Üzeri,4
+1298,İstanbul,Beylikdüzü,Cumhuriyet Mahallesi,1950000,165,136,3+1,21 Ve Üzeri,15
+1299,İstanbul,Beylikdüzü,Cumhuriyet Mahallesi,2750000,165,146,3+1,16-20,8
+1300,İstanbul,Çekmeköy,Güngören Mahallesi,1250000,127,105,3+1,11-15,1
+1301,İstanbul,Beylikdüzü,Cumhuriyet Mahallesi,739000,115,102,2+1,0 (Yeni),2
+1302,İstanbul,Beylikdüzü,Cumhuriyet Mahallesi,699000,146,120,3+1,0 (Yeni),1
+1303,İstanbul,Beylikdüzü,Cumhuriyet Mahallesi,340000,110,100,2+1,4,2
+1304,İstanbul,Beylikdüzü,Cumhuriyet Mahallesi,439000,110,100,2+1,4,2
+1305,İstanbul,Beylikdüzü,Cumhuriyet Mahallesi,269999,130,120,2+1,0 (Yeni),Bahçe Katı
+1306,İstanbul,Beylikdüzü,Cumhuriyet Mahallesi,499999,120,110,2+1,0 (Yeni),2
+1307,İstanbul,Bahçelievler,Şirinevler Mahallesi,2325000,220,205,5+2,4,Çatı Dubleks
+1308,İstanbul,Esenyurt,Cumhuriyet Mahallesi,739000,115,102,2+1,0 (Yeni),2
+1309,İstanbul,Beylikdüzü,Cumhuriyet Mahallesi,539999,100,95,2+1,0 (Yeni),Yüksek Giriş
+1310,İstanbul,Bahçelievler,Siyavuşpaşa Mahallesi,615000,100,87,2+1,21 Ve Üzeri,5
+1311,İstanbul,Beylikdüzü,Yakuplu Mahallesi,889000,110,90,2+1,0 (Yeni),2
+1312,İstanbul,Küçükçekmece,Yeşilova Mahallesi,610000,135,120,3+1,16-20,1
+1313,İstanbul,Bahçelievler,Şirinevler Mahallesi,1250000,210,200,5+2,21 Ve Üzeri,Çatı Dubleks
+1314,İstanbul,Küçükçekmece,Halkalı Merkez Mahallesi,1600000,141,95,3+1,4,10
+1315,İstanbul,Beylikdüzü,Adnan Kahveci Mahallesi,1575000,140,125,2+1,5-10,Villa Tipi
+1316,İstanbul,Beykoz,Çubuklu Mahallesi,200000000,1500,1100,6+1,21 Ve Üzeri,Müstakil
+1317,İstanbul,Avcılar,Gümüşpala Mahallesi,495000,130,110,3+1,21 Ve Üzeri,2
+1318,İstanbul,Avcılar,Denizköşkler Mahallesi,390000,110,100,3+1,21 Ve Üzeri,1
+1319,İstanbul,Esenyurt,Çınar Mahallesi,450000,100,90,2+1,5-10,1
+1320,İstanbul,Beylikdüzü,Adnan Kahveci Mahallesi,1699000,270,250,5+2,0 (Yeni),4
+1321,İstanbul,Beylikdüzü,Cumhuriyet Mahallesi,749900,150,140,3+1,0 (Yeni),2
+1322,İstanbul,Beylikdüzü,Cumhuriyet Mahallesi,529900,120,105,2+1,0 (Yeni),1
+1323,İstanbul,Beylikdüzü,Adnan Kahveci Mahallesi,1434900,160,150,3+1,0 (Yeni),Yüksek Giriş
+1324,İstanbul,Beylikdüzü,Adnan Kahveci Mahallesi,800000,105,90,1+1,3,3
+1325,İstanbul,Beylikdüzü,Cumhuriyet Mahallesi,659000,140,120,3+1,0 (Yeni),1
+1326,İstanbul,Beylikdüzü,Cumhuriyet Mahallesi,439000,110,100,2+1,4,2
+1327,İstanbul,Fatih,Topkapı Mahallesi,870000,120,115,2+1,21 Ve Üzeri,4
+1328,İstanbul,Beylikdüzü,Cumhuriyet Mahallesi,1950000,165,136,3+1,21 Ve Üzeri,15
+1329,İstanbul,Beylikdüzü,Cumhuriyet Mahallesi,2750000,165,146,3+1,16-20,8
+1330,İstanbul,Çekmeköy,Güngören Mahallesi,1250000,127,105,3+1,11-15,1
+1331,İstanbul,Beylikdüzü,Cumhuriyet Mahallesi,739000,115,102,2+1,0 (Yeni),2
+1332,İstanbul,Beylikdüzü,Cumhuriyet Mahallesi,699000,146,120,3+1,0 (Yeni),1
+1333,İstanbul,Beylikdüzü,Cumhuriyet Mahallesi,340000,110,100,2+1,4,2
+1334,İstanbul,Beylikdüzü,Cumhuriyet Mahallesi,439000,110,100,2+1,4,2
+1335,İstanbul,Beylikdüzü,Cumhuriyet Mahallesi,269999,130,120,2+1,0 (Yeni),Bahçe Katı
+1336,İstanbul,Beylikdüzü,Cumhuriyet Mahallesi,499999,120,110,2+1,0 (Yeni),2
+1337,İstanbul,Bahçelievler,Şirinevler Mahallesi,2325000,220,205,5+2,4,Çatı Dubleks
+1338,İstanbul,Esenyurt,Cumhuriyet Mahallesi,739000,115,102,2+1,0 (Yeni),2
+1339,İstanbul,Beylikdüzü,Cumhuriyet Mahallesi,539999,100,95,2+1,0 (Yeni),Yüksek Giriş
+1340,İstanbul,Bahçelievler,Siyavuşpaşa Mahallesi,615000,100,87,2+1,21 Ve Üzeri,5
+1341,İstanbul,Beylikdüzü,Yakuplu Mahallesi,889000,110,90,2+1,0 (Yeni),2
+1342,İstanbul,Küçükçekmece,Yeşilova Mahallesi,610000,135,120,3+1,16-20,1
+1343,İstanbul,Bahçelievler,Şirinevler Mahallesi,1250000,210,200,5+2,21 Ve Üzeri,Çatı Dubleks
+1344,İstanbul,Küçükçekmece,Halkalı Merkez Mahallesi,1600000,141,95,3+1,4,10
+1345,İstanbul,Beylikdüzü,Adnan Kahveci Mahallesi,1575000,140,125,2+1,5-10,Villa Tipi
+1346,İstanbul,Beykoz,Çubuklu Mahallesi,200000000,1500,1100,6+1,21 Ve Üzeri,Müstakil
+1347,İstanbul,Avcılar,Gümüşpala Mahallesi,495000,130,110,3+1,21 Ve Üzeri,2
+1348,İstanbul,Avcılar,Denizköşkler Mahallesi,390000,110,100,3+1,21 Ve Üzeri,1
+1349,İstanbul,Esenyurt,Çınar Mahallesi,450000,100,90,2+1,5-10,1
+1350,İstanbul,Beylikdüzü,Adnan Kahveci Mahallesi,1699000,270,250,5+2,0 (Yeni),4
+1351,İstanbul,Beylikdüzü,Cumhuriyet Mahallesi,749900,150,140,3+1,0 (Yeni),2
+1352,İstanbul,Beylikdüzü,Cumhuriyet Mahallesi,529900,120,105,2+1,0 (Yeni),1
+1353,İstanbul,Beylikdüzü,Adnan Kahveci Mahallesi,1434900,160,150,3+1,0 (Yeni),Yüksek Giriş
+1354,İstanbul,Beylikdüzü,Adnan Kahveci Mahallesi,800000,105,90,1+1,3,3
+1355,İstanbul,Beylikdüzü,Cumhuriyet Mahallesi,659000,140,120,3+1,0 (Yeni),1
+1356,İstanbul,Beylikdüzü,Cumhuriyet Mahallesi,439000,110,100,2+1,4,2
+1357,İstanbul,Fatih,Topkapı Mahallesi,870000,120,115,2+1,21 Ve Üzeri,4
+1358,İstanbul,Beylikdüzü,Cumhuriyet Mahallesi,1950000,165,136,3+1,21 Ve Üzeri,15
+1359,İstanbul,Beylikdüzü,Cumhuriyet Mahallesi,2750000,165,146,3+1,16-20,8
+1360,İstanbul,Çekmeköy,Güngören Mahallesi,1250000,127,105,3+1,11-15,1
+1361,İstanbul,Beylikdüzü,Cumhuriyet Mahallesi,739000,115,102,2+1,0 (Yeni),2
+1362,İstanbul,Beylikdüzü,Cumhuriyet Mahallesi,699000,146,120,3+1,0 (Yeni),1
+1363,İstanbul,Beylikdüzü,Cumhuriyet Mahallesi,340000,110,100,2+1,4,2
+1364,İstanbul,Beylikdüzü,Cumhuriyet Mahallesi,439000,110,100,2+1,4,2
+1365,İstanbul,Beylikdüzü,Cumhuriyet Mahallesi,269999,130,120,2+1,0 (Yeni),Bahçe Katı
+1366,İstanbul,Beylikdüzü,Cumhuriyet Mahallesi,499999,120,110,2+1,0 (Yeni),2
+1367,İstanbul,Bahçelievler,Şirinevler Mahallesi,2325000,220,205,5+2,4,Çatı Dubleks
+1368,İstanbul,Esenyurt,Cumhuriyet Mahallesi,739000,115,102,2+1,0 (Yeni),2
+1369,İstanbul,Beylikdüzü,Cumhuriyet Mahallesi,539999,100,95,2+1,0 (Yeni),Yüksek Giriş
+1370,İstanbul,Bahçelievler,Siyavuşpaşa Mahallesi,615000,100,87,2+1,21 Ve Üzeri,5
+1371,İstanbul,Beylikdüzü,Yakuplu Mahallesi,889000,110,90,2+1,0 (Yeni),2
+1372,İstanbul,Küçükçekmece,Yeşilova Mahallesi,610000,135,120,3+1,16-20,1
+1373,İstanbul,Bahçelievler,Şirinevler Mahallesi,1250000,210,200,5+2,21 Ve Üzeri,Çatı Dubleks
+1374,İstanbul,Küçükçekmece,Halkalı Merkez Mahallesi,1600000,141,95,3+1,4,10
+1375,İstanbul,Beylikdüzü,Adnan Kahveci Mahallesi,1575000,140,125,2+1,5-10,Villa Tipi
+1376,İstanbul,Beykoz,Çubuklu Mahallesi,200000000,1500,1100,6+1,21 Ve Üzeri,Müstakil
+1377,İstanbul,Avcılar,Gümüşpala Mahallesi,495000,130,110,3+1,21 Ve Üzeri,2
+1378,İstanbul,Avcılar,Denizköşkler Mahallesi,390000,110,100,3+1,21 Ve Üzeri,1
+1379,İstanbul,Esenyurt,Çınar Mahallesi,450000,100,90,2+1,5-10,1
+1380,İstanbul,Beylikdüzü,Adnan Kahveci Mahallesi,1699000,270,250,5+2,0 (Yeni),4
+1381,İstanbul,Beylikdüzü,Cumhuriyet Mahallesi,749900,150,140,3+1,0 (Yeni),2
+1382,İstanbul,Beylikdüzü,Cumhuriyet Mahallesi,529900,120,105,2+1,0 (Yeni),1
+1383,İstanbul,Beylikdüzü,Adnan Kahveci Mahallesi,1434900,160,150,3+1,0 (Yeni),Yüksek Giriş
+1384,İstanbul,Beylikdüzü,Adnan Kahveci Mahallesi,800000,105,90,1+1,3,3
+1385,İstanbul,Beylikdüzü,Cumhuriyet Mahallesi,659000,140,120,3+1,0 (Yeni),1
+1386,İstanbul,Beylikdüzü,Cumhuriyet Mahallesi,439000,110,100,2+1,4,2
+1387,İstanbul,Fatih,Topkapı Mahallesi,870000,120,115,2+1,21 Ve Üzeri,4
+1388,İstanbul,Beylikdüzü,Cumhuriyet Mahallesi,1950000,165,136,3+1,21 Ve Üzeri,15
+1389,İstanbul,Beylikdüzü,Cumhuriyet Mahallesi,2750000,165,146,3+1,16-20,8
+1390,İstanbul,Çekmeköy,Güngören Mahallesi,1250000,127,105,3+1,11-15,1
+1391,İstanbul,Beylikdüzü,Cumhuriyet Mahallesi,739000,115,102,2+1,0 (Yeni),2
+1392,İstanbul,Beylikdüzü,Cumhuriyet Mahallesi,699000,146,120,3+1,0 (Yeni),1
+1393,İstanbul,Beylikdüzü,Cumhuriyet Mahallesi,340000,110,100,2+1,4,2
+1394,İstanbul,Beylikdüzü,Cumhuriyet Mahallesi,439000,110,100,2+1,4,2
+1395,İstanbul,Beylikdüzü,Cumhuriyet Mahallesi,269999,130,120,2+1,0 (Yeni),Bahçe Katı
+1396,İstanbul,Beylikdüzü,Cumhuriyet Mahallesi,499999,120,110,2+1,0 (Yeni),2
+1397,İstanbul,Bahçelievler,Şirinevler Mahallesi,2325000,220,205,5+2,4,Çatı Dubleks
+1398,İstanbul,Esenyurt,Cumhuriyet Mahallesi,739000,115,102,2+1,0 (Yeni),2
+1399,İstanbul,Beylikdüzü,Cumhuriyet Mahallesi,539999,100,95,2+1,0 (Yeni),Yüksek Giriş
+1400,İstanbul,Bahçelievler,Siyavuşpaşa Mahallesi,615000,100,87,2+1,21 Ve Üzeri,5
+1401,İstanbul,Beylikdüzü,Yakuplu Mahallesi,889000,110,90,2+1,0 (Yeni),2
+1402,İstanbul,Küçükçekmece,Yeşilova Mahallesi,610000,135,120,3+1,16-20,1
+1403,İstanbul,Bahçelievler,Şirinevler Mahallesi,1250000,210,200,5+2,21 Ve Üzeri,Çatı Dubleks
+1404,İstanbul,Küçükçekmece,Halkalı Merkez Mahallesi,1600000,141,95,3+1,4,10
+1405,İstanbul,Beylikdüzü,Adnan Kahveci Mahallesi,1575000,140,125,2+1,5-10,Villa Tipi
+1406,İstanbul,Beykoz,Çubuklu Mahallesi,200000000,1500,1100,6+1,21 Ve Üzeri,Müstakil
+1407,İstanbul,Avcılar,Gümüşpala Mahallesi,495000,130,110,3+1,21 Ve Üzeri,2
+1408,İstanbul,Avcılar,Denizköşkler Mahallesi,390000,110,100,3+1,21 Ve Üzeri,1
+1409,İstanbul,Esenyurt,Çınar Mahallesi,450000,100,90,2+1,5-10,1
